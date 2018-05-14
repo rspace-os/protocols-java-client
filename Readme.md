@@ -21,6 +21,7 @@ See [TestP_io.java JUnit Test](src/test/java/com/researchspace/protocolsio/TestP
 - Lombok - used for POJO classes
 - Jackson - used for marshalling/unmarshalling annotations
 - Apache Commons IO/Lang - utilities.
+- JUnit 5
 
 ### Building
 
