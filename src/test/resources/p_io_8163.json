@@ -1,0 +1,726 @@
+ {
+    "id": 8163,
+    "title": "Western blot",
+    "image": {
+      "source": "https:\/\/s3.amazonaws.com\/pr-journal\/n9jhxvw.jpg",
+      "placeholder": "https:\/\/s3.amazonaws.com\/pr-journal\/n9jhxvw.jpg"
+    },
+    "doi": "dx.doi.org\/10.17504\/protocols.io.j8bcrsn",
+    "uri": "western-blot-j8bcrsn",
+    "published_on": 1507386557,
+    "version_id": 0,
+    "created_on": 1507385111,
+    "categories": null,
+    "creator": {
+      "name": "Laura Ruiz Remolina",
+      "affiliation": null,
+      "username": "laura-ruiz-remolina",
+      "link": "https:\/\/doi.org\/10.1371\/journal.pone.0188204",
+      "image": {
+        "source": "\/img\/avatars\/016.png",
+        "placeholder": "\/img\/avatars\/016.png"
+      }
+    },
+    "public": 1,
+    "has_versions": 1,
+    "link": "https:\/\/doi.org\/10.1371\/journal.pone.0188204",
+    "number_of_steps": 11,
+    "authors": [
+      {
+        "name": "Laura Ruiz Remolina",
+        "affiliation": "Salamanca University (USAL), Spain",
+        "username": "laura-ruiz-remolina",
+        "link": null,
+        "image": {
+          "source": "\/img\/avatars\/016.png",
+          "placeholder": "\/img\/avatars\/016.png"
+        }
+      }
+    ],
+    "versions": [
+      
+    ],
+    "steps": [
+      {
+        "id": 589929,
+        "guid": "614CB4BACAD0415BB9D94258D78D2ED5",
+        "previous_id": 0,
+        "previous_guid": null,
+        "modified_on": 1507386535,
+        "components": [
+          {
+            "id": 1010432,
+            "guid": "92D7C1EB119640B088C797594FCD3E20",
+            "order_id": 0,
+            "type_id": 1,
+            "title": "Description",
+            "source": {
+              "description": ""
+            }
+          },
+          {
+            "id": 1010433,
+            "guid": "6C1CC3F13F5B4409A811A9D943297505",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "\u2022\tPreparation of lysate from tissue\uff1bRemove a small volume of lysate to perform a protein quantification assay (with DC protein assay, BIO-RAD). Determine the protein concentration for each tissue lysate."
+            }
+          }
+        ]
+      },
+      {
+        "id": 589930,
+        "guid": "45DF5E7D7D54418C9E55E90755BC0085",
+        "previous_id": 589929,
+        "previous_guid": "614CB4BACAD0415BB9D94258D78D2ED5",
+        "modified_on": 1507386545,
+        "components": [
+          {
+            "id": 1010434,
+            "guid": "15BC93C452684999B0778AC7E32EE694",
+            "order_id": 0,
+            "type_id": 1,
+            "title": "Description",
+            "source": {
+              "description": ""
+            }
+          },
+          {
+            "id": 1010435,
+            "guid": "68DC624C8950490289BFF02DE400871E",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Load equal amounts of protein into the wells of the SDS -PAGE gel, along with molecular weight marker\uff0c 60 ug total proteins per pore\uff0cRun the gel for 90min at 100 V\uff09\u3002Gel percentage \uff1aseparation gel 10%\uff1bspacer gel 5%."
+            }
+          }
+        ]
+      },
+      {
+        "id": 589931,
+        "guid": "84EBC0AF71AD4827A03F9ACAA3651B86",
+        "previous_id": 589930,
+        "previous_guid": "45DF5E7D7D54418C9E55E90755BC0085",
+        "modified_on": 1507386550,
+        "components": [
+          {
+            "id": 1010436,
+            "guid": "A27A6FA447434149A5074119033835BE",
+            "order_id": 0,
+            "type_id": 1,
+            "title": "Description",
+            "source": {
+              "description": ""
+            }
+          },
+          {
+            "id": 1010437,
+            "guid": "5C6FF2269CAF47998F842802070B93E5",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Activate PVDF with methanol for 1 min and rinse with transfer buffer before preparing the stack\u3002Run at 100 V for 90min."
+            }
+          }
+        ]
+      },
+      {
+        "id": 589932,
+        "guid": "C041519912D546EDA3701B9448541D50",
+        "previous_id": 589931,
+        "previous_guid": "84EBC0AF71AD4827A03F9ACAA3651B86",
+        "modified_on": 1507386557,
+        "components": [
+          {
+            "id": 1010438,
+            "guid": "199C5D90E443470980346D1B478107F8",
+            "order_id": 0,
+            "type_id": 1,
+            "title": "Description",
+            "source": {
+              "description": ""
+            }
+          },
+          {
+            "id": 1010439,
+            "guid": "48B7B40B9CDA4EEFAE514A1A349507AA",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "\u2022\tWash the membrane in three washes of TBST\uff085 percent skimmed milk powder\uff095 min each"
+            }
+          }
+        ]
+      },
+      {
+        "id": 589933,
+        "guid": "71A983580B2F4FB29971AEAFC57C196F",
+        "previous_id": 589932,
+        "previous_guid": "C041519912D546EDA3701B9448541D50",
+        "modified_on": 1507386566,
+        "components": [
+          {
+            "id": 1010440,
+            "guid": "C385B6916F274249902A874C148CD43D",
+            "order_id": 0,
+            "type_id": 1,
+            "title": "Description",
+            "source": {
+              "description": ""
+            }
+          },
+          {
+            "id": 1010441,
+            "guid": "3758AB9D12E54BC4B692238821318108",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Block the membrane 4 hours in BSA 5%. Wash the membrane in 3 washes of TBST, 5 min each."
+            }
+          }
+        ]
+      },
+      {
+        "id": 589934,
+        "guid": "DA47B992F98D4C32937177219EDD30DB",
+        "previous_id": 589933,
+        "previous_guid": "71A983580B2F4FB29971AEAFC57C196F",
+        "modified_on": 1507386575,
+        "components": [
+          {
+            "id": 1010442,
+            "guid": "2A0957089AAA42C586F6DA6EAB2FDB3A",
+            "order_id": 0,
+            "type_id": 1,
+            "title": "Description",
+            "source": {
+              "description": ""
+            }
+          },
+          {
+            "id": 1010443,
+            "guid": "22E5C4CAF4ED4782882BA9F9F1155F21",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Wash 3 times, 5 minutes each"
+            }
+          }
+        ]
+      },
+      {
+        "id": 589935,
+        "guid": "B7F76A93BDDC49B088D1A6CEA4883D19",
+        "previous_id": 589934,
+        "previous_guid": "DA47B992F98D4C32937177219EDD30DB",
+        "modified_on": 1507386580,
+        "components": [
+          {
+            "id": 1010444,
+            "guid": "5EF050B5FE0B4475B6385B42B2ACDE5C",
+            "order_id": 0,
+            "type_id": 1,
+            "title": "Description",
+            "source": {
+              "description": ""
+            }
+          },
+          {
+            "id": 1010445,
+            "guid": "1CA3005FCC994BCA96CDF96B24A7D07E",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Incubate the membrane with the primary antibody diluted as the manufacter\u2019s instructions."
+            }
+          }
+        ]
+      },
+      {
+        "id": 589936,
+        "guid": "933D800F9E4E4F66AC881B5CF4619ED0",
+        "previous_id": 589935,
+        "previous_guid": "B7F76A93BDDC49B088D1A6CEA4883D19",
+        "modified_on": 1507386586,
+        "components": [
+          {
+            "id": 1010446,
+            "guid": "F62ACBB7C4024CC7A397AD5765ADB636",
+            "order_id": 0,
+            "type_id": 1,
+            "title": "Description",
+            "source": {
+              "description": ""
+            }
+          },
+          {
+            "id": 1010447,
+            "guid": "66634BB811D2453096252E906307EE9E",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Wash 3 times, 5 minutes each"
+            }
+          }
+        ]
+      },
+      {
+        "id": 589937,
+        "guid": "0C62D044F10544A89AC63E2A9E787D39",
+        "previous_id": 589936,
+        "previous_guid": "933D800F9E4E4F66AC881B5CF4619ED0",
+        "modified_on": 1507386592,
+        "components": [
+          {
+            "id": 1010448,
+            "guid": "CEDD8CA178E74B9396EFE3BA5E9C8049",
+            "order_id": 0,
+            "type_id": 1,
+            "title": "Description",
+            "source": {
+              "description": ""
+            }
+          },
+          {
+            "id": 1010449,
+            "guid": "0FA158603A0E401FBE39B8828D251737",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Incubate the membrane with the recommended dilution of conjugated secondary antibody in blocking buffer at room temperature for 1 h"
+            }
+          }
+        ]
+      },
+      {
+        "id": 589938,
+        "guid": "BB8E0DF72B46414E96B2D17B195D212B",
+        "previous_id": 589937,
+        "previous_guid": "0C62D044F10544A89AC63E2A9E787D39",
+        "modified_on": 1507386598,
+        "components": [
+          {
+            "id": 1010450,
+            "guid": "1DD106BEB6974CC2B8C2D673E7E3826C",
+            "order_id": 0,
+            "type_id": 1,
+            "title": "Description",
+            "source": {
+              "description": ""
+            }
+          },
+          {
+            "id": 1010451,
+            "guid": "823DB8A8BA98438387B967B5BC5A12A9",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": ". Wash the membrane in 3 washes of TBST, 5 min each"
+            }
+          }
+        ]
+      },
+      {
+        "id": 589939,
+        "guid": "978D4C37282641BC9563A4C2024CFE61",
+        "previous_id": 589938,
+        "previous_guid": "BB8E0DF72B46414E96B2D17B195D212B",
+        "modified_on": 1507386605,
+        "components": [
+          {
+            "id": 1010452,
+            "guid": "227533C25B384828AB23D7F8D2A847FA",
+            "order_id": 0,
+            "type_id": 1,
+            "title": "Description",
+            "source": {
+              "description": ""
+            }
+          },
+          {
+            "id": 1010453,
+            "guid": "80DF48CF7DC440A9B55567F6E5852669",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Acquire image using normal image scanning methods for colorimetric detection.\uff09"
+            }
+          }
+        ]
+      }
+    ],
+    "materials": [
+      {
+        "id": 46450,
+        "mol_weight": 0,
+        "name": "Phosphatase inhibitor PhosSTOP",
+        "linfor": "",
+        "url": "",
+        "sku": "04 906 837",
+        "vendor": {
+          "name": "Roche",
+          "affiliation": null,
+          "username": null,
+          "link": "http:\/\/www.roche.com\/",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46451,
+        "mol_weight": 0,
+        "name": "Proteases inhibitor Complete",
+        "linfor": "",
+        "url": "",
+        "sku": "11 697 498",
+        "vendor": {
+          "name": "Roche",
+          "affiliation": null,
+          "username": null,
+          "link": "http:\/\/www.roche.com\/",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46452,
+        "mol_weight": 0,
+        "name": "DC protein assay",
+        "linfor": "",
+        "url": "",
+        "sku": "5000112",
+        "vendor": {
+          "name": "BIO-RAD",
+          "affiliation": null,
+          "username": null,
+          "link": "http:\/\/www.bio-rad.com\/?WT.srch=1&WT.mc_id=aw-corp-EU-brand&WT.knsh_id=84b75c7e-4b81-49f3-ad2f-7e4160da2b56",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46453,
+        "mol_weight": 0,
+        "name": "BSA",
+        "linfor": "",
+        "url": "",
+        "sku": "A7906",
+        "vendor": {
+          "name": "Sigma Aldrich",
+          "affiliation": null,
+          "username": null,
+          "link": "http:\/\/sigmaaldrich.com",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46454,
+        "mol_weight": 0,
+        "name": "Acrilamide",
+        "linfor": "",
+        "url": "",
+        "sku": "161-0107",
+        "vendor": {
+          "name": "BIO-RAD",
+          "affiliation": null,
+          "username": null,
+          "link": "http:\/\/www.bio-rad.com\/?WT.srch=1&WT.mc_id=aw-corp-EU-brand&WT.knsh_id=84b75c7e-4b81-49f3-ad2f-7e4160da2b56",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46455,
+        "mol_weight": 0,
+        "name": "2-mercaptoethanol",
+        "linfor": "",
+        "url": "",
+        "sku": "M-6250",
+        "vendor": {
+          "name": "Sigma-aldrich",
+          "affiliation": null,
+          "username": null,
+          "link": "https:\/\/www.sigmaaldrich.com\/",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46456,
+        "mol_weight": 0,
+        "name": "APS",
+        "linfor": "",
+        "url": "",
+        "sku": "A-3678",
+        "vendor": {
+          "name": "Sigma Aldrich",
+          "affiliation": null,
+          "username": null,
+          "link": "http:\/\/sigmaaldrich.com",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46457,
+        "mol_weight": 0,
+        "name": "Bisacrilamide",
+        "linfor": "",
+        "url": "",
+        "sku": "161-0201",
+        "vendor": {
+          "name": "BIO-RAD",
+          "affiliation": null,
+          "username": null,
+          "link": "http:\/\/www.bio-rad.com\/?WT.srch=1&WT.mc_id=aw-corp-EU-brand&WT.knsh_id=84b75c7e-4b81-49f3-ad2f-7e4160da2b56",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46458,
+        "mol_weight": 0,
+        "name": "H2O2",
+        "linfor": "",
+        "url": "",
+        "sku": "8597",
+        "vendor": {
+          "name": "Merck Millipore",
+          "affiliation": null,
+          "username": null,
+          "link": "http:\/\/www.merckmillipore.com",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46459,
+        "mol_weight": 0,
+        "name": "Iodophenol",
+        "linfor": "",
+        "url": "",
+        "sku": "I1020-1",
+        "vendor": {
+          "name": "Sigma-aldrich",
+          "affiliation": null,
+          "username": null,
+          "link": "https:\/\/www.sigmaaldrich.com\/",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46460,
+        "mol_weight": 0,
+        "name": "Glicerol",
+        "linfor": "",
+        "url": "",
+        "sku": "4095",
+        "vendor": {
+          "name": "Merck Millipore",
+          "affiliation": null,
+          "username": null,
+          "link": "http:\/\/www.merckmillipore.com",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46461,
+        "mol_weight": 0,
+        "name": "Glycine",
+        "linfor": "",
+        "url": "",
+        "sku": "161-0724",
+        "vendor": {
+          "name": "BIO-RAD",
+          "affiliation": null,
+          "username": null,
+          "link": "http:\/\/www.bio-rad.com\/?WT.srch=1&WT.mc_id=aw-corp-EU-brand&WT.knsh_id=84b75c7e-4b81-49f3-ad2f-7e4160da2b56",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46462,
+        "mol_weight": 0,
+        "name": "HCl",
+        "linfor": "",
+        "url": "",
+        "sku": "20248.295",
+        "vendor": {
+          "name": "Contributed by users",
+          "affiliation": null,
+          "username": null,
+          "link": "https:\/\/www.protocols.io",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/1.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/1.png"
+          }
+        }
+      },
+      {
+        "id": 46463,
+        "mol_weight": 0,
+        "name": "Luminol",
+        "linfor": "",
+        "url": "",
+        "sku": "A-8511",
+        "vendor": {
+          "name": "Sigma-aldrich",
+          "affiliation": null,
+          "username": null,
+          "link": "https:\/\/www.sigmaaldrich.com\/",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46464,
+        "mol_weight": 0,
+        "name": "PVDF membranes",
+        "linfor": "",
+        "url": "",
+        "sku": "#66543",
+        "vendor": {
+          "name": "Contributed by users",
+          "affiliation": null,
+          "username": null,
+          "link": "https:\/\/www.protocols.io",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/1.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/1.png"
+          }
+        }
+      },
+      {
+        "id": 46465,
+        "mol_weight": 0,
+        "name": "Methanol",
+        "linfor": "",
+        "url": "",
+        "sku": "141091.1214",
+        "vendor": {
+          "name": "Contributed by users",
+          "affiliation": null,
+          "username": null,
+          "link": "https:\/\/www.protocols.io",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/1.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/1.png"
+          }
+        }
+      },
+      {
+        "id": 46466,
+        "mol_weight": 0,
+        "name": "NaCl",
+        "linfor": "",
+        "url": "",
+        "sku": "S-3014",
+        "vendor": {
+          "name": "Sigma-aldrich",
+          "affiliation": null,
+          "username": null,
+          "link": "https:\/\/www.sigmaaldrich.com\/",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46467,
+        "mol_weight": 0,
+        "name": "TEMED (Tetramethyl-ethulenediamine)",
+        "linfor": "",
+        "url": "",
+        "sku": "T9281",
+        "vendor": {
+          "name": "Sigma-aldrich",
+          "affiliation": null,
+          "username": null,
+          "link": "https:\/\/www.sigmaaldrich.com\/",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46468,
+        "mol_weight": 0,
+        "name": "SDS",
+        "linfor": "",
+        "url": "",
+        "sku": "161-0302",
+        "vendor": {
+          "name": "BIO-RAD",
+          "affiliation": null,
+          "username": null,
+          "link": "http:\/\/www.bio-rad.com\/?WT.srch=1&WT.mc_id=aw-corp-EU-brand&WT.knsh_id=84b75c7e-4b81-49f3-ad2f-7e4160da2b56",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      },
+      {
+        "id": 46469,
+        "mol_weight": 0,
+        "name": "Tween-20",
+        "linfor": "",
+        "url": "",
+        "sku": "P-7949",
+        "vendor": {
+          "name": "Sigma-aldrich",
+          "affiliation": null,
+          "username": null,
+          "link": "https:\/\/www.sigmaaldrich.com\/",
+          "image": {
+            "source": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+          }
+        }
+      }
+    ]
+  }
