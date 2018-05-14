@@ -21,3 +21,11 @@ See [TestP_io.java JUnit Test](src/test/java/com/researchspace/protocolsio/TestP
 - Lombok - used for POJO classes
 - Jackson - used for marshalling/unmarshalling annotations
 - Apache Commons IO/Lang - utilities.
+
+### Building
+
+Standard Maven commands will build, test and package this library as a jar file, e.g.
+    
+    mvn clean package
+    
+If you want to use this library as a dependency in your own project, then consider using [Jitpack](https://jitpack.io/) to build and host an online Maven repo containing this library.
