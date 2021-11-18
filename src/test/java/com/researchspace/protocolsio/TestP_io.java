@@ -8,6 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import java.io.File;
 import java.io.IOException;
 
+import com.fasterxml.jackson.databind.DeserializationFeature;
 import org.apache.commons.io.FileUtils;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
@@ -25,6 +26,7 @@ public class TestP_io {
 	File reagentComponent = new File("src/test/resources/reagent.json");
 	File protocolComponent = new File("src/test/resources/protocolComponent.json");
 	File allComponent = new File("src/test/resources/allComponentExamples.json");
+	File unknownComponent = new File("src/test/resources/unknown_component_id.json");
 
 	@BeforeEach
 	public void setUp() throws Exception {
@@ -43,7 +45,6 @@ public class TestP_io {
 	}
 
 	@Test
-	
 	public void testProtocolComponent() throws IOException {
 		String json = readFile(protocolComponent);
 		ProtocolComponent title = parseJson(json, ProtocolComponent.class);
@@ -83,13 +84,22 @@ public class TestP_io {
 		assertEquals(1, protocol.getVersions().size());
 	}
 
+	@Test
+	@DisplayName("Handles unknown component types")
+	public void unknownStepComponent() throws IOException {
+		String json = readFile(unknownComponent);
+		Protocol protocol = parseJson(json, Protocol.class);
+		PIOStep eightStep =  protocol.getSteps().get(8);
+		PIOStepComponent centrifugeStep = eightStep.getComponents().get(4);
+		assertEquals("centrifuge", centrifugeStep.getTitle());
+	}
+
 	private String readFile(File jsonFile) throws IOException {
 		return FileUtils.readFileToString(jsonFile, "UTF-8");
 	}
 
 	private <T> T parseJson(String json, Class<T> clazz) throws IOException, JsonParseException, JsonMappingException {
-		ObjectMapper mapper = new ObjectMapper();
-		// .configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+		ObjectMapper mapper = new ObjectMapper().configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
 		T p = mapper.readValue(json, clazz);
 		return p;
 	}

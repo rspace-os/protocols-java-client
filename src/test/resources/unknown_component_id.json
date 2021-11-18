@@ -1,0 +1,2430 @@
+ {
+    "id": 35308,
+    "title": "        Amplification and Pooling ",
+    "title_html": "<p>        Amplification and Pooling </p>",
+    "image": {
+      "source": "https://s3.amazonaws.com/protocols-files/public/35e1e8b3a7ece03baf4ee15dad8927448593187ce9d4b85c92578f5e36659000/cbtd9fpe.png",
+      "placeholder": "https://s3.amazonaws.com/protocols-files/public/35e1e8b3a7ece03baf4ee15dad8927448593187ce9d4b85c92578f5e36659000/cbtd9fpe.png"
+    },
+    "doi": "dx.doi.org/10.17504/protocols.io.beqkjduw",
+    "doi_status": 2,
+    "uri": "amplification-and-pooling-beqkjduw",
+    "type_id": 1,
+    "template_id": 1,
+    "published_on": 1607689890,
+    "stats": {
+      "number_of_views": 234,
+      "number_of_steps": 17,
+      "number_of_bookmarks": 1,
+      "number_of_comments": 0,
+      "number_of_exports": 102,
+      "number_of_runs": 0,
+      "number_of_votes": 1,
+      "is_voted": 0
+    },
+    "parent_protocols": [],
+    "parent_collections": [
+      {
+        "id": 40942,
+        "title": "A-Z of ancient DNA protocols for shotgun Illumina Next Generation Sequencing",
+        "title_html": "<p>A-Z of ancient DNA protocols for shotgun Illumina Next Generation Sequencing</p>",
+        "image": {
+          "source": "https://s3.amazonaws.com/protocols-files/public/95ba4215cced856fae314ba2429e3e562674f480c97151a6c3c4eeed7d5b8a80/ctat4tj6.svg",
+          "placeholder": "https://s3.amazonaws.com/protocols-files/public/95ba4215cced856fae314ba2429e3e562674f480c97151a6c3c4eeed7d5b8a80/ctat4tj6.svg"
+        },
+        "uri": "a-z-of-ancient-dna-protocols-for-shotgun-illumina-bj8nkrve",
+        "type_id": 3,
+        "content_type_id": 1
+      },
+      {
+        "id": 45830,
+        "title": "Laboratory Protocols for Ancient and Modern Dental Calculus DNA Processing (Fellows Yates et al. 2021)",
+        "title_html": "<p>Laboratory Protocols for Ancient and Modern Dental Calculus DNA Processing (Fellows Yates et al. 2021)</p>",
+        "image": {
+          "source": "https://s3.amazonaws.com/protocols-files/files/ct734tj6.png",
+          "placeholder": "https://s3.amazonaws.com/protocols-files/files/ct734tj6.png"
+        },
+        "uri": "laboratory-protocols-for-ancient-and-modern-dental-bqzemx3e",
+        "type_id": 3,
+        "content_type_id": 1
+      },
+      {
+        "id": 46038,
+        "title": "Laboratory Protocols for Ancient and Modern Dental Calculus DNA Processing (Fellows Yates et al. 2021)",
+        "title_html": "<p>Laboratory Protocols for Ancient and Modern Dental Calculus DNA Processing (Fellows Yates et al. 2021)</p>",
+        "image": {
+          "source": "https://s3.amazonaws.com/protocols-files/files/ct734tj6.png",
+          "placeholder": "https://s3.amazonaws.com/protocols-files/files/ct734tj6.png"
+        },
+        "uri": "laboratory-protocols-for-ancient-and-modern-dental-bq7wmzpe",
+        "type_id": 3,
+        "content_type_id": 1
+      },
+      {
+        "id": 50785,
+        "title": "A-Z of ancient DNA protocols for shotgun Illumina Next Generation Sequencing",
+        "title_html": "<p>A-Z of ancient DNA protocols for shotgun Illumina Next Generation Sequencing</p>",
+        "image": {
+          "source": "https://s3.amazonaws.com/protocols-files/public/95ba4215cced856fae314ba2429e3e562674f480c97151a6c3c4eeed7d5b8a80/ctat4tj6.svg",
+          "placeholder": "https://s3.amazonaws.com/protocols-files/public/95ba4215cced856fae314ba2429e3e562674f480c97151a6c3c4eeed7d5b8a80/ctat4tj6.svg"
+        },
+        "uri": "a-z-of-ancient-dna-protocols-for-shotgun-illumina-bvt9n6r6",
+        "type_id": 3,
+        "content_type_id": 1
+      },
+      {
+        "id": 50786,
+        "title": "Laboratory Protocols for Ancient and Modern Dental Calculus DNA Processing (Fellows Yates et al. 2021)",
+        "title_html": "<p>Laboratory Protocols for Ancient and Modern Dental Calculus DNA Processing (Fellows Yates et al. 2021)</p>",
+        "image": {
+          "source": "https://s3.amazonaws.com/protocols-files/files/dtqn4tj6.jpg",
+          "placeholder": "https://s3.amazonaws.com/protocols-files/files/dtqn4tj6.jpg"
+        },
+        "uri": "laboratory-protocols-for-ancient-and-modern-dental-bvuan6se",
+        "type_id": 3,
+        "content_type_id": 1
+      }
+    ],
+    "cited_protocols": [],
+    "version_id": 0,
+    "version_data": {
+      "id": 0,
+      "code": "beqkjduw",
+      "parent_id": 0,
+      "parent_uri": null,
+      "has_pending_merge_request": 0,
+      "has_approved_merge_request": 0
+    },
+    "created_on": 1586240904,
+    "modified_on": null,
+    "categories": null,
+    "public": 1,
+    "is_unlisted": 0,
+    "creator": {
+      "name": " ",
+      "affiliation": null,
+      "affiliations": [],
+      "username": null,
+      "note": null,
+      "link": null,
+      "image": {
+        "source": null,
+        "placeholder": null
+      },
+      "badges": [],
+      "verified": 0,
+      "is_verified_user": false,
+      "research_interests": null,
+      "blocked_by_you": false,
+      "blocked_you": false,
+      "hide_following": false
+    },
+    "journal": null,
+    "journal_name": null,
+    "journal_link": null,
+    "article_citation": null,
+    "has_versions": 0,
+    "link": null,
+    "total_collections": 5,
+    "number_of_steps": 17,
+    "authors": [
+      {
+        "name": "Franziska Aron",
+        "affiliation": "Friedrich-Schiller Universität Jena",
+        "affiliations": [],
+        "username": "franziska-aron",
+        "note": null,
+        "link": null,
+        "image": {
+          "source": "https://s3.amazonaws.com/protocols-files/files/d92r9fpe.jpg",
+          "placeholder": "https://s3.amazonaws.com/protocols-files/files/d92r9fpe.jpg"
+        },
+        "badges": [],
+        "verified": 1,
+        "is_verified_user": true,
+        "research_interests": null,
+        "blocked_by_you": false,
+        "blocked_you": false,
+        "hide_following": false
+      },
+      {
+        "name": "Guido Brandt",
+        "affiliation": "Max Planck Institute for the Science of Human History",
+        "affiliations": [],
+        "username": "guido-brandt",
+        "note": null,
+        "link": null,
+        "image": {
+          "source": "/img/avatars/003.png",
+          "placeholder": "/img/avatars/003.png"
+        },
+        "badges": [],
+        "verified": 1,
+        "is_verified_user": true,
+        "research_interests": null,
+        "blocked_by_you": false,
+        "blocked_you": false,
+        "hide_following": false
+      }
+    ],
+    "versions": [],
+    "groups": [
+      {
+        "id": 1065,
+        "uri": "warinnergroup",
+        "title": "WarinnerGroup",
+        "image": {
+          "source": "https://s3.amazonaws.com/pr-journal/bcqva.jpg",
+          "placeholder": "https://s3.amazonaws.com/pr-journal/bcqva.jpg"
+        },
+        "tech_support": {
+          "email": null,
+          "phone": null,
+          "hide_contact": 0,
+          "use_email": 0,
+          "url": null
+        },
+        "is_member": 0,
+        "request": {
+          "id": 1065,
+          "uri": "warinnergroup",
+          "title": "WarinnerGroup",
+          "image": {
+            "source": "https://s3.amazonaws.com/pr-journal/bcqva.jpg",
+            "placeholder": "https://s3.amazonaws.com/pr-journal/bcqva.jpg"
+          },
+          "tech_support": {
+            "email": null,
+            "phone": null,
+            "hide_contact": 0,
+            "use_email": 0,
+            "url": null
+          },
+          "is_member": 0,
+          "description": null,
+          "research_interests": null,
+          "website": null,
+          "location": null,
+          "affiliation": null,
+          "status": {
+            "is_visible": true,
+            "access_level": 0
+          },
+          "stats": {
+            "files": [],
+            "total_members": 0,
+            "total_followers": 0,
+            "total_child_groups": 0,
+            "total_parent_groups": 0,
+            "has_collaborations": 0
+          },
+          "user_status": {
+            "is_member": false,
+            "is_confirmed": true,
+            "is_invited": false,
+            "is_owner": false,
+            "is_admin": false,
+            "is_following": false
+          },
+          "join_link": null,
+          "token": null,
+          "owner": {
+            "name": " ",
+            "affiliation": null,
+            "affiliations": [],
+            "username": null,
+            "note": null,
+            "link": null,
+            "image": {
+              "source": null,
+              "placeholder": null
+            },
+            "badges": [],
+            "verified": 0,
+            "is_verified_user": false,
+            "research_interests": null,
+            "blocked_by_you": false,
+            "blocked_you": false,
+            "hide_following": false
+          },
+          "is_protocol_requested": 0,
+          "is_group_requested": 0,
+          "is_my": false,
+          "is_request": false,
+          "is_confirmed": 1,
+          "is_declined": 0,
+          "requester": {
+            "name": " ",
+            "affiliation": null,
+            "affiliation_url": null,
+            "username": null,
+            "link": null
+          },
+          "protocol": {
+            "id": 0,
+            "title": "        Amplification and Pooling ",
+            "title_html": "        Amplification and Pooling ",
+            "image": {
+              "source": null,
+              "placeholder": null
+            },
+            "doi": null,
+            "doi_status": 0,
+            "uri": "amplification-and-pooling-beqkjduw",
+            "type_id": 1,
+            "template_id": 0,
+            "published_on": null,
+            "stats": {
+              "number_of_views": 0,
+              "number_of_steps": 0,
+              "number_of_bookmarks": 0,
+              "number_of_comments": 0,
+              "number_of_exports": 0,
+              "number_of_runs": 0,
+              "number_of_votes": 0,
+              "is_voted": 0
+            },
+            "parent_protocols": [],
+            "parent_collections": [],
+            "cited_protocols": []
+          },
+          "created_on": 1607689901,
+          "resolve_on": 0,
+          "resolved_user": {
+            "name": " ",
+            "affiliation": null,
+            "affiliations": [],
+            "username": null,
+            "note": null,
+            "link": null,
+            "image": {
+              "source": null,
+              "placeholder": null
+            },
+            "badges": [],
+            "verified": 0,
+            "is_verified_user": false,
+            "research_interests": null,
+            "blocked_by_you": false,
+            "blocked_you": false,
+            "hide_following": false
+          },
+          "shared": false
+        }
+      },
+      {
+        "id": 1735,
+        "uri": "mpieva-archaeogenetics",
+        "title": "MPI EVA Archaeogenetics",
+        "image": {
+          "source": "https://s3.amazonaws.com/protocols-files/files/d92n4tj6.jpg",
+          "placeholder": "https://s3.amazonaws.com/protocols-files/files/d92n4tj6.jpg"
+        },
+        "tech_support": {
+          "email": null,
+          "phone": null,
+          "hide_contact": 0,
+          "use_email": 0,
+          "url": null
+        },
+        "is_member": 0,
+        "request": {
+          "id": 1735,
+          "uri": "mpieva-archaeogenetics",
+          "title": "MPI EVA Archaeogenetics",
+          "image": {
+            "source": "https://s3.amazonaws.com/protocols-files/files/d92n4tj6.jpg",
+            "placeholder": "https://s3.amazonaws.com/protocols-files/files/d92n4tj6.jpg"
+          },
+          "tech_support": {
+            "email": null,
+            "phone": null,
+            "hide_contact": 0,
+            "use_email": 0,
+            "url": null
+          },
+          "is_member": 0,
+          "description": null,
+          "research_interests": null,
+          "website": null,
+          "location": null,
+          "affiliation": null,
+          "status": {
+            "is_visible": true,
+            "access_level": 0
+          },
+          "stats": {
+            "files": [],
+            "total_members": 0,
+            "total_followers": 0,
+            "total_child_groups": 0,
+            "total_parent_groups": 0,
+            "has_collaborations": 0
+          },
+          "user_status": {
+            "is_member": false,
+            "is_confirmed": true,
+            "is_invited": false,
+            "is_owner": false,
+            "is_admin": false,
+            "is_following": false
+          },
+          "join_link": null,
+          "token": null,
+          "owner": {
+            "name": " ",
+            "affiliation": null,
+            "affiliations": [],
+            "username": null,
+            "note": null,
+            "link": null,
+            "image": {
+              "source": null,
+              "placeholder": null
+            },
+            "badges": [],
+            "verified": 0,
+            "is_verified_user": false,
+            "research_interests": null,
+            "blocked_by_you": false,
+            "blocked_you": false,
+            "hide_following": false
+          },
+          "is_protocol_requested": 0,
+          "is_group_requested": 0,
+          "is_my": false,
+          "is_request": false,
+          "is_confirmed": 1,
+          "is_declined": 0,
+          "requester": {
+            "name": " ",
+            "affiliation": null,
+            "affiliation_url": null,
+            "username": null,
+            "link": null
+          },
+          "protocol": {
+            "id": 0,
+            "title": "        Amplification and Pooling ",
+            "title_html": "        Amplification and Pooling ",
+            "image": {
+              "source": null,
+              "placeholder": null
+            },
+            "doi": null,
+            "doi_status": 0,
+            "uri": "amplification-and-pooling-beqkjduw",
+            "type_id": 1,
+            "template_id": 0,
+            "published_on": null,
+            "stats": {
+              "number_of_views": 0,
+              "number_of_steps": 0,
+              "number_of_bookmarks": 0,
+              "number_of_comments": 0,
+              "number_of_exports": 0,
+              "number_of_runs": 0,
+              "number_of_votes": 0,
+              "is_voted": 0
+            },
+            "parent_protocols": [],
+            "parent_collections": [],
+            "cited_protocols": []
+          },
+          "created_on": 1604048732,
+          "resolve_on": 0,
+          "resolved_user": {
+            "name": " ",
+            "affiliation": null,
+            "affiliations": [],
+            "username": null,
+            "note": null,
+            "link": null,
+            "image": {
+              "source": null,
+              "placeholder": null
+            },
+            "badges": [],
+            "verified": 0,
+            "is_verified_user": false,
+            "research_interests": null,
+            "blocked_by_you": false,
+            "blocked_you": false,
+            "hide_following": false
+          },
+          "shared": false
+        }
+      }
+    ],
+    "is_owner": 0,
+    "has_subprotocols": 0,
+    "is_subprotocol": 0,
+    "is_bookmarked": 0,
+    "can_claim_authorship": 1,
+    "can_accept_authorship": 0,
+    "can_be_copied": 0,
+    "can_remove_fork": 1,
+    "fork_id": null,
+    "url": "https://www.protocols.io/view/amplification-and-pooling-beqkjduw",
+    "forks_count": {
+      "private": 0,
+      "public": 0
+    },
+    "access": {
+      "can_view": 0,
+      "can_remove": 0,
+      "can_add": 0,
+      "can_edit": 0,
+      "can_publish": 0,
+      "can_get_doi": 0,
+      "can_share": 0,
+      "can_move": 0,
+      "can_move_outside": 0,
+      "can_transfer": 0,
+      "can_download": 1,
+      "is_locked": 0
+    },
+    "guid": "F7731D20789811EABCCD1F128B8BCEE5",
+    "state_version_id": 2549,
+    "steps": [
+      {
+        "id": 911581,
+        "guid": "BF8A9AD0789A11EABCCD1F128B8BCEE5",
+        "previous_id": null,
+        "previous_guid": null,
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "31DAC00BA77D461F88739B2B48C9421D",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Calculations"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "91430D34FCC54B9384ED924EA7F2A1C0",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Prepare amplification assay [</div><div class = \"text-block\"> ]</div><br/><div class = \"text-block\">Based on the quantification results of the indexed libaries (</div><div class = \"text-block\"><a href=\"https://dx.doi.org/10.17504/protocols.io.bakticwn\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\">https://dx.doi.org/10.17504/protocols.io.bakticwn</span></a></div><div class = \"text-block\">) calculate the number of PCR cycles (amplification factor) needed to reach 10^13 copies of DNA per indexed Library.</div><br/><div class = \"text-block\"><span style = \"font-weight:bold;\">Example: </span><span>The following calculation is for </span></div><div class = \"text-block\"> per reaction, with two indexed library samples (A and B) having different concentrations of DNA copies.</div><div class = \"text-block\">Optonial Changes: 1.If the Calculation shows up less then 3 Cycles, you also have the Option to add less then 5 µl. </div><div class = \"text-block\">                                  2. Instead of 4 reactions of 5 µl each you can also split in 8 reactions of 2 µl each </div><div class = \"text-block\">Instead of 4 x 5 µl reactions you can also split in 8 x 2 µl reactions</div><br/><br/><table border><tr style = \"text-align:center;\"><td>  </td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td style = \"text-align:center;\">1</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Sample Name</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Copies per µl</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">µl per rxn</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Copies per rxn</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Cycles needed</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Real Cycles</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Amplification Factor</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Output per rxn [Copies]</td></tr><tr><td style = \"text-align:center;\">2</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">A</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">7.32E+10</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">3.66E+11</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">4.772998</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">32</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">1.17E+13</td></tr><tr><td style = \"text-align:center;\">3</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">B</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5.79E+06</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">2.32E+07</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">18.72018251</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">19</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">524288</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">1.21E+13</td></tr></table><br/><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "1442D56C78D111EAA6300242AC110002",
+            "order_id": 2,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 100,
+              "unit": "µl",
+              "title": "per reaction"
+            }
+          },
+          {
+            "id": 1054726,
+            "guid": "100629C50FD84BC1A5CBADE8E54403D1",
+            "order_id": 3,
+            "type_id": 26,
+            "title": "notes",
+            "source": {
+              "id": 0,
+              "parent_id": 0,
+              "uri": "",
+              "title": "",
+              "body": "<div class = \"text-blocks\"><div class = \"text-block\">Formula in Excel to get the Cycles needed</div><br/><div class = \"text-block\">=LOG((1*10^13/Copies per rxn),2)</div><div class = \"text-block\">(log base 2)</div><br/><br/></div>",
+              "created_on": 0,
+              "changed_on": 0,
+              "creator": {
+                "name": "",
+                "affiliation": null,
+                "affiliations": [],
+                "username": "",
+                "note": null,
+                "link": null,
+                "image": {
+                  "source": "",
+                  "placeholder": ""
+                },
+                "badges": [],
+                "verified": 0,
+                "is_verified_user": false,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+              },
+              "comments": []
+            }
+          },
+          {
+            "id": 1054727,
+            "guid": "EA42FFB0816911EA907E1B6674BB231A",
+            "order_id": 4,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 5,
+              "unit": "µl",
+              "title": ""
+            }
+          },
+          {
+            "id": 1054728,
+            "guid": "5B6AB0D3628A4C98B97A32C4195002CC",
+            "order_id": 5,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<table border><tr style = \"text-align:center;\"><td>  </td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td style = \"text-align:center;\">1</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Sample Name</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Copies per µl</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">µl per rxn</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Copies per rxn</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Cycles needed</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Real Cycles</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Amplification Factor</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Output per rxn [Copies]</td></tr><tr><td style = \"text-align:center;\">2</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">A</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">7.32E+10</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">3.66E+11</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">4.772998</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">32</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">1.17E+13</td></tr><tr><td style = \"text-align:center;\">3</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">B</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5.79E+06</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">2.32E+07</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">18.72018251</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">19</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">524288</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">1.21E+13</td></tr></table>"
+            }
+          },
+          {
+            "id": 1054729,
+            "guid": "4690A297A3E44B9287030362AD297331",
+            "order_id": 6,
+            "type_id": 26,
+            "title": "notes",
+            "source": {
+              "id": 0,
+              "parent_id": 0,
+              "uri": "",
+              "title": "",
+              "body": "<div class = \"text-blocks\"><div class = \"text-block\">Do not calculate the amount of cycles for a higher amount of copies than 1.4 *10^13 to avoid heteroduplexes. </div></div>",
+              "created_on": 0,
+              "changed_on": 0,
+              "creator": {
+                "name": "",
+                "affiliation": null,
+                "affiliations": [],
+                "username": "",
+                "note": null,
+                "link": null,
+                "image": {
+                  "source": "",
+                  "placeholder": ""
+                },
+                "badges": [],
+                "verified": 0,
+                "is_verified_user": false,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+              },
+              "comments": []
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#A492FF",
+        "section_duration": 0,
+        "critical": [
+          {
+            "id": 10,
+            "title": "Computational Step",
+            "icon": "ComputationalIcon"
+          }
+        ],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 959956,
+        "guid": "5B914170AC8711EA8B2BF1B2D91908EE",
+        "previous_id": 911581,
+        "previous_guid": "BF8A9AD0789A11EABCCD1F128B8BCEE5",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "DEB9F4AAFD894042A8C4CF881DDEF5E4",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Preparation"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "ECC690AC45604A1FA82D250F68EE8EC5",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Prepare cleaned workspace with all necessary reagents and equipment. </div><br/><br/><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "C554BBE05B194C04A786F57D8D35C9E5",
+            "order_id": 2,
+            "type_id": 26,
+            "title": "notes",
+            "source": {
+              "id": 0,
+              "parent_id": 0,
+              "uri": "",
+              "title": "",
+              "body": "<div class = \"text-blocks\"><div class = \"text-block\"><span>Label all </span><a href=\"#\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\"> </span></a><span>  PCR strips for the PCR reactions.</span></div><br/></div>",
+              "created_on": 0,
+              "changed_on": 0,
+              "creator": {
+                "name": "",
+                "affiliation": null,
+                "affiliations": [],
+                "username": "",
+                "note": null,
+                "link": null,
+                "image": {
+                  "source": "",
+                  "placeholder": ""
+                },
+                "badges": [],
+                "verified": 0,
+                "is_verified_user": false,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+              },
+              "comments": []
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#94EBFF",
+        "section_duration": 0,
+        "critical": null,
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911721,
+        "guid": "9ED9598078CB11EA94719F8A1230654E",
+        "previous_id": 959956,
+        "previous_guid": "5B914170AC8711EA8B2BF1B2D91908EE",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "3434B55F51D045E8893F7DD546EEF343",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "PCR"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "61BCC004DF87442C9C9F0570E047DE49",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><br/><div class = \"text-block\">Set up four amplification reactions of </div><div class = \"text-block\"> each per library </div><br/><br/><table border><tr style = \"text-align:center;\"><td>  </td><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td style = \"text-align:center;\">1</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Reagent</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Stock concentration</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Final concentration</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">1x Volume [µl]</td></tr><tr><td style = \"text-align:center;\">2</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">Herculase II Reaction buffer</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5x</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">1x</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">20</td></tr><tr><td style = \"text-align:center;\">3</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">IS5 primer</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">10 µM</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">0.4 µM</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">4</td></tr><tr><td style = \"text-align:center;\">4</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">IS6 primer</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">10 µM</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">0.4 µM</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">4</td></tr><tr><td style = \"text-align:center;\">5</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">dNTP's</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">25 mM</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">0.25 mM</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">1</td></tr><tr><td style = \"text-align:center;\">6</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">Herculase II Fusion</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">1 U</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">0.01 U</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">1</td></tr><tr><td style = \"text-align:center;\">7</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">DNA</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5</td></tr><tr><td style = \"text-align:center;\">8</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">HPLC-Water</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">65</td></tr><tr><td style = \"text-align:center;\">9</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Total</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">100</td></tr></table><br/><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "1A0AE580860D11EAB54ADB1E84911187",
+            "order_id": 2,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 100,
+              "unit": "µl",
+              "title": ""
+            }
+          },
+          {
+            "id": 1054726,
+            "guid": "F28ED66F09A2474EB38560B1DB295ECE",
+            "order_id": 3,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<table border><tr style = \"text-align:center;\"><td>  </td><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td style = \"text-align:center;\">1</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Reagent</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Stock concentration</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Final concentration</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">1x Volume [µl]</td></tr><tr><td style = \"text-align:center;\">2</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">Herculase II Reaction buffer</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5x</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">1x</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">20</td></tr><tr><td style = \"text-align:center;\">3</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">IS5 primer</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">10 µM</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">0.4 µM</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">4</td></tr><tr><td style = \"text-align:center;\">4</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">IS6 primer</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">10 µM</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">0.4 µM</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">4</td></tr><tr><td style = \"text-align:center;\">5</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">dNTP's</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">25 mM</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">0.25 mM</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">1</td></tr><tr><td style = \"text-align:center;\">6</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">Herculase II Fusion</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">1 U</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">0.01 U</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">1</td></tr><tr><td style = \"text-align:center;\">7</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">DNA</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5</td></tr><tr><td style = \"text-align:center;\">8</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">HPLC-Water</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">65</td></tr><tr><td style = \"text-align:center;\">9</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Total</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">100</td></tr></table>"
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#84CE84",
+        "section_duration": 0,
+        "critical": [
+          {
+            "id": 3,
+            "title": "Pipetting",
+            "icon": "PipettingIcon"
+          }
+        ],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911729,
+        "guid": "2709924078D411EA94719F8A1230654E",
+        "previous_id": 911721,
+        "previous_guid": "9ED9598078CB11EA94719F8A1230654E",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "18419A53963A45E8A23AE3BDB9790FD7",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "PCR"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "D55F80C7F87D43159B1A70D5A9FCCC10",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Vortex master mix before adding the enzyme. After adding the enzyme, mix by pipetting or inverting the tube.</div></div>"
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#84CE84",
+        "section_duration": 0,
+        "critical": [
+          {
+            "id": 6,
+            "title": "Mix",
+            "icon": "MixIcon"
+          }
+        ],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911730,
+        "guid": "284805B078D411EA94719F8A1230654E",
+        "previous_id": 911729,
+        "previous_guid": "2709924078D411EA94719F8A1230654E",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "2F80F61F85D7409491755E42A4A1FF0B",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "PCR"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "7CC8925981F545F8BB572BC6BD1A307E",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Pipette </div><div class = \"text-block\"> mastermix and </div><div class = \"text-block\"> indexed library into each tube (use </div><div class = \"text-block\"> PCR strips).</div><br/><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "0BBB5AD0799411EA9A3EA3C08F87C1A1",
+            "order_id": 2,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 95,
+              "unit": "µl",
+              "title": ""
+            }
+          },
+          {
+            "id": 1054726,
+            "guid": "106A8B00799411EA9A3EA3C08F87C1A1",
+            "order_id": 3,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 5,
+              "unit": "µl",
+              "title": ""
+            }
+          },
+          {
+            "id": 1054727,
+            "guid": "24FF2AC0C2AB11EABC0EB9E43E8E1C99",
+            "order_id": 4,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 0.2,
+              "unit": "mL",
+              "title": ""
+            }
+          },
+          {
+            "id": 1054728,
+            "guid": "E73C380AA9244CCC90ED31BB1620A965",
+            "order_id": 5,
+            "type_id": 19,
+            "title": "safety",
+            "source": {
+              "body": "<div class = \"text-blocks\"><div class = \"text-block\"><span>Keep the remaining library at</span><a href=\"#\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\"> </span></a><span> until further use.</span></div></div>",
+              "link": ""
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#84CE84",
+        "section_duration": 0,
+        "critical": [
+          {
+            "id": 6,
+            "title": "Mix",
+            "icon": "MixIcon"
+          }
+        ],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911587,
+        "guid": "BF901911789A11EABCCD1F128B8BCEE5",
+        "previous_id": 911730,
+        "previous_guid": "284805B078D411EA94719F8A1230654E",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "96FFF806B9874B2292D7E600C0BB658D",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "PCR"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "24C96586206345FF895CD4B4A79C266C",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Amplify in a thermocycler with the following program:</div><table border><tr style = \"text-align:center;\"><td>  </td><td>A</td><td>B</td><td>C</td></tr><tr><td style = \"text-align:center;\">1</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Tempreature</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Time</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"></td></tr><tr><td style = \"text-align:center;\">2</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">95°C</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">2 min</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;text-align:center;\">Inital denaturation</td></tr><tr><td style = \"text-align:center;\">3</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">95°C</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">30 sec</td><td rowspan = \"3\" colspan = \"1\" style =\"display : table-cell;text-align:center;vertical-align:middle;\">Cycles (see Step 1)</td></tr><tr><td style = \"text-align:center;\">4</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">60°C</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">30 sec</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;text-align:center;vertical-align:middle;\"></td></tr><tr><td style = \"text-align:center;\">5</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">72°C</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">30 sec</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;text-align:center;vertical-align:middle;\"></td></tr><tr><td style = \"text-align:center;\">6</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">72°C</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5 min</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;text-align:center;\">Final elongation</td></tr><tr><td style = \"text-align:center;\">7</td><td rowspan = \"1\" colspan = \"2\" style =\"display : table-cell;text-align:center;\"> Finally hold the reactions at 10 °C.</td><td rowspan = \"\" colspan = \"\" style =\"display : none;text-align:center;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"></td></tr></table><br/><br/><br/><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "371E880C618843EE873103EEF9FE7647",
+            "order_id": 2,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<table border><tr style = \"text-align:center;\"><td>  </td><td>A</td><td>B</td><td>C</td></tr><tr><td style = \"text-align:center;\">1</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Tempreature</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Time</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"></td></tr><tr><td style = \"text-align:center;\">2</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">95°C</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">2 min</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;text-align:center;\">Inital denaturation</td></tr><tr><td style = \"text-align:center;\">3</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">95°C</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">30 sec</td><td rowspan = \"3\" colspan = \"1\" style =\"display : table-cell;text-align:center;vertical-align:middle;\">Cycles (see Step 1)</td></tr><tr><td style = \"text-align:center;\">4</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">60°C</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">30 sec</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;text-align:center;vertical-align:middle;\"></td></tr><tr><td style = \"text-align:center;\">5</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">72°C</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">30 sec</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;text-align:center;vertical-align:middle;\"></td></tr><tr><td style = \"text-align:center;\">6</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">72°C</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">5 min</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;text-align:center;\">Final elongation</td></tr><tr><td style = \"text-align:center;\">7</td><td rowspan = \"1\" colspan = \"2\" style =\"display : table-cell;text-align:center;\"> Finally hold the reactions at 10 °C.</td><td rowspan = \"\" colspan = \"\" style =\"display : none;text-align:center;\"></td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"></td></tr></table>"
+            }
+          },
+          {
+            "id": 1054726,
+            "guid": "641321BCAA564AFC92154E5F396C1D33",
+            "order_id": 3,
+            "type_id": 26,
+            "title": "notes",
+            "source": {
+              "id": 0,
+              "parent_id": 0,
+              "uri": "",
+              "title": "",
+              "body": "<div class = \"text-blocks\"><div class = \"text-block\">Adjust the number of cycles according to the amplification factor as calculated in step 1.</div><br/><div class = \"text-block\"><span>During this incubation take </span><span style = \"font-weight:bold;\">MinElute columns</span><span> out of the fridge so they warm up to </span><span style = \"font-weight:bold;\">room temperature</span><span> before use in the next step. </span></div><br/><div class = \"text-block\">This is an ideal point to prepare downstream steps, including labelling of final elution tubes, MinElute Columns etc.</div></div>",
+              "created_on": 0,
+              "changed_on": 0,
+              "creator": {
+                "name": "",
+                "affiliation": null,
+                "affiliations": [],
+                "username": "",
+                "note": null,
+                "link": null,
+                "image": {
+                  "source": "",
+                  "placeholder": ""
+                },
+                "badges": [],
+                "verified": 0,
+                "is_verified_user": false,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+              },
+              "comments": []
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#84CE84",
+        "section_duration": 0,
+        "critical": [
+          {
+            "id": 4,
+            "title": "PCR",
+            "icon": "PCRIcon"
+          }
+        ],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911588,
+        "guid": "BF915190789A11EABCCD1F128B8BCEE5",
+        "previous_id": 911587,
+        "previous_guid": "BF901911789A11EABCCD1F128B8BCEE5",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "A36051FEED444C4DADA9D94B46C4CE21",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "MinElute Purification"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "4080C9D2A9F84E91870B2B8D44A27AF8",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Purify with MinElute kit with the following modifications to the manufacturer's protocol:</div><div class = \"text-block\"><span>Use one column for all four reactions </span><span style = \"font-style:italic;\">[=</span></div><div class = \"text-block\"><span style = \"font-style:italic;\"> PCR product] </span><span>of a sample.</span></div></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "90202FE978D411EAA6300242AC110002",
+            "order_id": 2,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 400,
+              "unit": "µl",
+              "title": ""
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#FFED92",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911731,
+        "guid": "6C9A41B078D411EA94719F8A1230654E",
+        "previous_id": 911588,
+        "previous_guid": "BF915190789A11EABCCD1F128B8BCEE5",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "6BD7AA211743407ABF831387FF767204",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "MinElute Purification"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "5C20BFC8343B400F87DE909F9C99CDDC",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Add </div><div class = \"text-block\"> PB or PBI* buffer to a </div><div class = \"text-block\">  tube for each sample (this is </div><div class = \"text-block\">buffer for each PCR reaction). Add all 4 PCR reactions per sample to the same tube with PB buffer and vortex briefly. </div><br/><br/><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "9EB16AC678D411EAA6300242AC110002",
+            "order_id": 2,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 2400,
+              "unit": "µl",
+              "title": ""
+            }
+          },
+          {
+            "id": 1054726,
+            "guid": "B537CA70C2AB11EABC0EB9E43E8E1C99",
+            "order_id": 3,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 5,
+              "unit": "mL",
+              "title": ""
+            }
+          },
+          {
+            "id": 1054727,
+            "guid": "020E7EF0860E11EAB54ADB1E84911187",
+            "order_id": 4,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 600,
+              "unit": "µl",
+              "title": ""
+            }
+          },
+          {
+            "id": 1054728,
+            "guid": "2B24EC1D454F4419B9DF2FE84B859B14",
+            "order_id": 5,
+            "type_id": 19,
+            "title": "safety",
+            "source": {
+              "body": "<div class = \"text-blocks\"><div class = \"text-block\">After the PCR product is mixed with the PBI, the PBI should keep its yellow colour. If it turns purple the pH is too high and the efficency of the MinElute columns is not guaranteed.</div></div>",
+              "link": ""
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#FFED92",
+        "section_duration": 0,
+        "critical": [
+          {
+            "id": 6,
+            "title": "Mix",
+            "icon": "MixIcon"
+          }
+        ],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911735,
+        "guid": "71D7F64078D411EA94719F8A1230654E",
+        "previous_id": 911731,
+        "previous_guid": "6C9A41B078D411EA94719F8A1230654E",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "33A5CE90B8F840FBBE8DD665487B9F32",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "MinElute Purification"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "CB0A4C1F348341FFA01CD94AC937FF15",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Load </div><div class = \"text-block\"> of the mixture onto one MinElute column, incubate for </div><div class = \"text-block\">, spin </div><div class = \"text-block\">, and discard flow-through.</div><br/><br/><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "C45715A478D411EAA6300242AC110002",
+            "order_id": 2,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 700,
+              "unit": "µl",
+              "title": ""
+            }
+          },
+          {
+            "id": 1054726,
+            "guid": "C457163278D411EAA6300242AC110002",
+            "order_id": 3,
+            "type_id": 4,
+            "title": "duration",
+            "source": {
+              "duration": 120,
+              "title": ""
+            }
+          },
+          {
+            "id": 1054727,
+            "guid": "C45716DA78D411EAA6300242AC110002",
+            "order_id": 4,
+            "type_id": 30,
+            "title": "centrifuge",
+            "source": {
+              "amount": "700",
+              "centrifuge": "15800",
+              "duration": 60,
+              "guid": "C45716DA78D411EAA6300242AC110002",
+              "id": 0,
+              "label": "",
+              "pause": null,
+              "preset": [],
+              "start": null,
+              "temperature": "",
+              "temperatureUnit": 10,
+              "unit": 34
+            }
+          },
+          {
+            "id": 1054728,
+            "guid": "C216A91556814DDC969A59C17F4565B3",
+            "order_id": 5,
+            "type_id": 26,
+            "title": "notes",
+            "source": {
+              "id": 0,
+              "parent_id": 0,
+              "uri": "",
+              "title": "",
+              "body": "<div class = \"text-blocks\"><div class = \"text-block\">Pour off the liquid into a waste tube, and pat the rim of the collection tube dry on a paper tissue or towel. Use just one spot on the paper tissue per sample. Be careful not to touch the rim of the tube on the waste container. After you are finished with all samples, discard the paper and wipe clean the surface underneath with water and soap.</div></div>",
+              "created_on": 0,
+              "changed_on": 0,
+              "creator": {
+                "name": "",
+                "affiliation": null,
+                "affiliations": [],
+                "username": "",
+                "note": null,
+                "link": null,
+                "image": {
+                  "source": "",
+                  "placeholder": ""
+                },
+                "badges": [],
+                "verified": 0,
+                "is_verified_user": false,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+              },
+              "comments": []
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#FFED92",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911734,
+        "guid": "70434C8078D411EA94719F8A1230654E",
+        "previous_id": 911735,
+        "previous_guid": "71D7F64078D411EA94719F8A1230654E",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "2CCBF4E9393B44C8AC036FAD8B48DAC9",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "MinElute Purification"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "E0EF6F13EBBE48BAA7667FDBC62CC82B",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Repeat loading until the complete mixture was run through the column.</div><br/><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "9719C2B0799411EA9A3EA3C08F87C1A1",
+            "order_id": 2,
+            "type_id": 22,
+            "title": "gotostep",
+            "source": {
+              "step_guid": "71D7F64078D411EA94719F8A1230654E",
+              "title": ""
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#FFED92",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911732,
+        "guid": "6D90FDC078D411EA94719F8A1230654E",
+        "previous_id": 911734,
+        "previous_guid": "70434C8078D411EA94719F8A1230654E",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "EF3E7B8868924321A136A35C8AA5FA94",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "MinElute Purification"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "2B30AB57B595400F9EF32FE9158AA23D",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Add </div><div class = \"text-block\"> PE (wash) buffer,  spin </div><div class = \"text-block\">, and discard flow-through.</div><br/><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "A20C57A0799411EA9A3EA3C08F87C1A1",
+            "order_id": 2,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 700,
+              "unit": "µl",
+              "title": ""
+            }
+          },
+          {
+            "id": 1054726,
+            "guid": "12043BF578D511EAA6300242AC110002",
+            "order_id": 3,
+            "type_id": 30,
+            "title": "centrifuge",
+            "source": {
+              "centrifuge": "15800",
+              "duration": 60,
+              "guid": "12043BF578D511EAA6300242AC110002",
+              "id": 0,
+              "label": "",
+              "pause": null,
+              "preset": [],
+              "start": null,
+              "temperature": "",
+              "temperatureUnit": 10,
+              "unit": 34
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#FFED92",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911737,
+        "guid": "74C3CB9078D411EA94719F8A1230654E",
+        "previous_id": 911732,
+        "previous_guid": "6D90FDC078D411EA94719F8A1230654E",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "CF536851CDFA41A388AAD7593E5B5DD5",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "MinElute Purification"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "2723697D100545F5A9A6E3704B06B4BE",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Dry spin </div><div class = \"text-block\">,</div></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "186ADF0678D511EAA6300242AC110002",
+            "order_id": 2,
+            "type_id": 30,
+            "title": "centrifuge",
+            "source": {
+              "centrifuge": "15800",
+              "duration": 60,
+              "guid": "186ADF0678D511EAA6300242AC110002",
+              "id": 0,
+              "label": "",
+              "pause": null,
+              "preset": [],
+              "start": null,
+              "temperature": "",
+              "temperatureUnit": 10,
+              "unit": 34
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#FFED92",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911736,
+        "guid": "73C1C4E078D411EA94719F8A1230654E",
+        "previous_id": 911737,
+        "previous_guid": "74C3CB9078D411EA94719F8A1230654E",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "3E8DA7CEFA1E4CCEAADBE7B3236C8912",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "MinElute Purification"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "93AA571D60854082BB90997A21E53BCC",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Put column into new </div><div class = \"text-block\">  LoBind tubes.</div><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "43B716D0C2AB11EABC0EB9E43E8E1C99",
+            "order_id": 2,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 1.5,
+              "unit": "mL",
+              "title": ""
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#FFED92",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911733,
+        "guid": "6E8E97A078D411EA94719F8A1230654E",
+        "previous_id": 911736,
+        "previous_guid": "73C1C4E078D411EA94719F8A1230654E",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "08B0DEB05C65417086769F1E6399E948",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "MinElute Purification"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "D5C64EFE7E9F4AFAA9362E2229D7BC63",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Add </div><div class = \"text-block\"> EBT buffer to the center of the filter, incubate for </div><div class = \"text-block\">, and spin </div><div class = \"text-block\"> to elute the amplified indexed library.</div><br/><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "22EAC97078D511EAA6300242AC110002",
+            "order_id": 2,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 50,
+              "unit": "µl",
+              "title": ""
+            }
+          },
+          {
+            "id": 1054726,
+            "guid": "22EACA6278D511EAA6300242AC110002",
+            "order_id": 3,
+            "type_id": 4,
+            "title": "duration",
+            "source": {
+              "duration": 120,
+              "title": ""
+            }
+          },
+          {
+            "id": 1054727,
+            "guid": "22EACB7578D511EAA6300242AC110002",
+            "order_id": 4,
+            "type_id": 30,
+            "title": "centrifuge",
+            "source": {
+              "amount": "20",
+              "centrifuge": "15800",
+              "duration": 60,
+              "guid": "22EACB7578D511EAA6300242AC110002",
+              "id": 0,
+              "label": "",
+              "pause": null,
+              "preset": [],
+              "start": null,
+              "temperature": "",
+              "temperatureUnit": 10,
+              "unit": 34
+            }
+          },
+          {
+            "id": 1054728,
+            "guid": "55CB37F1EF984F90AC7AE95BA1E201FC",
+            "order_id": 5,
+            "type_id": 26,
+            "title": "notes",
+            "source": {
+              "id": 0,
+              "parent_id": 0,
+              "uri": "",
+              "title": "",
+              "body": "<div class = \"text-blocks\"><div class = \"text-block\">Carefully pipette EBT directly onto the center of the membrane without touching the membrane.</div></div>",
+              "created_on": 0,
+              "changed_on": 0,
+              "creator": {
+                "name": "",
+                "affiliation": null,
+                "affiliations": [],
+                "username": "",
+                "note": null,
+                "link": null,
+                "image": {
+                  "source": "",
+                  "placeholder": ""
+                },
+                "badges": [],
+                "verified": 0,
+                "is_verified_user": false,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+              },
+              "comments": []
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#FFED92",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911596,
+        "guid": "BF9E22D1789A11EABCCD1F128B8BCEE5",
+        "previous_id": 911733,
+        "previous_guid": "6E8E97A078D411EA94719F8A1230654E",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "72EB31FDEA694F32976C5F456FFC6086",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Measurement and Dilution"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "5B049E3D6D864AC5BFA890AF55F0D210",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Dilute amplified index library 1:10 with HPLC- water and check for fragment size, concentration, and heteroduplexes. (for example with the D1000 Kit's Tape, Reagent and Buffer - following the manufacturer's protocol on the TapeStation)</div><br/><br/><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "2B554EE01D78416B91F6705DACD7F6FC",
+            "order_id": 2,
+            "type_id": 26,
+            "title": "notes",
+            "source": {
+              "id": 0,
+              "parent_id": 0,
+              "uri": "",
+              "title": "",
+              "body": "<div class = \"text-blocks\"><div class = \"text-block\">if you see heteroduplexes you need to perform a reconditoning PCR. </div><br/><div class = \"text-block\">Reconditoning PCR: one cycle PCR using 100 ng library template in a 100 µl Herculase PCR reaction (same set up as in 3) and amplified with 1 cycles of 95°C for 2 min, 58°C for 2 min, and 72°C for 5 min. Purify with MinElute kit following the instructions from Step 5, but elute in 20µl EBT.</div></div>",
+              "created_on": 0,
+              "changed_on": 0,
+              "creator": {
+                "name": "",
+                "affiliation": null,
+                "affiliations": [],
+                "username": "",
+                "note": null,
+                "link": null,
+                "image": {
+                  "source": "",
+                  "placeholder": ""
+                },
+                "badges": [],
+                "verified": 0,
+                "is_verified_user": false,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+              },
+              "comments": []
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#EA9F6C",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 911597,
+        "guid": "BF9FF790789A11EABCCD1F128B8BCEE5",
+        "previous_id": 911596,
+        "previous_guid": "BF9E22D1789A11EABCCD1F128B8BCEE5",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "CBB1DB51A4FA4A94873D978B6987BD84",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Measurement and Dilution"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "BE19366175484645BCC8ACD3805A6CB7",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Dilute each amplified indexed library to </div><div class = \"text-block\"> with EBT buffer or HPLC-water for shotgun sequencing. Then pool the </div><div class = \"text-block\"> amplified indexed libraries in equimolar amounts (take the same volume for each sample).</div><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "766ABEC0860F11EAB54ADB1E84911187",
+            "order_id": 2,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 10,
+              "unit": null,
+              "title": ""
+            }
+          },
+          {
+            "id": 1054726,
+            "guid": "2BA415D0EEB011EABD4F7719DD75BF9F",
+            "order_id": 3,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 10,
+              "unit": null,
+              "title": ""
+            }
+          },
+          {
+            "id": 1054727,
+            "guid": "26FB8D5EEBBC4F45B9C67123E6B6E0C8",
+            "order_id": 4,
+            "type_id": 26,
+            "title": "notes",
+            "source": {
+              "id": 0,
+              "parent_id": 0,
+              "uri": "",
+              "title": "",
+              "body": "<div class = \"text-blocks\"><div class = \"text-block\"><span>The final concentration of a pool of several amplfied indexed libraries should be </span><a href=\"#\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\"> </span></a><span style = \":;\">.</span></div><br/></div>",
+              "created_on": 0,
+              "changed_on": 0,
+              "creator": {
+                "name": "",
+                "affiliation": null,
+                "affiliations": [],
+                "username": "",
+                "note": null,
+                "link": null,
+                "image": {
+                  "source": "",
+                  "placeholder": ""
+                },
+                "badges": [],
+                "verified": 0,
+                "is_verified_user": false,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+              },
+              "comments": []
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#EA9F6C",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 915770,
+        "guid": "668685C07E3511EA97A1FDD7E71ACC92",
+        "previous_id": 911597,
+        "previous_guid": "BF9FF790789A11EABCCD1F128B8BCEE5",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "3DA4F36F56C747F6874BAA03DF785DAF",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": "Measurement and Dilution"
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "654E31AE3121421186CFFE51312D42A4",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Check the </div><div class = \"text-block\"> library or the </div><div class = \"text-block\"> library pool for the correct concentration, (for example with the HighSensitivity D1000 Kit's Tape, Reagent and Buffer following the manufacturer's protocol on the TapeStation.)</div><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "6F40A380860F11EAB54ADB1E84911187",
+            "order_id": 2,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 10,
+              "unit": null,
+              "title": ""
+            }
+          },
+          {
+            "id": 1054726,
+            "guid": "54351DA0860F11EAB54ADB1E84911187",
+            "order_id": 3,
+            "type_id": 3,
+            "title": "amount",
+            "source": {
+              "amount": 10,
+              "unit": null,
+              "title": ""
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "#EA9F6C",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      }
+    ],
+    "document": "",
+    "materials": [
+      {
+        "id": 581620,
+        "mol_weight": 0,
+        "name": "0.2 ml PCR Tube strips",
+        "linfor": "",
+        "url": null,
+        "sku": "0030124359",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Eppendorf",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "https://www.eppendorf.com",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 214
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581621,
+        "mol_weight": 0,
+        "name": "DNA LoBind Tube 1.5ml ",
+        "linfor": "",
+        "url": null,
+        "sku": "022431021",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Eppendorf",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "https://www.eppendorf.com",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 214
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581622,
+        "mol_weight": 0,
+        "name": "2 ml LoBind Tubes",
+        "linfor": "",
+        "url": null,
+        "sku": "0030108078",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Eppendorf",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "https://www.eppendorf.com",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 214
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581623,
+        "mol_weight": 0,
+        "name": "Eppendorf Tubes® 5.0 mL with snap cap",
+        "linfor": "",
+        "url": null,
+        "sku": "30119460",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Eppendorf",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "https://www.eppendorf.com",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 214
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581625,
+        "mol_weight": 0,
+        "name": "dNTP Mix (25 mM each)",
+        "linfor": "",
+        "url": null,
+        "sku": "R1121",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Thermo Fisher Scientific",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "https://www.thermofisher.com/us/en/home.html",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 95
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581626,
+        "mol_weight": 0,
+        "name": "Sodium Acetate buffer solution 3M pH 52 for molecular biology",
+        "linfor": "",
+        "url": null,
+        "sku": "S7899-500ML",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Sigma Aldrich",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "http://sigmaaldrich.com",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 17
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581628,
+        "mol_weight": 0,
+        "name": "Tween 20",
+        "linfor": "",
+        "url": null,
+        "sku": "P9416-50ML",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Sigma Aldrich",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "http://sigmaaldrich.com",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 17
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581629,
+        "mol_weight": 0,
+        "name": "Water HPLC Plus ",
+        "linfor": "",
+        "url": null,
+        "sku": "34877-2.5L-M",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Merck Millipore Sigma",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "https://www.sigmaaldrich.com/united-states.html",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 777
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581631,
+        "mol_weight": 0,
+        "name": "D1000 Ladder",
+        "linfor": "",
+        "url": null,
+        "sku": "5067-5586",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Agilent Technologies",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "http://www.agilent.com/home",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 65
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581632,
+        "mol_weight": 0,
+        "name": "D1000 ScreenTape",
+        "linfor": "",
+        "url": null,
+        "sku": "5067-5582",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Agilent Technologies",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "http://www.agilent.com/home",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 65
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581633,
+        "mol_weight": 0,
+        "name": "D1000 Reagents",
+        "linfor": "",
+        "url": null,
+        "sku": "5067-5583",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Agilent Technologies",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "http://www.agilent.com/home",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 65
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581634,
+        "mol_weight": 0,
+        "name": "Herculase II Fusion DNA Polymerase",
+        "linfor": "",
+        "url": null,
+        "sku": "600679",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Agilent Technologies",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "http://www.agilent.com/home",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 65
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581635,
+        "mol_weight": 0,
+        "name": "High Sensitivity D1000 Ladder",
+        "linfor": "",
+        "url": null,
+        "sku": "5067-5587",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Agilent Technologies",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "http://www.agilent.com/home",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 65
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581636,
+        "mol_weight": 0,
+        "name": "High Sensitivity D1000 Reagents",
+        "linfor": "",
+        "url": null,
+        "sku": "5067-5585",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Agilent Technologies",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "http://www.agilent.com/home",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 65
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581637,
+        "mol_weight": 0,
+        "name": "High Sensitivity D1000 ScreenTape",
+        "linfor": "",
+        "url": null,
+        "sku": "5067-5584",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Agilent Technologies",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "http://www.agilent.com/home",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 65
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      },
+      {
+        "id": 581638,
+        "mol_weight": 0,
+        "name": "MinElute PCR Purification Kit",
+        "linfor": "",
+        "url": null,
+        "sku": "28004",
+        "cas_number": "",
+        "rrid": "",
+        "public": 0,
+        "vendor": {
+          "name": "Qiagen",
+          "affiliation": null,
+          "affiliations": [],
+          "username": null,
+          "note": null,
+          "link": "https://www.qiagen.com/us/products/",
+          "image": {
+            "source": "https://www.protocols.io/img/vendors/placeholder.png",
+            "placeholder": "https://www.protocols.io/img/vendors/placeholder.png"
+          },
+          "badges": [],
+          "verified": 0,
+          "is_verified_user": false,
+          "research_interests": null,
+          "blocked_by_you": false,
+          "blocked_you": false,
+          "hide_following": false,
+          "id": 25
+        },
+        "can_edit": 0,
+        "stats": {
+          "total_protocols": 0
+        }
+      }
+    ],
+    "description": "<div class = \"text-blocks\"><div class = \"text-block\"><span>This protocol describes the amplification procedure of dual-indexed double-stranded DNA libraries, for shotgun Illumina sequencing. It is typically used for libraries indexed using the following protocol: (</span><a href=\"https://dx.doi.org/10.17504/protocols.io.bakticwn\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\">https://dx.doi.org/10.17504/protocols.io.bakticwn</span></a><span style = \":;\">)</span></div></div>",
+    "changed_on": 1607689890,
+    "guidelines": "<div class = \"text-blocks\"><div class = \"text-block\"><span style = \"font-weight:bold;\">Working in an Molecular Biology Laboratory</span></div><div class = \"text-block\">This protocol can place in a typical DNA-based molecular biology lab.</div><div class = \"text-block\">Please keep in mind the safety guidelines of your specific country and institution.</div><br/><div class = \"text-block\">Recommendations include wearing of:</div><div class = \"text-block\">- lab coats</div><div class = \"text-block\">- closed shoes and trousers</div><div class = \"text-block\">- safety glasses</div><div class = \"text-block\">- nitril or latex gloves</div><br/></div>",
+    "before_start": "<div class = \"text-blocks\"><div class = \"text-block\"><span style = \"font-weight:bold;\">Planning</span></div><div class = \"text-block\">This protocol takes 1 day.</div><br/><div class = \"text-block\">Check all waste disposal guidance for all reagents in this protocol against your corresponding laboratory regulations.</div><br/><div class = \"text-block\"><span style = \"font-weight:bold;\">Preparation of buffers (Qiagen MinElute kit):</span></div><div class = \"text-block\"><ul style = \"list-style-type:disc;\"><li style = \"counter-reset:ol0;list-style-type:disc;\">Add ethanol to PE wash buffer acccording to manufacturer's instructions.</li><li style = \"counter-reset:ol0;list-style-type:disc;\"><span>Add </span><a href=\"#\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\"> </span></a><span>pH-Indicator and </span><a href=\"#\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\"> </span></a><span>  Sodium Acetate to </span><a href=\"#\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\"> </span></a><span> of PB binding buffer. This solution is referred to as </span><span style = \"font-weight:bold;\">PBI</span><span> throughout the protocol. Must be stored at room temperature in the dark. PBI is light sensitive.</span></li><li style = \"counter-reset:ol0;list-style-type:disc;\"><span>Add Tween-20 to EB elution buffer to a final concentration of 0.05% Tween-20 in EB. This solution is referred to as </span><span style = \"font-weight:bold;\">EBT</span><span> throughout the protocol. </span></li></ul></div><br/><div class = \"text-block\"><span style = \"font-weight:bold;\">Equipment</span></div><div class = \"text-block\">Make sure all necessary equipment is available (see Materials).</div><br/><div class = \"text-block\"><span style = \"font-weight:bold;\">Abbreviations</span></div><div class = \"text-block\">EBT = modified EB-Buffer (MinElute Kit), see Preparation of buffers</div><div class = \"text-block\">HPLC = High Performance Liquid Chromatography (-Grade Water)</div><div class = \"text-block\">PBI =  modified PB-Buffer (MinElute Kit), see Preparation of buffers</div><div class = \"text-block\">PE = PE-Buffer from Qiagen MinElute Kit</div><br/><div class = \"text-block\"><span style = \"font-weight:bold;\">Samples</span></div><div class = \"text-block\"><span>This protocol is designed for the amplification of indexed libraries as prepared by the protocol described in (</span><a href=\"https://dx.doi.org/10.17504/protocols.io.bakticwn\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\">https://dx.doi.org/10.17504/protocols.io.bakticwn</span></a><span>). The indexing protocol generates </span><a href=\"#\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\"> </span></a><span>  of indexed library, of which </span><a href=\"#\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\"> </span></a><span>  will be used for this protocol. Ensure sufficient indexed library is avaliable before starting this protocol.</span></div></div>",
+    "warning": "<div class = \"text-blocks\"><div class = \"text-block\"><span style = \"font-weight:bold;\">Reagents</span></div><div class = \"text-block\"><span style = \"font-style:italic;\">Sodium Acetate</span></div><div class = \"text-block\">- H139: Causes serious eye irritation</div><div style = \"text-align :; float : ;\"><img style = \"\" src = \"https://s3.amazonaws.com/protocols-files/public/35e1e8b3a7ece03baf4ee15dad8927448593187ce9d4b85c92578f5e36659000/cbtb9fpe.png\" /></div><div class = \"text-block\"><span style = \"font-style:italic;\">Ethanol</span></div><div class = \"text-block\">- H225 Highly flammable liquid and vapour.</div><div class = \"text-block\">- H319 Causes serious eye irritation.</div><div style = \"text-align :; float : ;\"><img style = \"\" src = \"https://s3.amazonaws.com/protocols-files/public/a79281f7ea683216007db145904182a4cf586b877256ae7f6283f8535420f30d/b9edbcnmf.png\" /></div><div style = \"text-align :; float : ;\"><img style = \"\" src = \"https://s3.amazonaws.com/protocols-files/public/a79281f7ea683216007db145904182a4cf586b877256ae7f6283f8535420f30d/b9ehbcnmf.png\" /></div><div class = \"text-block\"><span style = \"font-style:italic;\">Guanidinium hydrochloride (GuHCl</span><span> ) (in PB buffer of Qiagen MinElute kit)</span></div><div class = \"text-block\">- H302 Harmful if swallowed.</div><div class = \"text-block\">- H332 Harmful if inhaled.</div><div class = \"text-block\">- H315 Causes skin irritation.</div><div class = \"text-block\">- H319 Causes serious eye irritation.</div><div style = \"text-align :; float : ;\"><img style = \"\" src = \"https://s3.amazonaws.com/protocols-files/public/a79281f7ea683216007db145904182a4cf586b877256ae7f6283f8535420f30d/b9epbcnmf.png\" /></div><div class = \"text-block\"><span style = \"font-weight:bold;\">Kits</span></div><div class = \"text-block\">Check manufacturer's safety information for the TapeStation Kits used in this protocol.</div><div class = \"text-block\">Check manufacturer's safety information for the MinElute PCR Purification kit used in this protocol.</div><div class = \"text-block\">  - Note that PBI must be stored at room temperature in the dark. PBI is light sensitive.</div><br/></div>",
+    "materials_text": "<div class = \"text-blocks\"><div class = \"text-block\">MATERIALS</div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><div class = \"text-block\"><span style = \"font-weight:bold;\">Primers</span></div><table border><tr style = \"text-align:center;\"><td>  </td><td>A</td><td>B</td><td>C</td></tr><tr><td style = \"text-align:center;\">1</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Oligo_ID</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Sequence (5'-3')</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Cocentration</td></tr><tr><td style = \"text-align:center;\">2</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">IS5</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">AATGATACGGCGACCACCGA</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">10 µM</td></tr><tr><td style = \"text-align:center;\">3</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">IS6</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">CAAGCAGAAGACGGCATACGA</td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">10 µM</td></tr></table><br/><div class = \"text-block\"><span style = \"font-weight:bold;\">Lab equipment</span></div><div class = \"text-block\">PCR Thermocycler (e.g. Eppendorf Thermomaster Nexus)</div><div class = \"text-block\">Centrifuge 1.5/2.0 ml (e.g. Eppendorf 5424)</div><div class = \"text-block\">Rotor 1.5/2.0ml (e.g. Eppendorf F-45-24-11)</div><div class = \"text-block\">Mini table centrifuge</div><div class = \"text-block\">TapeStation (e.g. Agilent Technologies,  4200 Tapestation System, SKU: G2991AA)</div><div class = \"text-block\">Vortex mixer (e.g. Scientific Industries Vortex-Genie® 2)</div></div>"
+  }

@@ -29,8 +29,9 @@ import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import com.fasterxml.jackson.annotation.JsonTypeInfo.Id;
 
 import lombok.Data;
+import org.apache.commons.lang.ObjectUtils;
 
-@JsonTypeInfo(use = Id.NAME, include = JsonTypeInfo.As.PROPERTY, property = "type_id")
+@JsonTypeInfo(use = Id.NAME, include = JsonTypeInfo.As.PROPERTY, property = "type_id", defaultImpl = PIOUnknownComponent.class)
 @JsonSubTypes({ @Type(value = PIODescription.class, name = DESCRIPTION + ""),
 		@Type(value = PIOAmountComponent.class, name = AMOUNT + ""),
 		@Type(value = PIODurationComponent.class, name = DURATION + ""),
@@ -50,10 +51,13 @@ import lombok.Data;
 		@Type(value = PIOConcentrationComponent.class, name = CONCENTRATION + ""),
 		@Type(value = PIOCommentComponent.class, name = NOTE + ""),
 		@Type(value = PIOUnknownComponent.class, name = UNKNOWN + ""),
-		@Type(value = PIOUnknownComponent.class, name = "2"), @Type(value = PIOUnknownComponent.class, name = "5"),
-		@Type(value = PIOUnknownComponent.class, name = "10"), @Type(value = PIOUnknownComponent.class, name = "11"),
-		@Type(value = PIOUnknownComponent.class, name = "12"), @Type(value = PIOUnknownComponent.class, name = "16"),
-		@Type(value = PIOUnknownComponent.class, name = "23") })
+		@Type(value = PIOUnknownComponent.class, name = "2"),
+		@Type(value = PIOUnknownComponent.class, name = "5"),
+		@Type(value = PIOUnknownComponent.class, name = "10"),
+		@Type(value = PIOUnknownComponent.class, name = "11"),
+		@Type(value = PIOUnknownComponent.class, name = "12"),
+		@Type(value = PIOUnknownComponent.class, name = "16")
+		})
 @Data()
 public abstract class PIOStepComponent {
 
