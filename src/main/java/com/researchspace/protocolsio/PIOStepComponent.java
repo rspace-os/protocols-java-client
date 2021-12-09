@@ -1,25 +1,5 @@
 package com.researchspace.protocolsio;
 
-import static com.researchspace.protocolsio.TypeConstants.AMOUNT;
-import static com.researchspace.protocolsio.TypeConstants.COMMAND;
-import static com.researchspace.protocolsio.TypeConstants.COMMENT;
-import static com.researchspace.protocolsio.TypeConstants.CONCENTRATION;
-import static com.researchspace.protocolsio.TypeConstants.DATASET;
-import static com.researchspace.protocolsio.TypeConstants.DESCRIPTION;
-import static com.researchspace.protocolsio.TypeConstants.DURATION;
-import static com.researchspace.protocolsio.TypeConstants.EXPECTED_RESULT;
-import static com.researchspace.protocolsio.TypeConstants.GOTO_PREVIOUS;
-import static com.researchspace.protocolsio.TypeConstants.LINK;
-import static com.researchspace.protocolsio.TypeConstants.NOTE;
-import static com.researchspace.protocolsio.TypeConstants.PROTOCOL;
-import static com.researchspace.protocolsio.TypeConstants.REAGENT;
-import static com.researchspace.protocolsio.TypeConstants.SAFETY;
-import static com.researchspace.protocolsio.TypeConstants.SOFTWARE_PACKAGE;
-import static com.researchspace.protocolsio.TypeConstants.STEP_CASES;
-import static com.researchspace.protocolsio.TypeConstants.TEMPERATURE;
-import static com.researchspace.protocolsio.TypeConstants.TITLE;
-import static com.researchspace.protocolsio.TypeConstants.UNKNOWN;
-
 import java.util.Comparator;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -30,6 +10,8 @@ import com.fasterxml.jackson.annotation.JsonTypeInfo.Id;
 
 import lombok.Data;
 import org.apache.commons.lang.ObjectUtils;
+
+import static com.researchspace.protocolsio.TypeConstants.*;
 
 @JsonTypeInfo(use = Id.NAME, include = JsonTypeInfo.As.PROPERTY, property = "type_id", defaultImpl = PIOUnknownComponent.class)
 @JsonSubTypes({ @Type(value = PIODescription.class, name = DESCRIPTION + ""),
@@ -50,6 +32,7 @@ import org.apache.commons.lang.ObjectUtils;
 		@Type(value = PIOTemperatureComponent.class, name = TEMPERATURE + ""),
 		@Type(value = PIOConcentrationComponent.class, name = CONCENTRATION + ""),
 		@Type(value = PIOCommentComponent.class, name = NOTE + ""),
+		@Type(value = PIOCentrifugeComponent.class, name = CENTRIFUGE + ""),
 		@Type(value = PIOUnknownComponent.class, name = UNKNOWN + ""),
 		@Type(value = PIOUnknownComponent.class, name = "2"),
 		@Type(value = PIOUnknownComponent.class, name = "5"),

@@ -27,5 +27,6 @@ public class TypeConstants {
 	public static final int CONCENTRATION = 25;
 	public static final int NOTE = 26;
 	public static final int UNKNOWN = 14;
+	public static final int CENTRIFUGE = 30;
 
 }
