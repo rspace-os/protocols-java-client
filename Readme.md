@@ -2,6 +2,9 @@
 
 This is a library of Java classes representing the Protocols.io API version 3 data objects.
 
+Versions 0.x require Java 8
+Versions  1.x require Java 11
+
 ### Usage
 
 From a JSON representation of a protocol:

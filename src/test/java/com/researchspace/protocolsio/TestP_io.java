@@ -64,7 +64,7 @@ public class TestP_io {
 	@Test
 	@DisplayName("Loads  a Reagent object")
 	public void loadReagent() throws IOException {
-		String json = readFile(reagentComponent);
+		var json = readFile(reagentComponent);
 		PIOReagent reagentComponent = parseJson(json, PIOReagent.class);
 		assertEquals("biorbyt", reagentComponent.getVendor().getName());
 	}
