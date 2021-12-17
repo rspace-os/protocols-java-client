@@ -9,7 +9,6 @@ import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import com.fasterxml.jackson.annotation.JsonTypeInfo.Id;
 
 import lombok.Data;
-import org.apache.commons.lang.ObjectUtils;
 
 import static com.researchspace.protocolsio.TypeConstants.*;
 
@@ -29,9 +28,11 @@ import static com.researchspace.protocolsio.TypeConstants.*;
 		@Type(value = PIOReagentComponent.class, name = REAGENT + ""),
 		@Type(value = PIOCasesComponent.class, name = STEP_CASES + ""),
 		@Type(value = PIOGotoPreviousStepComponent.class, name = GOTO_PREVIOUS + ""),
+		@Type(value = PIOFileComponent.class, name = FILE + ""),
 		@Type(value = PIOTemperatureComponent.class, name = TEMPERATURE + ""),
 		@Type(value = PIOConcentrationComponent.class, name = CONCENTRATION + ""),
 		@Type(value = PIOCommentComponent.class, name = NOTE + ""),
+		@Type(value = PIOEquipmentComponent.class, name = EQUIPMENT + ""),
 		@Type(value = PIOCentrifugeComponent.class, name = CENTRIFUGE + ""),
 		@Type(value = PIOUnknownComponent.class, name = UNKNOWN + ""),
 		@Type(value = PIOUnknownComponent.class, name = "2"),

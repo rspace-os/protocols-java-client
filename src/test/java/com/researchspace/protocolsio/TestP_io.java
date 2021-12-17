@@ -27,6 +27,8 @@ public class TestP_io {
 	File protocolComponent = new File("src/test/resources/protocolComponent.json");
 	File allComponent = new File("src/test/resources/allComponentExamples.json");
 	File unknownComponent = new File("src/test/resources/unknown_component_id.json");
+	File equipmentComponent = new File("src/test/resources/equipmentComponent.json");
+	File fileComponent = new File("src/test/resources/fileComponent.json");
 
 	@BeforeEach
 	public void setUp() throws Exception {
@@ -92,6 +94,26 @@ public class TestP_io {
 		PIOStep eightStep =  protocol.getSteps().get(8);
 		PIOStepComponent centrifugeStep = eightStep.getComponents().get(4);
 		assertEquals("centrifuge", centrifugeStep.getTitle());
+	}
+
+	@Test
+	@DisplayName("Handles equipment component types")
+	public void equipmentStepComponent() throws IOException {
+		String json = readFile(equipmentComponent);
+		Protocol protocol = parseJson(json, Protocol.class);
+		PIOStep stepFour =  protocol.getSteps().get(2);
+		PIOStepComponent equipmentStep = stepFour.getComponents().get(3);
+		assertEquals("equipment", equipmentStep.getTitle());
+	}
+
+	@Test
+	@DisplayName("Handles file component types")
+	public void fileStepComponent() throws IOException {
+		String json = readFile(fileComponent);
+		Protocol protocol = parseJson(json, Protocol.class);
+		PIOStep firstStep =  protocol.getSteps().get(0);
+		PIOStepComponent fileComponent = firstStep.getComponents().get(2);
+		assertEquals("file", fileComponent.getTitle());
 	}
 
 	private String readFile(File jsonFile) throws IOException {
