@@ -1,0 +1,2789 @@
+{
+        "id": 13913,
+        "title": "High-throughput assessment of changes in the Caenorhabditis elegans gut microbiome",
+        "title_html": "<p>High-throughput assessment of changes in the Caenorhabditis elegans gut microbiome<\/p>",
+        "image": {
+            "source": "https:\/\/www.protocols.io\/img\/default_protocol.png",
+            "placeholder": "https:\/\/www.protocols.io\/img\/default_protocol.png"
+        },
+        "doi": "dx.doi.org\/10.17504\/protocols.io.rtzd6p6",
+        "doi_status": 2,
+        "uri": "high-throughput-assessment-of-changes-in-the-caeno-rtzd6p6",
+        "type_id": 1,
+        "template_id": 1,
+        "published_on": 1600272368,
+        "stats": {
+            "number_of_views": 418,
+            "number_of_steps": 40,
+            "number_of_bookmarks": 1,
+            "number_of_comments": 10,
+            "number_of_exports": 26,
+            "number_of_runs": 0,
+            "number_of_votes": 1,
+            "is_voted": 0
+        },
+        "parent_protocols": [],
+        "parent_collections": [],
+        "cited_protocols": [],
+        "version_id": 0,
+        "version_data": {
+            "id": 0,
+            "code": "rtzd6p6",
+            "parent_id": 0,
+            "parent_uri": null,
+            "has_pending_merge_request": 0,
+            "has_approved_merge_request": 0
+        },
+        "created_on": 1532035897,
+        "modified_on": null,
+        "categories": null,
+        "public": 1,
+        "is_unlisted": 0,
+        "creator": {
+            "name": " ",
+            "affiliation": null,
+            "affiliations": [],
+            "username": null,
+            "note": null,
+            "link": null,
+            "image": {
+                "source": null,
+                "placeholder": null
+            },
+            "badges": [],
+            "verified": 0,
+            "is_verified_user": false,
+            "research_interests": null,
+            "blocked_by_you": false,
+            "blocked_you": false,
+            "hide_following": false
+        },
+        "journal": "G3: Genes|Genomes|Genetics",
+        "journal_name": "G3: Genes|Genomes|Genetics",
+        "journal_link": "https:\/\/doi.org\/10.1534\/g3.120.401309",
+        "article_citation": "Dirksen P,  Assi\u00e9 A,  Zimmermann J,  Zhang F,  Tietje A,  Marsh SA,  F\u00e9lix M,  Shapira M,  Kaleta C,  Schulenburg H,  Samuel BS, CeMbio - The  Microbiome Resource. G3: Genes|Genomes|Genetics  10(9). doi: <a target=\"_blank\" href=\"https:\/\/dx.doi.org\/10.1534\/g3.120.401309\">10.1534\/g3.120.401309<\/a> ",
+        "has_versions": 0,
+        "link": "https:\/\/doi.org\/10.1534\/g3.120.401309",
+        "total_collections": 0,
+        "number_of_steps": 40,
+        "authors": [
+            {
+                "name": "Fan Zhang",
+                "affiliation": "Baylor College of Medicine",
+                "affiliations": [],
+                "username": "fan-zhang",
+                "note": null,
+                "link": null,
+                "image": {
+                    "source": "https:\/\/s3.amazonaws.com\/pr-journal\/3ru2rcn.jpg",
+                    "placeholder": "https:\/\/s3.amazonaws.com\/pr-journal\/3ru2rcn.jpg"
+                },
+                "badges": [],
+                "verified": 1,
+                "is_verified_user": true,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+            },
+            {
+                "name": "Jessica Weckhorst",
+                "affiliation": "Baylor College of Medicine",
+                "affiliations": [],
+                "username": "jessica-weckhorst",
+                "note": null,
+                "link": null,
+                "image": {
+                    "source": "https:\/\/s3.amazonaws.com\/pr-journal\/yxi2acw.jpg",
+                    "placeholder": "https:\/\/s3.amazonaws.com\/pr-journal\/yxi2acw.jpg"
+                },
+                "badges": [],
+                "verified": 1,
+                "is_verified_user": true,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+            },
+            {
+                "name": "Adrien Assie",
+                "affiliation": "Baylor College of Medicine",
+                "affiliations": [],
+                "username": "adrien-assie",
+                "note": null,
+                "link": null,
+                "image": {
+                    "source": "https:\/\/s3.amazonaws.com\/pr-journal\/ycnz8k6.jpg",
+                    "placeholder": "https:\/\/s3.amazonaws.com\/pr-journal\/ycnz8k6.jpg"
+                },
+                "badges": [],
+                "verified": 1,
+                "is_verified_user": true,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+            },
+            {
+                "name": "Anastasia Khodakova",
+                "affiliation": "Baylor College of Medicine",
+                "affiliations": [],
+                "username": "anastasia-khodakova",
+                "note": null,
+                "link": null,
+                "image": {
+                    "source": "\/img\/avatars\/012.png",
+                    "placeholder": "\/img\/avatars\/012.png"
+                },
+                "badges": [],
+                "verified": 1,
+                "is_verified_user": true,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+            },
+            {
+                "name": "Mario Loeza Cabrera",
+                "affiliation": "Baylor College of Medicine",
+                "affiliations": [],
+                "username": "mario-loeza-cabrera",
+                "note": null,
+                "link": null,
+                "image": {
+                    "source": "\/img\/avatars\/014.png",
+                    "placeholder": "\/img\/avatars\/014.png"
+                },
+                "badges": [],
+                "verified": 1,
+                "is_verified_user": true,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+            },
+            {
+                "name": "Daniela Vidal",
+                "affiliation": "Baylor College of Medicine",
+                "affiliations": [],
+                "username": "daniela-vidal",
+                "note": null,
+                "link": null,
+                "image": {
+                    "source": "\/img\/avatars\/002.png",
+                    "placeholder": "\/img\/avatars\/002.png"
+                },
+                "badges": [],
+                "verified": 1,
+                "is_verified_user": true,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+            },
+            {
+                "name": "Christopher Ayoub",
+                "affiliation": "Baylor College of Medicine",
+                "affiliations": [],
+                "username": null,
+                "note": null,
+                "link": null,
+                "image": {
+                    "source": null,
+                    "placeholder": null
+                },
+                "badges": [],
+                "verified": 0,
+                "is_verified_user": false,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+            },
+            {
+                "name": "Buck Samuel",
+                "affiliation": "Baylor College of Medicine",
+                "affiliations": [],
+                "username": "buck-samuel",
+                "note": null,
+                "link": null,
+                "image": {
+                    "source": "\/img\/avatars\/012.png",
+                    "placeholder": "\/img\/avatars\/012.png"
+                },
+                "badges": [],
+                "verified": 1,
+                "is_verified_user": true,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+            }
+        ],
+        "versions": [],
+        "groups": [],
+        "is_owner": 0,
+        "has_subprotocols": 1,
+        "is_subprotocol": 0,
+        "is_bookmarked": 0,
+        "can_claim_authorship": 1,
+        "can_accept_authorship": 0,
+        "can_be_copied": 0,
+        "can_remove_fork": 1,
+        "fork_id": null,
+        "url": "https:\/\/www.protocols.io\/view\/high-throughput-assessment-of-changes-in-the-caeno-rtzd6p6",
+        "forks_count": {
+            "private": 0,
+            "public": 0
+        },
+        "access": {
+            "can_view": 0,
+            "can_remove": 0,
+            "can_add": 0,
+            "can_edit": 0,
+            "can_publish": 0,
+            "can_get_doi": 0,
+            "can_share": 0,
+            "can_move": 0,
+            "can_move_outside": 0,
+            "can_transfer": 0,
+            "can_download": 1,
+            "is_locked": 0
+        },
+        "guid": "8A5CB804B9DA11E99CA40242AC110005",
+        "state_version_id": 865,
+        "steps": [
+            {
+                "id": 645986,
+                "guid": "6547603A4AA24F8F82672A995B53DDB3",
+                "previous_id": null,
+                "previous_guid": null,
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "D5278E183AEF48678D1F87A219C43DD6",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "4991359889AA4EBDA27F09E0F6BF1D44",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Wash worms from bacterial lawns with M9 buffer + <\/div><div class = \"text-block\"> Triton X to a sterilized 2 ml 96-well deep plate.<\/div><div class = \"text-block\">Use <\/div><div class = \"text-block\"> M9+ Triton X to wash worms from a 12-well plate<\/div><div class = \"text-block\">Use<\/div><div class = \"text-block\"> M9+ Triton X to wash worms from a 24-well plate<\/div><br\/><br\/><br\/><br\/><br\/><br\/><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "C1A8475058B411EA90151BB84579A4E6",
+                        "order_id": 2,
+                        "type_id": 25,
+                        "title": "concentration",
+                        "source": {
+                            "concentration": 0.01,
+                            "unit": "Volume Percent",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "055046305C6511E993A067A25FB05C09",
+                        "order_id": 3,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 1000,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054727,
+                        "guid": "07CB31405C6511E993A067A25FB05C09",
+                        "order_id": 4,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 600,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054728,
+                        "guid": "887D41FBB9DA11E99CA40242AC110005",
+                        "order_id": 5,
+                        "type_id": 18,
+                        "title": "protocols",
+                        "source": {
+                            "id": 22276,
+                            "title": "M9 Medium",
+                            "title_html": "M9 Medium",
+                            "image": {
+                                "source": "https:\/\/www.protocols.io\/img\/default_protocol.png",
+                                "placeholder": "https:\/\/www.protocols.io\/img\/default_protocol.png"
+                            },
+                            "doi": "dx.doi.org\/10.17504\/protocols.io.zzcf72w",
+                            "doi_status": 2,
+                            "uri": "m9-medium-zzcf72w",
+                            "type_id": 1,
+                            "template_id": 1,
+                            "published_on": 1600445168,
+                            "stats": {
+                                "number_of_views": 0,
+                                "number_of_steps": 7,
+                                "number_of_bookmarks": 0,
+                                "number_of_comments": 0,
+                                "number_of_exports": 0,
+                                "number_of_runs": 0,
+                                "number_of_votes": 0,
+                                "is_voted": 0
+                            },
+                            "parent_protocols": [],
+                            "parent_collections": [],
+                            "cited_protocols": [],
+                            "version_id": 0,
+                            "version_data": {
+                                "id": 0,
+                                "code": "zzcf72w",
+                                "parent_id": 0,
+                                "parent_uri": null,
+                                "has_pending_merge_request": 0,
+                                "has_approved_merge_request": 0
+                            },
+                            "created_on": 1554934078,
+                            "modified_on": null,
+                            "categories": null,
+                            "public": 1,
+                            "is_unlisted": 0,
+                            "creator": {
+                                "name": " ",
+                                "affiliation": null,
+                                "affiliations": [],
+                                "username": null,
+                                "note": null,
+                                "link": null,
+                                "image": {
+                                    "source": null,
+                                    "placeholder": null
+                                },
+                                "badges": [],
+                                "verified": 0,
+                                "is_verified_user": false,
+                                "research_interests": null,
+                                "blocked_by_you": false,
+                                "blocked_you": false,
+                                "hide_following": false
+                            },
+                            "journal": "G3: Genes|Genomes|Genetics",
+                            "journal_name": "G3: Genes|Genomes|Genetics",
+                            "journal_link": "https:\/\/doi.org\/10.1534\/g3.120.401309",
+                            "article_citation": "Dirksen P,  Assi\u00e9 A,  Zimmermann J,  Zhang F,  Tietje A,  Marsh SA,  F\u00e9lix M,  Shapira M,  Kaleta C,  Schulenburg H,  Samuel BS, CeMbio - The  Microbiome Resource. G3: Genes|Genomes|Genetics  10(9). doi: <a target=\"_blank\" href=\"https:\/\/dx.doi.org\/10.1534\/g3.120.401309\">10.1534\/g3.120.401309<\/a> ",
+                            "has_versions": 0,
+                            "link": "https:\/\/doi.org\/10.1534\/g3.120.401309",
+                            "total_collections": 0,
+                            "number_of_steps": 7,
+                            "authors": [
+                                {
+                                    "name": "Fan Zhang",
+                                    "affiliation": "Baylor College of Medicine",
+                                    "affiliations": [],
+                                    "username": "fan-zhang",
+                                    "note": null,
+                                    "link": null,
+                                    "image": {
+                                        "source": "https:\/\/s3.amazonaws.com\/pr-journal\/3ru2rcn.jpg",
+                                        "placeholder": "https:\/\/s3.amazonaws.com\/pr-journal\/3ru2rcn.jpg"
+                                    },
+                                    "badges": [],
+                                    "verified": 1,
+                                    "is_verified_user": true,
+                                    "research_interests": null,
+                                    "blocked_by_you": false,
+                                    "blocked_you": false,
+                                    "hide_following": false
+                                },
+                                {
+                                    "name": "Jessica Weckhorst",
+                                    "affiliation": "Baylor College of Medicine",
+                                    "affiliations": [],
+                                    "username": "jessica-weckhorst",
+                                    "note": null,
+                                    "link": null,
+                                    "image": {
+                                        "source": "https:\/\/s3.amazonaws.com\/pr-journal\/yxi2acw.jpg",
+                                        "placeholder": "https:\/\/s3.amazonaws.com\/pr-journal\/yxi2acw.jpg"
+                                    },
+                                    "badges": [],
+                                    "verified": 1,
+                                    "is_verified_user": true,
+                                    "research_interests": null,
+                                    "blocked_by_you": false,
+                                    "blocked_you": false,
+                                    "hide_following": false
+                                },
+                                {
+                                    "name": "Adrien Assie",
+                                    "affiliation": "Baylor College of Medicine",
+                                    "affiliations": [],
+                                    "username": "adrien-assie",
+                                    "note": null,
+                                    "link": null,
+                                    "image": {
+                                        "source": "https:\/\/s3.amazonaws.com\/pr-journal\/ycnz8k6.jpg",
+                                        "placeholder": "https:\/\/s3.amazonaws.com\/pr-journal\/ycnz8k6.jpg"
+                                    },
+                                    "badges": [],
+                                    "verified": 1,
+                                    "is_verified_user": true,
+                                    "research_interests": null,
+                                    "blocked_by_you": false,
+                                    "blocked_you": false,
+                                    "hide_following": false
+                                },
+                                {
+                                    "name": "Anastasia Khodakova",
+                                    "affiliation": "Baylor College of Medicine",
+                                    "affiliations": [],
+                                    "username": "anastasia-khodakova",
+                                    "note": null,
+                                    "link": null,
+                                    "image": {
+                                        "source": "\/img\/avatars\/012.png",
+                                        "placeholder": "\/img\/avatars\/012.png"
+                                    },
+                                    "badges": [],
+                                    "verified": 1,
+                                    "is_verified_user": true,
+                                    "research_interests": null,
+                                    "blocked_by_you": false,
+                                    "blocked_you": false,
+                                    "hide_following": false
+                                },
+                                {
+                                    "name": "Mario Loeza Cabrera",
+                                    "affiliation": "Baylor College of Medicine",
+                                    "affiliations": [],
+                                    "username": "mario-loeza-cabrera",
+                                    "note": null,
+                                    "link": null,
+                                    "image": {
+                                        "source": "\/img\/avatars\/014.png",
+                                        "placeholder": "\/img\/avatars\/014.png"
+                                    },
+                                    "badges": [],
+                                    "verified": 1,
+                                    "is_verified_user": true,
+                                    "research_interests": null,
+                                    "blocked_by_you": false,
+                                    "blocked_you": false,
+                                    "hide_following": false
+                                },
+                                {
+                                    "name": "Daniela Vidal",
+                                    "affiliation": "Baylor College of Medicine",
+                                    "affiliations": [],
+                                    "username": "daniela-vidal",
+                                    "note": null,
+                                    "link": null,
+                                    "image": {
+                                        "source": "\/img\/avatars\/002.png",
+                                        "placeholder": "\/img\/avatars\/002.png"
+                                    },
+                                    "badges": [],
+                                    "verified": 1,
+                                    "is_verified_user": true,
+                                    "research_interests": null,
+                                    "blocked_by_you": false,
+                                    "blocked_you": false,
+                                    "hide_following": false
+                                },
+                                {
+                                    "name": "Christopher Ayoub",
+                                    "affiliation": "Baylor College of Medicine",
+                                    "affiliations": [],
+                                    "username": null,
+                                    "note": null,
+                                    "link": null,
+                                    "image": {
+                                        "source": null,
+                                        "placeholder": null
+                                    },
+                                    "badges": [],
+                                    "verified": 0,
+                                    "is_verified_user": false,
+                                    "research_interests": null,
+                                    "blocked_by_you": false,
+                                    "blocked_you": false,
+                                    "hide_following": false
+                                },
+                                {
+                                    "name": "Buck Samuel",
+                                    "affiliation": "Baylor College of Medicine",
+                                    "affiliations": [],
+                                    "username": "buck-samuel",
+                                    "note": null,
+                                    "link": null,
+                                    "image": {
+                                        "source": "\/img\/avatars\/012.png",
+                                        "placeholder": "\/img\/avatars\/012.png"
+                                    },
+                                    "badges": [],
+                                    "verified": 1,
+                                    "is_verified_user": true,
+                                    "research_interests": null,
+                                    "blocked_by_you": false,
+                                    "blocked_you": false,
+                                    "hide_following": false
+                                }
+                            ],
+                            "versions": [],
+                            "groups": [],
+                            "is_owner": 0,
+                            "has_subprotocols": 0,
+                            "is_subprotocol": 0,
+                            "is_bookmarked": 0,
+                            "can_claim_authorship": 1,
+                            "can_accept_authorship": 0,
+                            "can_be_copied": 0,
+                            "can_remove_fork": 1,
+                            "fork_id": null,
+                            "url": "https:\/\/www.protocols.io\/view\/m9-medium-zzcf72w",
+                            "forks_count": {
+                                "private": 0,
+                                "public": 0
+                            },
+                            "access": {
+                                "can_view": 0,
+                                "can_remove": 0,
+                                "can_add": 0,
+                                "can_edit": 0,
+                                "can_publish": 0,
+                                "can_get_doi": 0,
+                                "can_share": 0,
+                                "can_move": 0,
+                                "can_move_outside": 0,
+                                "can_transfer": 0,
+                                "can_download": 1,
+                                "is_locked": 0
+                            },
+                            "guid": "887D41FBB9DA11E99CA40242AC110005",
+                            "state_version_id": 22,
+                            "steps": [],
+                            "document": null,
+                            "materials": [],
+                            "description": "{\"blocks\":[{\"data\":[],\"depth\":0,\"entityRanges\":[],\"inlineStyleRanges\":[{\"length\":10,\"offset\":70,\"style\":\"italic\"}],\"key\":\"fdbkq\",\"text\":\"M9 Buffer recipe, transposed from the WormBook chapter: Maintenance ofC. elegans\",\"type\":\"unstyled\"},{\"data\":[],\"depth\":0,\"entityRanges\":[],\"inlineStyleRanges\":[],\"key\":\"e4mt\",\"text\":\"https:\\\/\\\/www.ncbi.nlm.nih.gov\\\/books\\\/NBK19649\\\/ \",\"type\":\"unstyled\"}],\"entityMap\":[]}",
+                            "changed_on": 1600445168
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#A492FF",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 645987,
+                "guid": "03AF20B669B748D0AC931CDE86596D31",
+                "previous_id": 645986,
+                "previous_guid": "6547603A4AA24F8F82672A995B53DDB3",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "7F16DB61FCD64965B5A5CC08BA3B22F3",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "4B8637FF1E1B4F40A32FDB3357CEBB79",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Bring each well to <\/div><div class = \"text-block\"> total with M9 + <\/div><div class = \"text-block\">Triton X using a multichannel pipette<\/div><br\/><br\/><br\/><br\/><br\/><br\/><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "75F47C805C6511E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 1.8,
+                            "unit": "mL",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "A5C6D3D058B411EA90151BB84579A4E6",
+                        "order_id": 3,
+                        "type_id": 25,
+                        "title": "concentration",
+                        "source": {
+                            "concentration": 0.01,
+                            "unit": "Volume Percent",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#A492FF",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 645988,
+                "guid": "E6978AA4F64A4852BE790EC3FD411231",
+                "previous_id": 645987,
+                "previous_guid": "03AF20B669B748D0AC931CDE86596D31",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "02E107394BFA46249B12BAD0842F002B",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "22C0AF435CB643EA8FB05BC1C938570F",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Centrifuge deep well plate at <\/div><div class = \"text-block\"> to pellet down worms, then remove liquid by using an aspirating manifold. Alternatively worms can be allowed to settle in the deep well plate by gravity without centrifugation to separate adults from progeny.<\/div><br\/><br\/><br\/><br\/><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "673E4FE05C6511E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 4,
+                        "title": "duration",
+                        "source": {
+                            "duration": 60,
+                            "title": "at 300g"
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "E8912631B18A4044896E5E8FE1954037",
+                        "order_id": 3,
+                        "type_id": 28,
+                        "title": "equipment",
+                        "source": {
+                            "brand": "V&P scientific",
+                            "sku": "VP1171A",
+                            "specifications": "Aspirating manifold, allow liquid aspiration from 96 well plates",
+                            "can_edit": false,
+                            "name": null,
+                            "type": null,
+                            "link": null,
+                            "file": null,
+                            "image": null
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#A492FF",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 645989,
+                "guid": "E339D530F4234F1DACDBDF75BCBA34D8",
+                "previous_id": 645988,
+                "previous_guid": "E6978AA4F64A4852BE790EC3FD411231",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "FE78FD61700E415CB50816E10AF2A72B",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "7308D392FB2A418EBC12F449E72AD298",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\"><span>Repeat steps 2-3 <\/span><span style = \"font-weight:bold;\">5 times<\/span><span> with M9 to further remove bacteria in liquid.<\/span><\/div><br\/><br\/><br\/><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#A492FF",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 645991,
+                "guid": "745DBAE357D044268874E211E2C8E812",
+                "previous_id": 645989,
+                "previous_guid": "E339D530F4234F1DACDBDF75BCBA34D8",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "C66291B01E114FC7B4D5761BA7E3DC3A",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "C1ED0EA81F8246499EB5FED4475E955A",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Bring the volume in each well down to <\/div><div class = \"text-block\">using the aspirating manifold.<\/div><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "8B1397405C6511E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 100,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#A492FF",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 645992,
+                "guid": "4B7AB1AC6BBE4CD4A997D80EB003A1BE",
+                "previous_id": 645991,
+                "previous_guid": "745DBAE357D044268874E211E2C8E812",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "4C9468780A454443B3B44614BFCB35D0",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "DB8E6B78BEAB49EBA589BA902383C0B4",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Add <\/div><div class = \"text-block\"> of <\/div><div class = \"text-block\">levamisole in 1X M9 + 0.01% Triton X to each well and allow the worms to paralyze for <\/div><div class = \"text-block\">. Confirm paralysis via microscopy before proceeding to the next step.<\/div><br\/><br\/><br\/><br\/><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "8D7506E05C6511E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 100,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "9034EA305C6511E993A067A25FB05C09",
+                        "order_id": 3,
+                        "type_id": 25,
+                        "title": "concentration",
+                        "source": {
+                            "concentration": 10,
+                            "unit": "Milimolar (mM)",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054727,
+                        "guid": "9BF975205C6511E993A067A25FB05C09",
+                        "order_id": 4,
+                        "type_id": 4,
+                        "title": "duration",
+                        "source": {
+                            "duration": 300,
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054728,
+                        "guid": "2DD1D585832D46E7B4375FAA59476A08",
+                        "order_id": 5,
+                        "type_id": 20,
+                        "title": "reagents",
+                        "source": {
+                            "id": 127132,
+                            "mol_weight": 240.76,
+                            "name": "Levamisole",
+                            "linfor": "C11H13ClN2S",
+                            "url": "https:\/\/www.fishersci.com\/shop\/products\/levamisole-hydrochloride-99-acros-organics-3\/p-3736783",
+                            "sku": "16595-80-5",
+                            "cas_number": "",
+                            "rrid": "",
+                            "public": 0,
+                            "vendor": {
+                                "name": "Acros Organics",
+                                "affiliation": null,
+                                "affiliations": [],
+                                "username": null,
+                                "note": null,
+                                "link": "http:\/\/www.acros.com\/",
+                                "image": {
+                                    "source": "https:\/\/www.protocols.iohttps:\/\/www.protocols.io\/img\/vendors\/placeholder.png",
+                                    "placeholder": "https:\/\/www.protocols.iohttps:\/\/www.protocols.io\/img\/vendors\/placeholder.png"
+                                },
+                                "badges": [],
+                                "verified": 0,
+                                "is_verified_user": false,
+                                "research_interests": null,
+                                "blocked_by_you": false,
+                                "blocked_you": false,
+                                "hide_following": false,
+                                "id": 117
+                            },
+                            "can_edit": 0,
+                            "stats": {
+                                "total_protocols": 0
+                            }
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#A492FF",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 645993,
+                "guid": "0673953A7CB246289032DCF082EF6785",
+                "previous_id": 645992,
+                "previous_guid": "4B7AB1AC6BBE4CD4A997D80EB003A1BE",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "F3461A0DFAC54BCFA209DCFBE38B8760",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "704617E98C3144959950A8F980CBCA60",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Add <\/div><div class = \"text-block\">of 4% bleach solution (2:1 Bleach:5M NaOH) in M9 to each well for <\/div><br\/><br\/><br\/><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "504E1EA05C6511E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 200,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "A03EE7005C6511E993A067A25FB05C09",
+                        "order_id": 3,
+                        "type_id": 4,
+                        "title": "duration",
+                        "source": {
+                            "duration": 120,
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054727,
+                        "guid": "3794B74C449A40EEBC847E26FBB7B986",
+                        "order_id": 4,
+                        "type_id": 26,
+                        "title": "notes",
+                        "source": {
+                            "id": 0,
+                            "parent_id": 0,
+                            "uri": "",
+                            "title": "",
+                            "body": "<div class = \"text-blocks\"><div class = \"text-block\">This will further eliminate bacteria in liquid and attached on worm cuticle.<\/div><\/div>",
+                            "created_on": 0,
+                            "changed_on": 0,
+                            "creator": {
+                                "name": "",
+                                "affiliation": null,
+                                "affiliations": [],
+                                "username": "",
+                                "note": null,
+                                "link": null,
+                                "image": {
+                                    "source": "",
+                                    "placeholder": ""
+                                },
+                                "badges": [],
+                                "verified": 0,
+                                "is_verified_user": false,
+                                "research_interests": null,
+                                "blocked_by_you": false,
+                                "blocked_you": false,
+                                "hide_following": false
+                            },
+                            "comments": []
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#A492FF",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 645994,
+                "guid": "318B8703869947B59F25D5864C3F695E",
+                "previous_id": 645993,
+                "previous_guid": "0673953A7CB246289032DCF082EF6785",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "14B481B68149408DAC6760514B04B3FF",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "2B081B1B3C5E49468E3BC664C9CFA224",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Repeat step 2-3 2 times with 1X M9 + <\/div><div class = \"text-block\">  Triton X to remove bleach and levamisole.<\/div><br\/><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "D0E8B29058B411EA90151BB84579A4E6",
+                        "order_id": 2,
+                        "type_id": 25,
+                        "title": "concentration",
+                        "source": {
+                            "concentration": 0.01,
+                            "unit": "Volume Percent",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#A492FF",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 645995,
+                "guid": "F24FC15525DD4204A15C6070ED585CED",
+                "previous_id": 645994,
+                "previous_guid": "318B8703869947B59F25D5864C3F695E",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "95244568AC4D4387BB9A9888C8A2531C",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "Optional"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "3CBBEA79D929413C9238ECA23A8F187E",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Save <\/div><div class = \"text-block\"> of supernatant from the last wash to use as a control to assess the background bacterial residual before host lysis.<\/div><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "A8BDBCD05C6511E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 100,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#94EBFF",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 645996,
+                "guid": "DBEB068695A24745B840CA8F7C1F48F8",
+                "previous_id": 645995,
+                "previous_guid": "F24FC15525DD4204A15C6070ED585CED",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "22F7FAC8335245FD82A7A42DFE0994EE",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "9434F86CCDC945ED89109182E1DBC6C1",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Bring liquid volume in each well to <\/div><div class = \"text-block\">1X M9 + <\/div><div class = \"text-block\">  Triton X, mix and transfer <\/div><div class = \"text-block\"> of the mixture to a flat bottom 96 well plate (Costar 3370, Corning).<\/div><br\/><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "481AD0C05C6511E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 1,
+                            "unit": "mL",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "E80A2D0058B411EA90151BB84579A4E6",
+                        "order_id": 3,
+                        "type_id": 25,
+                        "title": "concentration",
+                        "source": {
+                            "concentration": 0.01,
+                            "unit": "Volume Percent",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054727,
+                        "guid": "4B33A9805C6511E993A067A25FB05C09",
+                        "order_id": 4,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 100,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#84CE84",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 645997,
+                "guid": "6FDFF3663AE448E19CC279A747EB13B9",
+                "previous_id": 645996,
+                "previous_guid": "DBEB068695A24745B840CA8F7C1F48F8",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "EF6781FC29F34B10802D9B3D1E35F500",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "A8213D825B3C41BAACD47360F0DE1D85",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Take bright field images for each well for later analysis of worm population size, life stages, and individual length.<\/div><br\/><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#84CE84",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 645998,
+                "guid": "6F2F891B70C7438894034EB8494E8130",
+                "previous_id": 645997,
+                "previous_guid": "6FDFF3663AE448E19CC279A747EB13B9",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "827E719388BD4BE697D30EC4A6D3AC16",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "F93D968B643046D5B8F8437312F8AF4A",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Aspirate remaining liquid volume down to<\/div><div class = \"text-block\"> and add 1.0 mm sterilized garnet beads (Biospect) to each well (enough to cover well bottom).<\/div><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "43847FC05C6511E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 300,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#84CE84",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 645999,
+                "guid": "6B18AF762A6942F39A0C8F1FC762D4EB",
+                "previous_id": 645998,
+                "previous_guid": "6F2F891B70C7438894034EB8494E8130",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "074ADF5FF1F94D18A076ADB5B6892091",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "F3AA33A9F03D40C1AD51894FCE9A3C09",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Seal the plate with a sterile plastic mat and lyse worms in Mixer Mill (Restch) or TissueLyser at 25 Hz speed for 5 min.<\/div><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "9B1866292A1E4DA4A32495A51475A07C",
+                        "order_id": 2,
+                        "type_id": 4,
+                        "title": "duration",
+                        "source": {
+                            "duration": 300,
+                            "title": "Bead beating"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#84CE84",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 646000,
+                "guid": "8D32CBB3B12B4D1EA29A43858DAE015C",
+                "previous_id": 645999,
+                "previous_guid": "6B18AF762A6942F39A0C8F1FC762D4EB",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "55AAE8B81489410598283FB575802064",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "8BC35F1E378544B6965DFD76DDF08A8A",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Mix by pipetting and transfer <\/div><div class = \"text-block\">of cell lysate to a 96-well plate prepared with <\/div><div class = \"text-block\"> 1x PBS per well (1:10 dilution) and mix<\/div><br\/><br\/><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "3F4CC9805C6511E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 20,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "AFB35A905C6511E993A067A25FB05C09",
+                        "order_id": 3,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 180,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#84CE84",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 646001,
+                "guid": "D36E77C65B26464CAC399E3CBD430D51",
+                "previous_id": 646000,
+                "previous_guid": "8D32CBB3B12B4D1EA29A43858DAE015C",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "366A282700D4421283420A6664D675FB",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "High-throughput Colonization Assay"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "E43FCD65954541A8BFC8A44FC401EA88",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Transfer <\/div><div class = \"text-block\">of the dilution from step 14 to <\/div><div class = \"text-block\"> LB in 96 well flat bottom for liquid OD growth assay.<\/div><br\/><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "3B308A805C6511E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 20,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "3CEB80F05C6511E993A067A25FB05C09",
+                        "order_id": 3,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 180,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#84CE84",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 885715,
+                "guid": "2DF7B190541711EA8742C73820310F5D",
+                "previous_id": 646001,
+                "previous_guid": "D36E77C65B26464CAC399E3CBD430D51",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "5ACFF6E387F84C938A48742E9CCEF0FB",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "Calculate CFU based on liquid growth curve"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "69B7CEBA809940418BF6DE990A2FB8B0",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Fill a flat-bottom 96-well plate with <\/div><div class = \"text-block\"> of sterile filtered PBS. Pipette <\/div><div class = \"text-block\"> of the microbiome mixture used in the assay into four replicate wells in column 1 of the plate (e.g., A1, B1, C1, and D1). For controls, pipet <\/div><div class = \"text-block\"> of LB in the remaining wells of column 1.<\/div><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "795606E058B411EA90151BB84579A4E6",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 180,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "7B92896058B411EA90151BB84579A4E6",
+                        "order_id": 3,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 20,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054727,
+                        "guid": "7D55E44058B411EA90151BB84579A4E6",
+                        "order_id": 4,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 20,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#FFED92",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 885761,
+                "guid": "49BC4E40541711EA8742C73820310F5D",
+                "previous_id": 885715,
+                "previous_guid": "2DF7B190541711EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "9448423EBEEF447FB56B2F281612C3A6",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "Calculate CFU based on liquid growth curve"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "A57DF5620B7B4CACB4FF2E4E25E691DB",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Using a multichannel pipette, serially dilute the microbiome mixture (1:10) in columns 2-12 to create a dilution series for all wells of the plate. Change tips between each dilution\/column.<\/div><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#FFED92",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 885830,
+                "guid": "CB3F0B40541E11EA8742C73820310F5D",
+                "previous_id": 885761,
+                "previous_guid": "49BC4E40541711EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "0B9EEDC470874092BA00CF23BEEC9700",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "Calculate CFU based on liquid growth curve"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "A32DF48C833B433BA50DE8DA0E6C8AC7",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">From the serial dilution plate, plate <\/div><div class = \"text-block\"> of each dilution onto a rectangular LB plate using a multichannel pipette. Incubate at optimal growth temperature overnight. Count colonies for each of the wells where possible.<\/div><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "757BB2E058B411EA90151BB84579A4E6",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 10,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#FFED92",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 885831,
+                "guid": "D1292C70541E11EA8742C73820310F5D",
+                "previous_id": 885830,
+                "previous_guid": "CB3F0B40541E11EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "B21AEAC700544253B075A0D9CD9B5EE7",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "Calculate CFU based on liquid growth curve"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "4B426B4A36304FD29DAC67B6D38F4A7F",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Prepare a growth plate by filling each well of a flat bottom 96-well plate with <\/div><div class = \"text-block\"><span> of LB. Transfer 20 \u03bcL from the serial dilution plate to the corresponding well of the growth plate. Incubate at the optimal temperature with intermittent shaking and monitor OD<\/span><span style = \"vertical-align:sub;\">600 <\/span><span>regularly (e.g., every 15-30 min) until growth is observed in all wells.<\/span><\/div><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "737FE2E058B411EA90151BB84579A4E6",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 180,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#FFED92",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 885832,
+                "guid": "EE6FFC50541E11EA8742C73820310F5D",
+                "previous_id": 885831,
+                "previous_guid": "D1292C70541E11EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "9448F034C0C148A0B50D24245630523C",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "Calculate CFU based on liquid growth curve"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "C3738FB73E2841D5A0C16179438216EB",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\"><span>Use a plotting software (Microsoft Excel, R or otherwise), to visualize growth curves by plotting OD<\/span><span style = \"vertical-align:sub;\">600 <\/span><span>reading vs time for each well on a single chart. Verify that the growth patterns are consistent between replicates and growth curves are ordered by the dilution factor.<\/span><\/div><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#FFED92",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 885833,
+                "guid": "F05ADC60541E11EA8742C73820310F5D",
+                "previous_id": 885832,
+                "previous_guid": "EE6FFC50541E11EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "D0196FA860CC45C082D7578B49F9826F",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "Calculate CFU based on liquid growth curve"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "F48A033281584395889765F2E2FB6737",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\"><span>Identify the range of OD<\/span><span style = \"vertical-align:sub;\">600<\/span><span> values within the linear portion of the growth curves. Use the linear range identified and the following equation to calculate the optical density Threshold: <\/span><\/div><br\/><div style = \"text-align :; float : ;\"><span style = \"\">Threshold = \\frac{(OD_{600max}  - OD_{600min})}{2} + OD_{600min}<\/span><\/div><br\/><br\/><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#FFED92",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 886196,
+                "guid": "A555DAF054C111EA8742C73820310F5D",
+                "previous_id": 885833,
+                "previous_guid": "F05ADC60541E11EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "3E76E7595CD74018B6F7259A5693D8DD",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "Calculate CFU based on liquid growth curve"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "145A0F9B1D364408AF68768924E66F05",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\"><span>Using the only data points where the OD<\/span><span style = \"vertical-align:sub;\">600<\/span><span> readings for each well fall between the linear portion, calculate the Slope and Intercept<\/span><span style = \"font-style:italic;\"> <\/span><span>for each well<\/span><\/div><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#FFED92",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 886197,
+                "guid": "A7A7BA3054C111EA8742C73820310F5D",
+                "previous_id": 886196,
+                "previous_guid": "A555DAF054C111EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "6F9638CA6A4D4ACE9DF582BF7861159B",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "Calculate CFU based on liquid growth curve"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "3B5A6673122A4E598DD46373BEBA155A",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">To calculate the time at which each well reached the threshold (Y-axis of calibration curve), use the following equation for each well: <\/div><div style = \"text-align :; float : ;\"><span style = \"\">Time = \\frac{(Threshold - Intercept)}{Slope}<\/span><\/div><br\/><br\/><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#FFED92",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 886198,
+                "guid": "E94843B054C111EA8742C73820310F5D",
+                "previous_id": 886197,
+                "previous_guid": "A7A7BA3054C111EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "E413867DE8C648D09EBDC8AB81CC7161",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "Calculate CFU based on liquid growth curve"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "EA6738F0149C457191065FC68F44C643",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\"><span>Plot CFU values collected in <\/span><span style = \"font-weight:bold;\">Step 19 <\/span><span>vs.Time of Threshold<\/span><span style = \"font-style:italic;\"> <\/span><span>crossing for each well, and calculate the R squared value and exponential trendline<\/span><span style = \"font-style:italic;\"> <\/span><span>equation. Use the obtained equation to calculate CFU from the respective threshold time of each sample.<\/span><\/div><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#FFED92",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 886199,
+                "guid": "EEE52F4054C111EA8742C73820310F5D",
+                "previous_id": 886198,
+                "previous_guid": "E94843B054C111EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "7715705CFCD141B88526737F550FCD73",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "Calculate CFU based on liquid growth curve"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "845C6F7695DD4068A6007D49D5988692",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Determine colonization levels on a per animal basis for each sample using the following formula: <\/div><br\/><div style = \"text-align :; float : ;\"><span style = \"\">CFU \/ animal = \\frac{(CFU * Dilution factor)}{number  of animals}<\/span><\/div><br\/><br\/><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#FFED92",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 646003,
+                "guid": "1B6ECCA8E94A44F59F394C5075444628",
+                "previous_id": 886199,
+                "previous_guid": "EEE52F4054C111EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "5C086B36DC214DFDB86E1667CE158F91",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "847DEDEEF4254277BBC5D0BB556E6170",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Centrifuge the deep-well plate at 4000g for 10 mins to pellet worms and bacteria, then bring the remaining liquid volume down to <\/div><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "38BE03E05C6511E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 190,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "ADB97ADCB4BF49E8ACA207C97E1486B8",
+                        "order_id": 3,
+                        "type_id": 4,
+                        "title": "duration",
+                        "source": {
+                            "duration": 600,
+                            "title": "Centrifugation at 4000g"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": null,
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 885686,
+                "guid": "14825180541611EA8742C73820310F5D",
+                "previous_id": 646003,
+                "previous_guid": "1B6ECCA8E94A44F59F394C5075444628",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "A60816D4005E4435924A5F545CEE0F1E",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "12A57DFDB50945B398B991488971824C",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Freeze the lysate in -80 \u00b0C freezer overnight.DNA extraction and 16S rRNA PCR <\/div><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "03A8D6CCE3D743B8A1F57BD5A6905DEF",
+                        "order_id": 2,
+                        "type_id": 24,
+                        "title": "temperature",
+                        "source": {
+                            "temperature": -80,
+                            "unit": "\u00b0C",
+                            "title": "Freezing"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 885708,
+                "guid": "5FBB3720541611EA8742C73820310F5D",
+                "previous_id": 885686,
+                "previous_guid": "14825180541611EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "0C92EE8997D84744B0048E7CA32EB4A8",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "F341E75A3F114D8F9EBC0F19581EA4E1",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Thaw the plate and add 0.1 mm sterile zirconia\/silica beads (BioSpec products) to each well (enough to cover well bottom) and bead-beat in Mixer Mill (Restch) or TissueLyser for 5 mins to further lyse bacterial cells.<\/div><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "A29065058930400A9104FBF05718CA71",
+                        "order_id": 2,
+                        "type_id": 4,
+                        "title": "duration",
+                        "source": {
+                            "duration": 300,
+                            "title": "Shaking\/Lysis"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 886203,
+                "guid": "D0B06B0054C311EA8742C73820310F5D",
+                "previous_id": 885708,
+                "previous_guid": "5FBB3720541611EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "18997CCE159E4DC4BBB352A4D7ECD80A",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "6A6CF80208B44BBFA5F0CAFFC59F5CB8",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Add <\/div><div class = \"text-block\">of <\/div><div class = \"text-block\">   proteinase K to each well.<\/div><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "BB17EB305C6511E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 10,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "0B9A670058B311EA90151BB84579A4E6",
+                        "order_id": 3,
+                        "type_id": 25,
+                        "title": "concentration",
+                        "source": {
+                            "concentration": 20,
+                            "unit": null,
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 886204,
+                "guid": "DB0FE7B054C311EA8742C73820310F5D",
+                "previous_id": 886203,
+                "previous_guid": "D0B06B0054C311EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "E7AFDC140A58425080337111038D1B25",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "B2786A4E5CA74D23838F266BE493103A",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">In a ThermoCycler run a program as follow:<\/div><div class = \"text-block\">at <\/div><div class = \"text-block\">at <\/div><div class = \"text-block\">to desactivate the proteinase K<\/div><div class = \"text-block\">keep on hold at <\/div><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "1EABB4F968954D7FBA9602A30C7D1E3C",
+                        "order_id": 2,
+                        "type_id": 4,
+                        "title": "duration",
+                        "source": {
+                            "duration": 3600,
+                            "title": "step"
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "C4E07F105C6511E993A067A25FB05C09",
+                        "order_id": 3,
+                        "type_id": 24,
+                        "title": "temperature",
+                        "source": {
+                            "temperature": 60,
+                            "unit": "\u00b0C",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054727,
+                        "guid": "E38187C05C6511E993A067A25FB05C09",
+                        "order_id": 4,
+                        "type_id": 4,
+                        "title": "duration",
+                        "source": {
+                            "duration": 900,
+                            "title": "step"
+                        }
+                    },
+                    {
+                        "id": 1054728,
+                        "guid": "F0A295705C6511E993A067A25FB05C09",
+                        "order_id": 5,
+                        "type_id": 24,
+                        "title": "temperature",
+                        "source": {
+                            "temperature": 95,
+                            "unit": "\u00b0C",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054729,
+                        "guid": "03810F005C6611E993A067A25FB05C09",
+                        "order_id": 6,
+                        "type_id": 24,
+                        "title": "temperature",
+                        "source": {
+                            "temperature": 4,
+                            "unit": "\u00b0C",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 886205,
+                "guid": "DDD6A8D054C311EA8742C73820310F5D",
+                "previous_id": 886204,
+                "previous_guid": "DB0FE7B054C311EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "FC7AE3301BE94EE68189EB506453D9C4",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "9AB72FDD4CC04AD3B413AFDAC1C34115",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Centrifuge the plate <\/div><div class = \"text-block\">to pellet down cellular fractions.<\/div><div class = \"text-block\">Transfer <\/div><div class = \"text-block\"> of supernatant to a clean 96 well PCR plate.<\/div><div class = \"text-block\">If using the plate again soon, place at <\/div><div class = \"text-block\">, otherwise, store at <\/div><div class = \"text-block\"><ul style = \"list-style-type:disc;\"><\/ul><\/div><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "094383F05C6611E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 4,
+                        "title": "duration",
+                        "source": {
+                            "duration": 600,
+                            "title": "at 4000g"
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "110C77405C6611E993A067A25FB05C09",
+                        "order_id": 3,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 100,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054727,
+                        "guid": "140349105C6611E993A067A25FB05C09",
+                        "order_id": 4,
+                        "type_id": 24,
+                        "title": "temperature",
+                        "source": {
+                            "temperature": 4,
+                            "unit": "\u00b0C",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054728,
+                        "guid": "15D45F905C6611E993A067A25FB05C09",
+                        "order_id": 5,
+                        "type_id": 24,
+                        "title": "temperature",
+                        "source": {
+                            "temperature": -80,
+                            "unit": "\u00b0C",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 886206,
+                "guid": "E9B87FC054C311EA8742C73820310F5D",
+                "previous_id": 886205,
+                "previous_guid": "DDD6A8D054C311EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "B6675AF1A71A4431BEA1862A58C60ECA",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "BF40E482622443F0AD74FD914591731B",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">In a 5 mL microcentrifuge tube, mix:<\/div><div class = \"text-block\"> of 2x Taq Master Mix (1 tube)<\/div><div class = \"text-block\"> of 515F primer<\/div><div class = \"text-block\"><span> H<\/span><span style = \"vertical-align:sub;\">2<\/span><span style = \"vertical-align:sub;\">O<\/span><\/div><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "1F5515005C6611E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 1.25,
+                            "unit": "mL",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "21F080605C6611E993A067A25FB05C09",
+                        "order_id": 3,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 100,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054727,
+                        "guid": "283FA4F05C6611E993A067A25FB05C09",
+                        "order_id": 4,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 1,
+                            "unit": "mL",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 886207,
+                "guid": "EB3E356054C311EA8742C73820310F5D",
+                "previous_id": 886206,
+                "previous_guid": "E9B87FC054C311EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "3CDFC26D757B4C848403DE6E4EFA0BBA",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "0FAE0505B8E24506AEE1997FA8A83572",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Add<\/div><div class = \"text-block\">of newly mixed master mix into each well of a new 96 well PCR plate<\/div><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "F5C2F8C058B211EA90151BB84579A4E6",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 23,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 886208,
+                "guid": "08043C8054C411EA8742C73820310F5D",
+                "previous_id": 886207,
+                "previous_guid": "EB3E356054C311EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "D389C6E9675449B89D6913231651F00F",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "50B8FB6C3AE143FA9248632BF408E076",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Add <\/div><div class = \"text-block\"> of reverse primer 806R to each well of the 96 well PCR plate.<\/div><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "35BBA3E05C6611E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 1,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 886209,
+                "guid": "09E6DF3054C411EA8742C73820310F5D",
+                "previous_id": 886208,
+                "previous_guid": "08043C8054C411EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "AA26FB7662494FF5B986250637CFEB0C",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "8842A5386426480FABD5AE86B19808FE",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Add <\/div><div class = \"text-block\">of the supernatant from the PCR plate prepared in step 23 as DNA template for the PCR.<\/div><br\/><div class = \"text-block\">The remaining supernatant can be\u00a0frozen at <\/div><div class = \"text-block\"> for storage.<\/div><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "383DBAE05C6611E993A067A25FB05C09",
+                        "order_id": 2,
+                        "type_id": 3,
+                        "title": "amount",
+                        "source": {
+                            "amount": 1,
+                            "unit": "\u00b5l",
+                            "title": ""
+                        }
+                    },
+                    {
+                        "id": 1054726,
+                        "guid": "3AA7B6005C6611E993A067A25FB05C09",
+                        "order_id": 3,
+                        "type_id": 24,
+                        "title": "temperature",
+                        "source": {
+                            "temperature": -80,
+                            "unit": "\u00b0C",
+                            "title": ""
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 886210,
+                "guid": "16CBCE4054C411EA8742C73820310F5D",
+                "previous_id": 886209,
+                "previous_guid": "09E6DF3054C411EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "9F92893C47D9473886DA8C5E0C98E224",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "3F95BD220766417496DDF52C78E33E18",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Place the PCR plate in the ThermoCycler and run the following program<\/div><br\/><table border><tr style = \"text-align:center;\"><td>  <\/td><td>A<\/td><td>B<\/td><td>C<\/td><\/tr><tr><td style = \"text-align:center;\">1<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Temperature<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">Time, 96-well<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">Repeat<\/td><\/tr><tr><td style = \"text-align:center;\">2<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">94 \u00b0C<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">3 min<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"><\/td><\/tr><tr><td style = \"text-align:center;\">3<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">94 \u00b0C<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">45 s<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">x35<\/td><\/tr><tr><td style = \"text-align:center;\">4<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">50 \u00b0C<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">60 s<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">x35<\/td><\/tr><tr><td style = \"text-align:center;\">5<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">72 \u00b0C<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">90 s<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">x35<\/td><\/tr><tr><td style = \"text-align:center;\">6<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">72 \u00b0C<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">10 min<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"><\/td><\/tr><tr><td style = \"text-align:center;\">7<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">4 \u00b0C<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">hold<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"><\/td><\/tr><\/table><br\/><br\/><\/div>"
+                        }
+                    },
+                    {
+                        "id": 1054725,
+                        "guid": "042A67909B15431C9C88F6B343F5872C",
+                        "order_id": 2,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<table border><tr style = \"text-align:center;\"><td>  <\/td><td>A<\/td><td>B<\/td><td>C<\/td><\/tr><tr><td style = \"text-align:center;\">1<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;font-weight:bold;\">Temperature<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">Time, 96-well<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">Repeat<\/td><\/tr><tr><td style = \"text-align:center;\">2<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">94 \u00b0C<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">3 min<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"><\/td><\/tr><tr><td style = \"text-align:center;\">3<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">94 \u00b0C<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">45 s<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">x35<\/td><\/tr><tr><td style = \"text-align:center;\">4<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">50 \u00b0C<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">60 s<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">x35<\/td><\/tr><tr><td style = \"text-align:center;\">5<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">72 \u00b0C<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">90 s<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">x35<\/td><\/tr><tr><td style = \"text-align:center;\">6<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">72 \u00b0C<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">10 min<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"><\/td><\/tr><tr><td style = \"text-align:center;\">7<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">4 \u00b0C<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\">hold<\/td><td rowspan = \"\" colspan = \"\" style =\"display : table-cell;\"><\/td><\/tr><\/table>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 887400,
+                "guid": "1E501440573111EA8742C73820310F5D",
+                "previous_id": 886210,
+                "previous_guid": "16CBCE4054C411EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "F4A7880068994F8B86CA280681992CB0",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "65F46FA2EB7A49AAA1275E75B0FAC994",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Verify PCR amplification results with an agarose gel. Prepare a 1.5% agarose gel. Mix 2 \u00b5L of loading dye with 4 \u00b5L of PCR product per sample and load 5 \u00b5L in the gel along with 1 kb ladder.<\/div><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 887481,
+                "guid": "85AA5000574611EA8742C73820310F5D",
+                "previous_id": 887400,
+                "previous_guid": "1E501440573111EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "F7C8F566DDFF471F9794C6CCB71CBF14",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "7E5E0A75312C40109856553607EC2C6B",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Purify PCR product using commercial PCR purification kit.<\/div><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 887482,
+                "guid": "8CEB9CC0574611EA8742C73820310F5D",
+                "previous_id": 887481,
+                "previous_guid": "85AA5000574611EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "76F046338E9748DCA51E9DCC847D160E",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "807D92DAF1334A2085E0756B582917DF",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Quantify the intensity of PCR product band from each library (gel or fluorometry), normalize PCR product amount by volume and pool libraries together with an equivalent amount of PCR product into a single tube.<\/div><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            },
+            {
+                "id": 887483,
+                "guid": "969FBE40574611EA8742C73820310F5D",
+                "previous_id": 887482,
+                "previous_guid": "8CEB9CC0574611EA8742C73820310F5D",
+                "modified_on": 0,
+                "protocol_id": 0,
+                "components": [
+                    {
+                        "id": 1054723,
+                        "guid": "402D2228CA2B4BC79A5846AEE5590606",
+                        "order_id": 1,
+                        "type_id": 6,
+                        "title": "Section",
+                        "source": {
+                            "title": "DNA extraction and 16S rRNA PCR"
+                        }
+                    },
+                    {
+                        "id": 1054724,
+                        "guid": "850892EF9828467B89D494CCF4493DA7",
+                        "order_id": 1,
+                        "type_id": 1,
+                        "title": "description",
+                        "source": {
+                            "description": "<div class = \"text-blocks\"><div class = \"text-block\">Submit samples for multiplex sequencing along with sequencing primer<\/div><\/div>"
+                        }
+                    }
+                ],
+                "cases": [],
+                "data": null,
+                "html": null,
+                "section": null,
+                "section_color": "#EA9F6C",
+                "section_duration": 0,
+                "critical": [],
+                "critical_id": null,
+                "duration": 0
+            }
+        ],
+        "document": null,
+        "materials": [],
+        "description": "<div class = \"text-blocks\"><div class = \"text-block\"><span>The gut microbiome is an important driver of host physiology and development. Altered abundance or membership of this microbe community can influence host health and disease progression, including the determination of host lifespan and healthspan. Here, we describe a robust pipeline to measure the microbiome abundance and composition in the <\/span><span style = \"font-style:italic;\">C. elegans <\/span><span>gut that can be applied to examine the role of the microbiome on host aging processes.<\/span><\/div><\/div>",
+        "changed_on": 1600272368,
+        "guidelines": "<div class = \"text-blocks\"><div class = \"text-block\">This protocol starts once you have your nematodes of interest and want to know what type of bacteria, and how many are present in the worms digestive tract.<\/div><\/div>",
+        "before_start": "<div class = \"text-blocks\"><div class = \"text-block\">Before starting the Colonization assay you should have the following:<\/div><div class = \"text-block\"><ol style = \"list-style-type: decimal;\"><li style = \"counter-reset:ol0;\">An egg prep of the desired worm strains<\/li><li style = \"counter-reset:ol0;\">Seeded NGM plate(s) with desired bacterial strain(s)<\/li><li style = \"counter-reset:ol0;\">Drop ~30 L1 worms on seeded plates and incubate at 20\u00b0C. Allow the worm to grow until desired age<\/li><\/ol><\/div><\/div>",
+        "warning": "<div class = \"text-blocks\"><br\/><\/div>",
+        "materials_text": "<div class = \"text-blocks\"><div class = \"text-block\">STEP MATERIALS<\/div><br\/><div class = \"text-block\">Prepare all solutions using MilliQ water and store all reagents at room temperature unless otherwise noted.<\/div><br\/><div class = \"text-block\"><span style = \":UNDERLINE;\">1. Bacterial culture and maintenance<\/span><\/div><div class = \"text-block\"><ol style = \"list-style-type: decimal;\"><li style = \"counter-reset:ol0;\">LB Medium: Add 10 g bacto-tryptone to 900 mL water in 1 L glass autoclavable bottle (e.g., Pyrex), then add 5g bacto-yeast, 5 g NaCl and adjust pH to 7.0 using 5 M NaOH. For LB agar,add 15 g of agar, adjust volumeto 1000 mL and autoclave.<\/li><li style = \"counter-reset:ol0;\">Rectangular plates: Stamp out bacterial culture stock in 96 well plate format.<\/li><li style = \"counter-reset:ol0;\">Deep well plates: Grow bacterial culture in 96 well plate format (Axygen).<\/li><li style = \"counter-reset:ol0;\"><\/li><li style = \"counter-reset:ol0;\"><span style = \":UNDERLINE;\">2. <\/span><span style = \":UNDERLINE;font-style:italic;\">C. elegans <\/span><span style = \":UNDERLINE;\">culture and maintenance<\/span><\/li><li style = \"counter-reset:ol0;\"><span>Nematode Growth Medium (NGM) Agar: Start with 975 mL water in 1 L glass autoclavable bottle (Pyrex, etc) , add 3.0 g NaCl, 2.5 g peptone, 17 g agar and autoclave with a magnetic stir bar. Cool the mixture down to 55\u00b0C on a heat plate preheated to 55\u00b0C and add the following while stirring it: 0.5 mL of 1 M CaCl<\/span><span style = \"vertical-align:sub;\">2<\/span><span>(sterile), 1 mL of 5 mg\/mL cholesterol (dissolved in ethanol), 1 mL of 1 M MgSO<\/span><span style = \"vertical-align:sub;\">4<\/span><span>(sterile), 25 mL of 1 M potassium phosphate buffer, pH 6.0 (sterile), pour into petri dishes or multiple well plate using sterile technique.<\/span><\/li><li style = \"counter-reset:ol0;\"><span>M9 buffer: Start with 700 mL water in 1 L glass autoclavable bottle (Pyrex, etc), add6 g Na<\/span><span style = \"vertical-align:sub;\">2<\/span><span>HPO<\/span><span style = \"vertical-align:sub;\">4<\/span><span>, 3 g KH<\/span><span style = \"vertical-align:sub;\">2<\/span><span>PO<\/span><span style = \"vertical-align:sub;\">4<\/span><span>, 5 g NaCl , 0.25 g MgSO<\/span><span style = \"vertical-align:sub;\">4<\/span><span>\u22197H<\/span><span style = \"vertical-align:sub;\">2<\/span><span>O or 1 mL of 1 M MgSO<\/span><span style = \"vertical-align:sub;\">4<\/span><span>, add water to 1000 mL, and autoclave.<\/span><\/li><li style = \"counter-reset:ol0;\">Multiwell plates: 12 or 24 well plates with NGM agar for cultivation ofC. elegans.<\/li><li style = \"counter-reset:ol0;\"><\/li><li style = \"counter-reset:ol0;\"><span style = \":UNDERLINE;\">3. Measurement of microbiome colonization levels<\/span><\/li><li style = \"counter-reset:ol0;\">M9-wash solution:Prepare 0.01% Triton X-100 solution in M9 buffer form 5% Triton X-100 stock solution in M9 buffer. Sterilize by filtration through 0.22 \u00b5m filter. <\/li><li style = \"counter-reset:ol0;\">Levamisole solution: Prepare 100 mM stock solution of levamisole in M9 buffer and dilute it to 10 mM to be used as working solution. Sterilize by filtration through 0.22 \u00b5m filter. Prepare fresh before use.<\/li><li style = \"counter-reset:ol0;\">Egg prep bleach solution: Mix 2 parts of Clorox bleach and 1 part of 5M NaOH. Prepare fresh before use.<\/li><li style = \"counter-reset:ol0;\">Wash bleach solution: Prepare a 4% Bleach solution in M9 buffer. Prepare fresh before use.<\/li><li style = \"counter-reset:ol0;\">Garnet beads (1.0 mm): for mechanical lysis of worms by bead-beating. Sterilize by autoclaving before use.<\/li><li style = \"counter-reset:ol0;\">Phosphate buffer saline(PBS;1X): pH 7.2, 0.22 \u00b5m filter sterilized.<\/li><li style = \"counter-reset:ol0;\"><\/li><li style = \"counter-reset:ol0;\"><span style = \":UNDERLINE;\">4. Measurement of microbiome composition and diversity<\/span><\/li><li style = \"counter-reset:ol0;\">PCR primers<\/li><li style = \"counter-reset:ol0;\">Silica beads (0.1 mm): for mechanical lysis of bacterial cells by bead-beating prior to DNA isolation. Sterilize by autoclaving before use.<\/li><li style = \"counter-reset:ol0;\">96-well PCR plates: for use in Proteinase K treatments during microbiome DNA extraction and PCR amplifications.<\/li><li style = \"counter-reset:ol0;\">PCR master mix <\/li><li style = \"counter-reset:ol0;\">Agarose gel electrophoresis supplies<\/li><li style = \"counter-reset:ol0;\">Low melt agarose powder<\/li><li style = \"counter-reset:ol0;\">TAE buffer (40 mM Tris-acetate, 1 mM EDTA)<\/li><li style = \"counter-reset:ol0;\">1Kb ladder (NEB)<\/li><li style = \"counter-reset:ol0;\">Gel loading dye (NEB)<\/li><li style = \"counter-reset:ol0;\">PCR purification kit: Removes primers, nucleotides, enzymes and other impurities from PCR product before sequencing.<\/li><li style = \"counter-reset:ol0;\"><\/li><li style = \"counter-reset:ol0;\"><span style = \":UNDERLINE;\">5. Equipment<\/span><\/li><li style = \"counter-reset:ol0;\">Multiple channel pipette: 12 channel pipettes (1000ul and 200ul) are commonly used in the assay to dispense liquid reagentsand transfer volumes between plates.<\/li><li style = \"counter-reset:ol0;\">Plate reader: for assessment of optical density (OD) in 96 well clear flat bottom plates.<\/li><li style = \"counter-reset:ol0;\">PCR thermocycler: for use in Proteinase K treatment during microbiome DNA extraction and generation of 16S rRNA gene amplicon libraries.<\/li><li style = \"counter-reset:ol0;\">Mixer mill: for use in lysis of animals and microbial cells by bead-beating (Retsch MM400).<\/li><li style = \"counter-reset:ol0;\">Microplate aspiration manifold: for use in rapid removal of supernatants during wash steps (VP1171A V&P scientific).<\/li><\/ol><\/div><br\/><div class = \"text-block\"><span style = \":UNDERLINE;\">2. <\/span><span style = \":UNDERLINE;font-style:italic;\">C. elegans <\/span><span style = \":UNDERLINE;\">culture and maintenance<\/span><\/div><div class = \"text-block\"><ol style = \"list-style-type: decimal;\"><li style = \"counter-reset:ol0;\"><span>Nematode Growth Medium (NGM) Agar: Start with 975 mL water in 1 L glass autoclavable bottle (Pyrex, etc) , add 3.0 g NaCl, 2.5 g peptone, 17 g agar and autoclave with a magnetic stir bar. Cool the mixture down to 55\u00b0C on a heat plate preheated to 55\u00b0C and add the following while stirring it: 0.5 mL of 1 M CaCl<\/span><span style = \"vertical-align:sub;\">2<\/span><span>(sterile), 1 mL of 5 mg\/mL cholesterol (dissolved in ethanol), 1 mL of 1 M MgSO<\/span><span style = \"vertical-align:sub;\">4<\/span><span>(sterile), 25 mL of 1 M potassium phosphate buffer, pH 6.0 (sterile), pour into petri dishes or multiple well plate using sterile technique.<\/span><\/li><li style = \"counter-reset:ol0;\"><span>M9 buffer: Start with 700 mL water in 1 L glass autoclavable bottle (Pyrex, etc), add6 g Na<\/span><span style = \"vertical-align:sub;\">2<\/span><span>HPO<\/span><span style = \"vertical-align:sub;\">4<\/span><span>, 3 g KH<\/span><span style = \"vertical-align:sub;\">2<\/span><span>PO<\/span><span style = \"vertical-align:sub;\">4<\/span><span>, 5 g NaCl , 0.25 g MgSO<\/span><span style = \"vertical-align:sub;\">4<\/span><span>\u22197H<\/span><span style = \"vertical-align:sub;\">2<\/span><span>O or 1 mL of 1 M MgSO<\/span><span style = \"vertical-align:sub;\">4<\/span><span>, add water to 1000 mL, and autoclave.<\/span><\/li><li style = \"counter-reset:ol0;\">Multiwell plates: 12 or 24 well plates with NGM agar for cultivation ofC. elegans.<\/li><li style = \"counter-reset:ol0;\"><\/li><li style = \"counter-reset:ol0;\"><span style = \":UNDERLINE;\">3. Measurement of microbiome colonization levels<\/span><\/li><li style = \"counter-reset:ol0;\">M9-wash solution:Prepare 0.01% Triton X-100 solution in M9 buffer form 5% Triton X-100 stock solution in M9 buffer. Sterilize by filtration through 0.22 \u00b5m filter. <\/li><li style = \"counter-reset:ol0;\">Levamisole solution: Prepare 100 mM stock solution of levamisole in M9 buffer and dilute it to 10 mM to be used as working solution. Sterilize by filtration through 0.22 \u00b5m filter. Prepare fresh before use.<\/li><li style = \"counter-reset:ol0;\">Egg prep bleach solution: Mix 2 parts of Clorox bleach and 1 part of 5M NaOH. Prepare fresh before use.<\/li><li style = \"counter-reset:ol0;\">Wash bleach solution: Prepare a 4% Bleach solution in M9 buffer. Prepare fresh before use.<\/li><li style = \"counter-reset:ol0;\">Garnet beads (1.0 mm): for mechanical lysis of worms by bead-beating. Sterilize by autoclaving before use.<\/li><li style = \"counter-reset:ol0;\">Phosphate buffer saline(PBS;1X): pH 7.2, 0.22 \u00b5m filter sterilized.<\/li><li style = \"counter-reset:ol0;\"><\/li><li style = \"counter-reset:ol0;\"><span style = \":UNDERLINE;\">4. Measurement of microbiome composition and diversity<\/span><\/li><li style = \"counter-reset:ol0;\">PCR primers<\/li><li style = \"counter-reset:ol0;\">Silica beads (0.1 mm): for mechanical lysis of bacterial cells by bead-beating prior to DNA isolation. Sterilize by autoclaving before use.<\/li><li style = \"counter-reset:ol0;\">96-well PCR plates: for use in Proteinase K treatments during microbiome DNA extraction and PCR amplifications.<\/li><li style = \"counter-reset:ol0;\">PCR master mix <\/li><li style = \"counter-reset:ol0;\">Agarose gel electrophoresis supplies<\/li><li style = \"counter-reset:ol0;\">Low melt agarose powder<\/li><li style = \"counter-reset:ol0;\">TAE buffer (40 mM Tris-acetate, 1 mM EDTA)<\/li><li style = \"counter-reset:ol0;\">1Kb ladder (NEB)<\/li><li style = \"counter-reset:ol0;\">Gel loading dye (NEB)<\/li><li style = \"counter-reset:ol0;\">PCR purification kit: Removes primers, nucleotides, enzymes and other impurities from PCR product before sequencing.<\/li><li style = \"counter-reset:ol0;\"><\/li><li style = \"counter-reset:ol0;\"><span style = \":UNDERLINE;\">5. Equipment<\/span><\/li><li style = \"counter-reset:ol0;\">Multiple channel pipette: 12 channel pipettes (1000ul and 200ul) are commonly used in the assay to dispense liquid reagentsand transfer volumes between plates.<\/li><li style = \"counter-reset:ol0;\">Plate reader: for assessment of optical density (OD) in 96 well clear flat bottom plates.<\/li><li style = \"counter-reset:ol0;\">PCR thermocycler: for use in Proteinase K treatment during microbiome DNA extraction and generation of 16S rRNA gene amplicon libraries.<\/li><li style = \"counter-reset:ol0;\">Mixer mill: for use in lysis of animals and microbial cells by bead-beating (Retsch MM400).<\/li><li style = \"counter-reset:ol0;\">Microplate aspiration manifold: for use in rapid removal of supernatants during wash steps (VP1171A V&P scientific).<\/li><\/ol><\/div><br\/><div class = \"text-block\"><span style = \":UNDERLINE;\">3. Measurement of microbiome colonization levels<\/span><\/div><div class = \"text-block\"><ol style = \"list-style-type: decimal;\"><li style = \"counter-reset:ol0;\">M9-wash solution:Prepare 0.01% Triton X-100 solution in M9 buffer form 5% Triton X-100 stock solution in M9 buffer. Sterilize by filtration through 0.22 \u00b5m filter. <\/li><li style = \"counter-reset:ol0;\">Levamisole solution: Prepare 100 mM stock solution of levamisole in M9 buffer and dilute it to 10 mM to be used as working solution. Sterilize by filtration through 0.22 \u00b5m filter. Prepare fresh before use.<\/li><li style = \"counter-reset:ol0;\">Egg prep bleach solution: Mix 2 parts of Clorox bleach and 1 part of 5M NaOH. Prepare fresh before use.<\/li><li style = \"counter-reset:ol0;\">Wash bleach solution: Prepare a 4% Bleach solution in M9 buffer. Prepare fresh before use.<\/li><li style = \"counter-reset:ol0;\">Garnet beads (1.0 mm): for mechanical lysis of worms by bead-beating. Sterilize by autoclaving before use.<\/li><li style = \"counter-reset:ol0;\">Phosphate buffer saline(PBS;1X): pH 7.2, 0.22 \u00b5m filter sterilized.<\/li><li style = \"counter-reset:ol0;\"><\/li><li style = \"counter-reset:ol0;\"><span style = \":UNDERLINE;\">4. Measurement of microbiome composition and diversity<\/span><\/li><li style = \"counter-reset:ol0;\">PCR primers<\/li><li style = \"counter-reset:ol0;\">Silica beads (0.1 mm): for mechanical lysis of bacterial cells by bead-beating prior to DNA isolation. Sterilize by autoclaving before use.<\/li><li style = \"counter-reset:ol0;\">96-well PCR plates: for use in Proteinase K treatments during microbiome DNA extraction and PCR amplifications.<\/li><li style = \"counter-reset:ol0;\">PCR master mix <\/li><li style = \"counter-reset:ol0;\">Agarose gel electrophoresis supplies<\/li><li style = \"counter-reset:ol0;\">Low melt agarose powder<\/li><li style = \"counter-reset:ol0;\">TAE buffer (40 mM Tris-acetate, 1 mM EDTA)<\/li><li style = \"counter-reset:ol0;\">1Kb ladder (NEB)<\/li><li style = \"counter-reset:ol0;\">Gel loading dye (NEB)<\/li><li style = \"counter-reset:ol0;\">PCR purification kit: Removes primers, nucleotides, enzymes and other impurities from PCR product before sequencing.<\/li><li style = \"counter-reset:ol0;\"><\/li><li style = \"counter-reset:ol0;\"><span style = \":UNDERLINE;\">5. Equipment<\/span><\/li><li style = \"counter-reset:ol0;\">Multiple channel pipette: 12 channel pipettes (1000ul and 200ul) are commonly used in the assay to dispense liquid reagentsand transfer volumes between plates.<\/li><li style = \"counter-reset:ol0;\">Plate reader: for assessment of optical density (OD) in 96 well clear flat bottom plates.<\/li><li style = \"counter-reset:ol0;\">PCR thermocycler: for use in Proteinase K treatment during microbiome DNA extraction and generation of 16S rRNA gene amplicon libraries.<\/li><li style = \"counter-reset:ol0;\">Mixer mill: for use in lysis of animals and microbial cells by bead-beating (Retsch MM400).<\/li><li style = \"counter-reset:ol0;\">Microplate aspiration manifold: for use in rapid removal of supernatants during wash steps (VP1171A V&P scientific).<\/li><\/ol><\/div><br\/><div class = \"text-block\"><span style = \":UNDERLINE;\">4. Measurement of microbiome composition and diversity<\/span><\/div><div class = \"text-block\"><ol style = \"list-style-type: decimal;\"><li style = \"counter-reset:ol0;\">PCR primers<\/li><li style = \"counter-reset:ol0;\">Silica beads (0.1 mm): for mechanical lysis of bacterial cells by bead-beating prior to DNA isolation. Sterilize by autoclaving before use.<\/li><li style = \"counter-reset:ol0;\">96-well PCR plates: for use in Proteinase K treatments during microbiome DNA extraction and PCR amplifications.<\/li><li style = \"counter-reset:ol0;\">PCR master mix <\/li><li style = \"counter-reset:ol0;\">Agarose gel electrophoresis supplies<\/li><li style = \"counter-reset:ol0;\">Low melt agarose powder<\/li><li style = \"counter-reset:ol0;\">TAE buffer (40 mM Tris-acetate, 1 mM EDTA)<\/li><li style = \"counter-reset:ol0;\">1Kb ladder (NEB)<\/li><li style = \"counter-reset:ol0;\">Gel loading dye (NEB)<\/li><li style = \"counter-reset:ol0;\">PCR purification kit: Removes primers, nucleotides, enzymes and other impurities from PCR product before sequencing.<\/li><li style = \"counter-reset:ol0;\"><\/li><li style = \"counter-reset:ol0;\"><span style = \":UNDERLINE;\">5. Equipment<\/span><\/li><li style = \"counter-reset:ol0;\">Multiple channel pipette: 12 channel pipettes (1000ul and 200ul) are commonly used in the assay to dispense liquid reagentsand transfer volumes between plates.<\/li><li style = \"counter-reset:ol0;\">Plate reader: for assessment of optical density (OD) in 96 well clear flat bottom plates.<\/li><li style = \"counter-reset:ol0;\">PCR thermocycler: for use in Proteinase K treatment during microbiome DNA extraction and generation of 16S rRNA gene amplicon libraries.<\/li><li style = \"counter-reset:ol0;\">Mixer mill: for use in lysis of animals and microbial cells by bead-beating (Retsch MM400).<\/li><li style = \"counter-reset:ol0;\">Microplate aspiration manifold: for use in rapid removal of supernatants during wash steps (VP1171A V&P scientific).<\/li><\/ol><\/div><br\/><div class = \"text-block\"><span style = \":UNDERLINE;\">5. Equipment<\/span><\/div><div class = \"text-block\"><ol style = \"list-style-type: decimal;\"><li style = \"counter-reset:ol0;\">Multiple channel pipette: 12 channel pipettes (1000ul and 200ul) are commonly used in the assay to dispense liquid reagentsand transfer volumes between plates.<\/li><li style = \"counter-reset:ol0;\">Plate reader: for assessment of optical density (OD) in 96 well clear flat bottom plates.<\/li><li style = \"counter-reset:ol0;\">PCR thermocycler: for use in Proteinase K treatment during microbiome DNA extraction and generation of 16S rRNA gene amplicon libraries.<\/li><li style = \"counter-reset:ol0;\">Mixer mill: for use in lysis of animals and microbial cells by bead-beating (Retsch MM400).<\/li><li style = \"counter-reset:ol0;\">Microplate aspiration manifold: for use in rapid removal of supernatants during wash steps (VP1171A V&P scientific).<\/li><\/ol><\/div><\/div>"
+}
