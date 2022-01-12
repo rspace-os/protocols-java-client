@@ -8,7 +8,7 @@ import lombok.EqualsAndHashCode;
 public class PIOFileComponent extends PIOStepComponent {
 
     public PIOFileComponent() {
-        super(TypeConstants.DESCRIPTION);
+        super(TypeConstants.FILE);
     }
 
     private PIOFileComponentType source;
