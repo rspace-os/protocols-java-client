@@ -8,6 +8,7 @@ public class PIOFileComponentType {
 
     private String source;
     private String placeholder;
+    @JsonProperty(value= "original_name")
     private String originalName;
 
 }

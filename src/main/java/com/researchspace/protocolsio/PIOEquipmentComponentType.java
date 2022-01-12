@@ -1,5 +1,6 @@
 package com.researchspace.protocolsio;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 import java.net.URL;
@@ -10,6 +11,7 @@ public class PIOEquipmentComponentType {
     private String brand;
     private String sku;
     private String specifications;
+    @JsonProperty(value = "can_edit")
     private boolean canEdit;
     private String name;
     private String type;
