@@ -3,6 +3,7 @@ package com.researchspace.protocolsio;
 
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.io.File;
@@ -19,7 +20,7 @@ import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class TestP_io {
+public class PIOComponentParsingTest {
 	File p8163 = new File("src/test/resources/p_io_8163.json");
 	File titleComponent = new File("src/test/resources/titleComponent.json");
 	File commentComponent = new File("src/test/resources/commentComponent.json");
@@ -29,32 +30,26 @@ public class TestP_io {
 	File unknownComponent = new File("src/test/resources/unknown_component_id.json");
 	File equipmentComponent = new File("src/test/resources/equipmentComponent.json");
 	File fileComponent = new File("src/test/resources/fileComponent.json");
-
-	@BeforeEach
-	public void setUp() throws Exception {
-	}
-
-	@AfterEach
-	public void tearDown() throws Exception {
-	}
+	File documentsComponent = new File("src/test/resources/documentsComponent.json");
+	File shakerComponent = new File("src/test/resources/shakerComponent.json");
 
 	@Test
 	@DisplayName("Loads protocol 8163")
 	public void testProtocol_8163() throws IOException {
 		String json = readFile(p8163);
 		Protocol p = parseJson(json, Protocol.class);
-		System.err.println(p.getId());
+		assertNotNull(p.getId());
 	}
 
 	@Test
 	public void testProtocolComponent() throws IOException {
 		String json = readFile(protocolComponent);
-		ProtocolComponent title = parseJson(json, ProtocolComponent.class);
-
+		ProtocolComponent protocolComponent = parseJson(json, ProtocolComponent.class);
+		assertNotNull(protocolComponent.getId());
 	}
 
 	@Test
-	@DisplayName("Loads  a title object")
+	@DisplayName("Loads a title object")
 	public void testTitle() throws IOException {
 		String json = readFile(titleComponent);
 		PIOTitleComponent title = parseJson(json, PIOTitleComponent.class);
@@ -62,7 +57,7 @@ public class TestP_io {
 	}
 
 	@Test
-	@DisplayName("Loads  a Reagent object")
+	@DisplayName("Loads a Reagent object")
 	public void loadReagent() throws IOException {
 		var json = readFile(reagentComponent);
 		PIOReagent reagentComponent = parseJson(json, PIOReagent.class);
@@ -70,7 +65,7 @@ public class TestP_io {
 	}
 
 	@Test
-	@DisplayName("Loads  a Comment object")
+	@DisplayName("Loads a Comment object")
 	public void testComments() throws IOException {
 		String json = readFile(commentComponent);
 		PIOCommentComponent comment = parseJson(json, PIOCommentComponent.class);
@@ -88,7 +83,7 @@ public class TestP_io {
 
 	@Test
 	@DisplayName("Handles unknown component types")
-	public void unknownStepComponent() throws IOException {
+	public void unknownStepComponentTest() throws IOException {
 		String json = readFile(unknownComponent);
 		Protocol protocol = parseJson(json, Protocol.class);
 		PIOStep eightStep =  protocol.getSteps().get(8);
@@ -98,7 +93,7 @@ public class TestP_io {
 
 	@Test
 	@DisplayName("Handles equipment component types")
-	public void equipmentStepComponent() throws IOException {
+	public void equipmentStepComponentTest() throws IOException {
 		String json = readFile(equipmentComponent);
 		Protocol protocol = parseJson(json, Protocol.class);
 		PIOStep stepFour =  protocol.getSteps().get(2);
@@ -108,12 +103,32 @@ public class TestP_io {
 
 	@Test
 	@DisplayName("Handles file component types")
-	public void fileStepComponent() throws IOException {
+	public void fileStepComponentTest() throws IOException {
 		String json = readFile(fileComponent);
 		Protocol protocol = parseJson(json, Protocol.class);
 		PIOStep firstStep =  protocol.getSteps().get(0);
 		PIOStepComponent fileComponent = firstStep.getComponents().get(2);
 		assertEquals("file", fileComponent.getTitle());
+	}
+
+	@Test
+	@DisplayName("Handles documents component types")
+	public void documentsStepComponentTest() throws IOException {
+		String json = readFile(documentsComponent);
+		Protocol protocol = parseJson(json, Protocol.class);
+		PIOStep stepEight =  protocol.getSteps().get(7);
+		PIOStepComponent documentsStep = stepEight.getComponents().get(2);
+		assertEquals("documents", documentsStep.getTitle());
+	}
+
+	@Test
+	@DisplayName("Handles shaker component types")
+	public void shakerStepComponent() throws IOException {
+		String json = readFile(shakerComponent);
+		Protocol protocol = parseJson(json, Protocol.class);
+		PIOStep stepThree =  protocol.getSteps().get(2);
+		PIOStepComponent shakerComponent = stepThree.getComponents().get(4);
+		assertEquals("shaker", shakerComponent.getTitle());
 	}
 
 	private String readFile(File jsonFile) throws IOException {

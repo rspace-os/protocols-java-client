@@ -1,29 +1,23 @@
 {
-  "id": 1054727,
-  "guid": "867E05438E6B4807A0733FA895A04610",
-  "order_id": 4,
-  "type_id": 27,
-  "title": "documents",
-  "source": {
-    "id": 33448,
-    "title": "SOP Appendix for Thymus ",
-    "title_html": "<p>SOP Appendix for Thymus <\/p>",
+    "id": 31982,
+    "title": "Case Processing SOP for Lymph Nodes ",
+    "title_html": "<p>Case Processing SOP for Lymph Nodes </p>",
     "image": {
-      "source": "https://s3.amazonaws.com/protocols-files/public/e90837a0e9b37dfcf040610f7967b4db34b647e9d5bb2f83107f3e53bc6fb8ca/bwxd9rce.png",
-      "placeholder": "https://s3.amazonaws.com/protocols-files/public/e90837a0e9b37dfcf040610f7967b4db34b647e9d5bb2f83107f3e53bc6fb8ca/bwxd9rce.png"
+      "source": "https://www.protocols.io/img/default_protocol.png",
+      "placeholder": "https://www.protocols.io/img/default_protocol.png"
     },
-    "doi": "dx.doi.org/10.17504/protocols.io.bcwgixbw",
+    "doi": "dx.doi.org/10.17504/protocols.io.bbgnijve",
     "doi_status": 2,
-    "uri": "sop-appendix-for-thymus-bcwgixbw",
-    "type_id": 4,
-    "template_id": 3,
-    "published_on": 1582557485,
+    "uri": "case-processing-sop-for-lymph-nodes-bbgnijve",
+    "type_id": 1,
+    "template_id": 1,
+    "published_on": 1582828741,
     "stats": {
-      "number_of_views": 0,
-      "number_of_steps": 1,
+      "number_of_views": 207,
+      "number_of_steps": 8,
       "number_of_bookmarks": 0,
       "number_of_comments": 0,
-      "number_of_exports": 0,
+      "number_of_exports": 233,
       "number_of_runs": 0,
       "number_of_votes": 0,
       "is_voted": 0
@@ -31,16 +25,16 @@
     "parent_protocols": [],
     "parent_collections": [],
     "cited_protocols": [],
-    "version_id": 1,
+    "version_id": 0,
     "version_data": {
-      "id": 1,
-      "code": "bcwgixbw",
-      "parent_id": 31980,
-      "parent_uri": "sop-appendix-for-thymus-bbgkijuw",
+      "id": 0,
+      "code": "bbgnijve",
+      "parent_id": 0,
+      "parent_uri": null,
       "has_pending_merge_request": 0,
       "has_approved_merge_request": 0
     },
-    "created_on": 1582557006,
+    "created_on": 1579203587,
     "modified_on": null,
     "categories": null,
     "public": 1,
@@ -68,30 +62,11 @@
     "journal_name": null,
     "journal_link": null,
     "article_citation": null,
-    "has_versions": 1,
+    "has_versions": 0,
     "link": null,
     "total_collections": 0,
-    "number_of_steps": 1,
+    "number_of_steps": 8,
     "authors": [
-      {
-        "name": "Franchesca Farris",
-        "affiliation": "University of Florida",
-        "affiliations": [],
-        "username": "franchesca-farris",
-        "note": null,
-        "link": null,
-        "image": {
-          "source": "/img/avatars/016.png",
-          "placeholder": "/img/avatars/016.png"
-        },
-        "badges": [],
-        "verified": 1,
-        "is_verified_user": true,
-        "research_interests": null,
-        "blocked_by_you": false,
-        "blocked_you": false,
-        "hide_following": false
-      },
       {
         "name": "Marda  Jorgensen",
         "affiliation": "University of Florida",
@@ -110,140 +85,28 @@
         "blocked_by_you": false,
         "blocked_you": false,
         "hide_following": false
-      }
-    ],
-    "versions": [
-      {
-        "id": 31980,
-        "title": "SOP Appendix for Thymus ",
-        "title_html": "<p>SOP Appendix for Thymus <\/p>",
-        "image": {
-          "source": "https://s3.amazonaws.com/protocols-files/public/e90837a0e9b37dfcf040610f7967b4db34b647e9d5bb2f83107f3e53bc6fb8ca/bwxd9rce.png",
-          "placeholder": "https://s3.amazonaws.com/protocols-files/public/e90837a0e9b37dfcf040610f7967b4db34b647e9d5bb2f83107f3e53bc6fb8ca/bwxd9rce.png"
-        },
-        "doi": null,
-        "doi_status": 0,
-        "uri": "sop-appendix-for-thymus-bbgkijuw",
-        "type_id": 0,
-        "template_id": 0,
-        "published_on": 1579202839,
-        "stats": {
-          "number_of_views": 0,
-          "number_of_steps": 0,
-          "number_of_bookmarks": 0,
-          "number_of_comments": 0,
-          "number_of_exports": 0,
-          "number_of_runs": 0,
-          "number_of_votes": 0,
-          "is_voted": 0
-        },
-        "parent_protocols": [],
-        "parent_collections": [],
-        "cited_protocols": [],
-        "version_id": 0,
-        "version_data": {
-          "id": 0,
-          "code": "bbgkijuw",
-          "parent_id": 0,
-          "parent_uri": null,
-          "has_pending_merge_request": 0,
-          "has_approved_merge_request": 0
-        },
-        "created_on": 1579200383,
-        "modified_on": 1579202839,
-        "categories": null,
-        "public": 1,
-        "is_unlisted": 0,
-        "creator": {
-          "name": " ",
-          "affiliation": null,
-          "affiliations": [],
-          "username": null,
-          "note": null,
-          "link": null,
-          "image": {
-            "source": null,
-            "placeholder": null
-          },
-          "badges": [],
-          "verified": 0,
-          "is_verified_user": false,
-          "research_interests": null,
-          "blocked_by_you": false,
-          "blocked_you": false,
-          "hide_following": false
-        },
-        "journal": null,
-        "journal_name": null,
-        "journal_link": null,
-        "article_citation": null
       },
       {
-        "id": 33448,
-        "title": "SOP Appendix for Thymus ",
-        "title_html": "<p>SOP Appendix for Thymus <\/p>",
+        "name": "Jerelyn Nick",
+        "affiliation": "University of Florida",
+        "affiliations": [],
+        "username": "jerelyn-nick",
+        "note": null,
+        "link": null,
         "image": {
-          "source": "https://s3.amazonaws.com/protocols-files/public/e90837a0e9b37dfcf040610f7967b4db34b647e9d5bb2f83107f3e53bc6fb8ca/bwxd9rce.png",
-          "placeholder": "https://s3.amazonaws.com/protocols-files/public/e90837a0e9b37dfcf040610f7967b4db34b647e9d5bb2f83107f3e53bc6fb8ca/bwxd9rce.png"
+          "source": "/img/avatars/009.png",
+          "placeholder": "/img/avatars/009.png"
         },
-        "doi": null,
-        "doi_status": 0,
-        "uri": "sop-appendix-for-thymus-bcwgixbw",
-        "type_id": 0,
-        "template_id": 0,
-        "published_on": 1582557485,
-        "stats": {
-          "number_of_views": 0,
-          "number_of_steps": 0,
-          "number_of_bookmarks": 0,
-          "number_of_comments": 0,
-          "number_of_exports": 0,
-          "number_of_runs": 0,
-          "number_of_votes": 0,
-          "is_voted": 0
-        },
-        "parent_protocols": [],
-        "parent_collections": [],
-        "cited_protocols": [],
-        "version_id": 1,
-        "version_data": {
-          "id": 1,
-          "code": "bcwgixbw",
-          "parent_id": 31980,
-          "parent_uri": null,
-          "has_pending_merge_request": 0,
-          "has_approved_merge_request": 0
-        },
-        "created_on": 1582557006,
-        "modified_on": 1601654433,
-        "categories": null,
-        "public": 1,
-        "is_unlisted": 0,
-        "creator": {
-          "name": " ",
-          "affiliation": null,
-          "affiliations": [],
-          "username": null,
-          "note": null,
-          "link": null,
-          "image": {
-            "source": null,
-            "placeholder": null
-          },
-          "badges": [],
-          "verified": 0,
-          "is_verified_user": false,
-          "research_interests": null,
-          "blocked_by_you": false,
-          "blocked_you": false,
-          "hide_following": false
-        },
-        "journal": null,
-        "journal_name": null,
-        "journal_link": null,
-        "article_citation": null
+        "badges": [],
+        "verified": 1,
+        "is_verified_user": true,
+        "research_interests": null,
+        "blocked_by_you": false,
+        "blocked_you": false,
+        "hide_following": false
       }
     ],
+    "versions": [],
     "groups": [
       {
         "id": 1314,
@@ -254,9 +117,9 @@
           "placeholder": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg"
         },
         "tech_support": {
-          "email": null,
+          "email": "Jeff.spraggins@vanderbilt.edu",
           "phone": null,
-          "hide_contact": 0,
+          "hide_contact": 1,
           "use_email": 0,
           "url": null
         },
@@ -270,9 +133,9 @@
             "placeholder": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg"
           },
           "tech_support": {
-            "email": null,
+            "email": "Jeff.spraggins@vanderbilt.edu",
             "phone": null,
-            "hide_contact": 0,
+            "hide_contact": 1,
             "use_email": 0,
             "url": null
           },
@@ -283,7 +146,7 @@
           "location": null,
           "affiliation": null,
           "status": {
-            "is_visible": false,
+            "is_visible": true,
             "access_level": 0
           },
           "stats": {
@@ -296,7 +159,7 @@
           },
           "user_status": {
             "is_member": false,
-            "is_confirmed": false,
+            "is_confirmed": true,
             "is_invited": false,
             "is_owner": false,
             "is_admin": false,
@@ -312,8 +175,8 @@
             "note": null,
             "link": null,
             "image": {
-              "source": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg",
-              "placeholder": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg"
+              "source": null,
+              "placeholder": null
             },
             "badges": [],
             "verified": 0,
@@ -327,7 +190,7 @@
           "is_group_requested": 0,
           "is_my": false,
           "is_request": false,
-          "is_confirmed": 0,
+          "is_confirmed": 1,
           "is_declined": 0,
           "requester": {
             "name": " ",
@@ -337,17 +200,17 @@
             "link": null
           },
           "protocol": {
-            "id": 1314,
-            "title": "Human BioMolecular Atlas Program (HuBMAP) Method Development Community",
-            "title_html": null,
+            "id": 0,
+            "title": "Case Processing SOP for Lymph Nodes ",
+            "title_html": "Case Processing SOP for Lymph Nodes ",
             "image": {
-              "source": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg",
-              "placeholder": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg"
+              "source": null,
+              "placeholder": null
             },
             "doi": null,
             "doi_status": 0,
-            "uri": "human-biomolecular-atlas-program-hubmap-method-development",
-            "type_id": 0,
+            "uri": "case-processing-sop-for-lymph-nodes-bbgnijve",
+            "type_id": 1,
             "template_id": 0,
             "published_on": null,
             "stats": {
@@ -364,7 +227,7 @@
             "parent_collections": [],
             "cited_protocols": []
           },
-          "created_on": 0,
+          "created_on": 1582828741,
           "resolve_on": 0,
           "resolved_user": {
             "name": " ",
@@ -398,7 +261,7 @@
     "can_be_copied": 0,
     "can_remove_fork": 1,
     "fork_id": null,
-    "url": "https://www.protocols.io/view/sop-appendix-for-thymus-bcwgixbw",
+    "url": "https://www.protocols.io/view/case-processing-sop-for-lymph-nodes-bbgnijve",
     "forks_count": {
       "private": 0,
       "public": 0
@@ -417,12 +280,616 @@
       "can_download": 1,
       "is_locked": 0
     },
-    "guid": "867E05438E6B4807A0733FA895A04610",
-    "state_version_id": 2,
-    "steps": [],
-    "document": "{\"blocks\":[{\"data\":[],\"depth\":0,\"entityRanges\":[],\"inlineStyleRanges\":[],\"key\":\"3dgjv\",\"text\":\" \",\"type\":\"unstyled\"},{\"data\":[],\"depth\":0,\"entityRanges\":[{\"key\":0,\"length\":1,\"offset\":0}],\"inlineStyleRanges\":[],\"key\":\"ceb2u\",\"text\":\"  \",\"type\":\"unstyled\"},{\"data\":[],\"depth\":0,\"entityRanges\":[],\"inlineStyleRanges\":[],\"key\":\"8i5vt\",\"text\":\"\",\"type\":\"unstyled\"}],\"entityMap\":[{\"type\":\"image\",\"data\":{\"guid\":\"AD4C6CC0571811EA98E1A50EC5B5497C\",\"height\":532,\"id\":56459,\"is_video\":false,\"legend\":\"\",\"mime\":\"image\\/png\",\"nestedSelector\":null,\"original_name\":\"SOP Thymus Image.png\",\"placeholder\":\"https:\\/\\/s3.amazonaws.com\\/protocols-files\\/public\\/e90837a0e9b37dfcf040610f7967b4db34b647e9d5bb2f83107f3e53bc6fb8ca\\/bzem9rce.png\",\"shadow\":false,\"source\":\"https:\\/\\/s3.amazonaws.com\\/protocols-files\\/public\\/e90837a0e9b37dfcf040610f7967b4db34b647e9d5bb2f83107f3e53bc6fb8ca\\/bzem9rce.png\",\"width\":550}}]}",
+    "guid": "BC2D6450389711EA901F234CE243FFFE",
+    "state_version_id": 641,
+    "steps": [
+      {
+        "id": 870481,
+        "guid": "884841D0389911EA901F234CE243FFFE",
+        "previous_id": null,
+        "previous_guid": null,
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "DC87764689754CBE9A100BD4499357C6",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": ""
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "105DD40F38DF4FA8BA239F0A574CF0A9",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">The tissues received will be identified as follows: Lymph Node (LN)</div></div>"
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 870482,
+        "guid": "94141FC0389911EA901F234CE243FFFE",
+        "previous_id": 870481,
+        "previous_guid": "884841D0389911EA901F234CE243FFFE",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "DB02CDF9DB97455483275A5E7D0413DF",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": ""
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "4CB7518499B4450B9D56A589D1B12D69",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Sample prepared from tissues will be identified using the following nomenclature, abbreviations, and formats: Formalin Fixed Paraffin Embedded---FFPE (paraffin block)</div><div class = \"text-block\">Formalin Fixed Frozen Embedded---Fixed OCT Block</div><div class = \"text-block\">Fresh Frozen Embedded---Fresh OCT Block </div><div class = \"text-block\">Fresh Tissue piece cut to size---Tissue (in 4% PFA or complete medium in 50 cc conical)</div></div>"
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 870483,
+        "guid": "9BDF5D00389911EA901F234CE243FFFE",
+        "previous_id": 870482,
+        "previous_guid": "94141FC0389911EA901F234CE243FFFE",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "A027FA77108341F2A57620144C9DAE8C",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": ""
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "9F2B1742682549628F4355B8D97363F9",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Case Number Assignment: HuBMAP donor tissues will be assigned case numbers adhering to the following template: two digit year identifier, hyphen, sequential 3 digit number beginning with 001. </div></div>"
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 870484,
+        "guid": "A376B900389911EA901F234CE243FFFE",
+        "previous_id": 870483,
+        "previous_guid": "9BDF5D00389911EA901F234CE243FFFE",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "AFBEDBE5D7024D9CB22ED008437B4E4B",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": ""
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "5AB68D394DBA4EFD925D4661280D73E3",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Labeling Samples: </div><div class = \"text-block\">    a. Cassettes for paraffin embedding and Fixed OCT block fixation step</div><div class = \"text-block\">        i. Generate label using cassette printer or print legibly in pencil</div><div class = \"text-block\">        ii. Line #1: Case ID + Sample type abbreviation </div><div class = \"text-block\">        iii. Line #2: fixative used</div><div class = \"text-block\">    b. Cryomolds for fixed or fresh frozen OCT blocks</div><div class = \"text-block\">        i. Print on mold legibly using permanent ink, apply printed label to bottom</div><div class = \"text-block\">        ii. Line #1 as for cassettes</div><div class = \"text-block\">        iii. Line #2 as for cassettes + FX if prepared to receive fixed frozen tissue</div><div class = \"text-block\">    c. Dishes, foil wraps and containers (culture, petri or conical)</div><div class = \"text-block\">        i. Print legibly using permanent ink or apply printed label</div><div class = \"text-block\">        ii. Case ID + Sample type abbreviation (Table 1)</div></div>"
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 870485,
+        "guid": "B112C310389911EA901F234CE243FFFE",
+        "previous_id": 870484,
+        "previous_guid": "A376B900389911EA901F234CE243FFFE",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "8F81F9F77F834CE3AEC034623B922878",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": ""
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "619F3EDE354A41EEBA6E7ADFE53DF643",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Processing Records: </div><div class = \"text-block\">    a. Tissue handling data will be recorded on the Case Worksheet form.</div><div class = \"text-block\">    b. Required fields during case processing include case identification, date received, any shipment or packaging anomalies, processing date and time (start and end), staff, tissues received, aliquot types and numbers, measurements and tissue quality notations.</div><div class = \"text-block\">    c. Photo documentation should be employed to verify harvests are in keeping with guidelines.</div></div>"
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 870486,
+        "guid": "B924A640389911EA901F234CE243FFFE",
+        "previous_id": 870485,
+        "previous_guid": "B112C310389911EA901F234CE243FFFE",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "D03E6D2EACA343BE95B2970D73F3E5A6",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": ""
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "205EC30B6BC64AEEA0FFC474EA49543F",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Tissue Dissection: </div><div class = \"text-block\">    a. Using sterile instruments, collect one lymph node of roughly 5 mm in size.</div><div class = \"text-block\">        i. Place in individual RNAse free, 1.5 ml cryotubes and flash freeze in liquid nitrogen. Store at -80C for Quality Control analysis.</div><br/><div class = \"text-block\">    b. Dissect individual LNs away from fat. Place each in a single well of a 24 well cluster dish containing ice cold 1X D-PBS  until collection of all lymph nodes is completed. </div><div class = \"text-block\">        i. A minimum of twelve lymph nodes (or pieces) are required for a complete harvest. </div><div class = \"text-block\">        ii. D-PBS volume should completely cover the lymph nodes</div><br/><div class = \"text-block\">    c. Remove any residual fat or connective tissues from each LN. Measure circumference using grid provided on dissection board and record size. Lymph nodes larger than 7 mm can be bisected if needed.</div><div class = \"text-block\">         i. Photo document. </div><div style = \"text-align :; float : ;\"><img style = \"\" src = \"https://s3.amazonaws.com/protocols-files/public/a0c10c37b52cf6183976da1c5d7dca79a399e980e833f43795570be378a73b69/bzkd8u96.png\" /></div><br/><div class = \"text-block\">    d. Assign lymph nodes to the various applications/fixations and record on worksheet.</div><br/><div class = \"text-block\">    e. Cassette tissue for three paraffin blocks using two medium LNs or three small LNs. Tissue must fit in a maximum area of 1 cm x 1 cm. </div><div class = \"text-block\">    i. Place two cassettes into a container of NBF, the other into 4% PFA, as designated on the cassette labels. The NBF cassettes are reserved for Imaging Mass Cytometry and CODEX modalities. </div><div class = \"text-block\">        Use a fixative volume of at least 20 mls per cassette added.</div><div class = \"text-block\">         *cassettes are moved to 70% ethanol at 20-24 hours of fixation, and will be processed within 3 days.</div><br/><div class = \"text-block\">    f. Fix tissue for one fixed frozen OCT block using one to two medium LNs or three small LNs . Place (in a labeled cassette) into a container of 4% PFA. Use a fixative volume of at least 20 mls per cassette added. </div><div class = \"text-block\">    i. Complete processing and embedding following SOP:</div><br/><div class = \"text-block\"><a href=\"https://dx.doi.org/10.17504/protocols.io.basniede\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\">https://dx.doi.org/10.17504/protocols.io.basniede</span></a></div><br/><div class = \"text-block\">   g. Make one fresh frozen OCT block from one medium LN or several small LNs. Quickly blot excess moisture on a clean kimwipe or gauze and submerge tissue into an OCT filled labeled cryomold. </div><div class = \"text-block\">    ii. Complete processing and embedding following SOP: </div><br/><div class = \"text-block\"><a href=\"https://dx.doi.org/10.17504/protocols.io.bcwsixee\" style = \"text-decoration:underline;color:blue;cursor:pointer;\"><span style = \":;\">https://dx.doi.org/10.17504/protocols.io.bcwsixee</span></a></div><div class = \"text-block\">        Hold and transport prepared blocks on dry ice. </div><br/><div class = \"text-block\">    h. Place 3 three LNs into labeled cassettes and emmerse in 4% PFA for use in CLARITY analysis. Use a ratio of at least 20 volumes of fixative to volume of tissue. Fix tissue for 20-24 hours at room temperature with gentle agitation.</div><div class = \"text-block\">         * Tissue will be transferred into hydrogel solution and incubated 5 days at 4C on a rocking platform.</div><br/><div class = \"text-block\">    i. Obtain three LN to be used for 10x analysis. </div><div class = \"text-block\">        i. If 8mm or larger in size, mince the tissue into small (5 x 5 mm) pieces. Transfer each lymph node into a 50 ml tubes containing 25 ml complete DMEM/F12 media. Store tissue at 4C until released for use or further isolation.</div><br/><div class = \"text-block\">    j. If the tissue is selected to be used for collaboration projects indicate protocol B on the worksheet. </div><div class = \"text-block\">        i. Perform protocols as provided by the requesting lab(s).</div><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "594F398D140C4853A7B2F14A33DFB5B3",
+            "order_id": 2,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div style = \"text-align :; float : ;\"><img style = \"\" src = \"https://s3.amazonaws.com/protocols-files/public/a0c10c37b52cf6183976da1c5d7dca79a399e980e833f43795570be378a73b69/bzkd8u96.png\" /></div>"
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 870487,
+        "guid": "44FFF460389C11EA901F234CE243FFFE",
+        "previous_id": 870486,
+        "previous_guid": "B924A640389911EA901F234CE243FFFE",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "67216AFC6CFF4AC2B6E6C27D1C7FC695",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": ""
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "88DD6B3A32404F90AFC95D6C6C7F55A0",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Sample Archiving: </div><div class = \"text-block\">    a. All materials obtained for this program will be inventoried by the University of Florida Tissue Mapping Center (UF TMC) and archived in the Organ Processing and Pathology Core (OPPC) until use.</div><div class = \"text-block\">    b. Samples will be released for use or shipped to collaborator(s) upon request by the Principle Investigator.</div></div>"
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      },
+      {
+        "id": 888964,
+        "guid": "33EDEC00598E11EA8E15E55EB980F325",
+        "previous_id": 870487,
+        "previous_guid": "44FFF460389C11EA901F234CE243FFFE",
+        "modified_on": 0,
+        "protocol_id": 0,
+        "components": [
+          {
+            "id": 1054723,
+            "guid": "ED0354828A5B4A8DAA478F7D3F007383",
+            "order_id": 1,
+            "type_id": 6,
+            "title": "Section",
+            "source": {
+              "title": ""
+            }
+          },
+          {
+            "id": 1054724,
+            "guid": "B6FB8F1341FD41AE865817C64979EF66",
+            "order_id": 1,
+            "type_id": 1,
+            "title": "description",
+            "source": {
+              "description": "<div class = \"text-blocks\"><div class = \"text-block\">Processing Worksheet for Lymph Nodes</div><br/><br/></div>"
+            }
+          },
+          {
+            "id": 1054725,
+            "guid": "CB4561B0573011EA9B94FDA277F0B874",
+            "order_id": 2,
+            "type_id": 27,
+            "title": "documents",
+            "source": {
+              "id": 33455,
+              "title": "SOP Appendix for Lymph Node",
+              "title_html": "<p>SOP Appendix for Lymph Node</p>",
+              "image": {
+                "source": "https://www.protocols.io/img/default_protocol.png",
+                "placeholder": "https://www.protocols.io/img/default_protocol.png"
+              },
+              "doi": "dx.doi.org/10.17504/protocols.io.bcwpixdn",
+              "doi_status": 2,
+              "uri": "sop-appendix-for-lymph-node-bcwpixdn",
+              "type_id": 4,
+              "template_id": 3,
+              "published_on": 1582567970,
+              "stats": {
+                "number_of_views": 0,
+                "number_of_steps": 0,
+                "number_of_bookmarks": 0,
+                "number_of_comments": 0,
+                "number_of_exports": 0,
+                "number_of_runs": 0,
+                "number_of_votes": 0,
+                "is_voted": 0
+              },
+              "parent_protocols": [],
+              "parent_collections": [],
+              "cited_protocols": [],
+              "version_id": 0,
+              "version_data": {
+                "id": 0,
+                "code": "bcwpixdn",
+                "parent_id": 0,
+                "parent_uri": null,
+                "has_pending_merge_request": 0,
+                "has_approved_merge_request": 0
+              },
+              "created_on": 1582567772,
+              "modified_on": null,
+              "categories": null,
+              "public": 1,
+              "is_unlisted": 0,
+              "creator": {
+                "name": " ",
+                "affiliation": null,
+                "affiliations": [],
+                "username": null,
+                "note": null,
+                "link": null,
+                "image": {
+                  "source": null,
+                  "placeholder": null
+                },
+                "badges": [],
+                "verified": 0,
+                "is_verified_user": false,
+                "research_interests": null,
+                "blocked_by_you": false,
+                "blocked_you": false,
+                "hide_following": false
+              },
+              "journal": null,
+              "journal_name": null,
+              "journal_link": null,
+              "article_citation": null,
+              "has_versions": 0,
+              "link": null,
+              "total_collections": 0,
+              "number_of_steps": 0,
+              "authors": [
+                {
+                  "name": "Marda  Jorgensen",
+                  "affiliation": "University of Florida",
+                  "affiliations": [],
+                  "username": "marda--jorgensen",
+                  "note": null,
+                  "link": null,
+                  "image": {
+                    "source": "/img/avatars/014.png",
+                    "placeholder": "/img/avatars/014.png"
+                  },
+                  "badges": [],
+                  "verified": 1,
+                  "is_verified_user": true,
+                  "research_interests": null,
+                  "blocked_by_you": false,
+                  "blocked_you": false,
+                  "hide_following": false
+                }
+              ],
+              "versions": [],
+              "groups": [
+                {
+                  "id": 1314,
+                  "uri": "human-biomolecular-atlas-program-hubmap-method-development",
+                  "title": "Human BioMolecular Atlas Program (HuBMAP) Method Development Community",
+                  "image": {
+                    "source": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg",
+                    "placeholder": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg"
+                  },
+                  "tech_support": {
+                    "email": null,
+                    "phone": null,
+                    "hide_contact": 0,
+                    "use_email": 0,
+                    "url": null
+                  },
+                  "is_member": 0,
+                  "request": {
+                    "id": 1314,
+                    "uri": "human-biomolecular-atlas-program-hubmap-method-development",
+                    "title": "Human BioMolecular Atlas Program (HuBMAP) Method Development Community",
+                    "image": {
+                      "source": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg",
+                      "placeholder": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg"
+                    },
+                    "tech_support": {
+                      "email": null,
+                      "phone": null,
+                      "hide_contact": 0,
+                      "use_email": 0,
+                      "url": null
+                    },
+                    "is_member": 0,
+                    "description": null,
+                    "research_interests": null,
+                    "website": null,
+                    "location": null,
+                    "affiliation": null,
+                    "status": {
+                      "is_visible": false,
+                      "access_level": 0
+                    },
+                    "stats": {
+                      "files": [],
+                      "total_members": 0,
+                      "total_followers": 0,
+                      "total_child_groups": 0,
+                      "total_parent_groups": 0,
+                      "has_collaborations": 0
+                    },
+                    "user_status": {
+                      "is_member": false,
+                      "is_confirmed": false,
+                      "is_invited": false,
+                      "is_owner": false,
+                      "is_admin": false,
+                      "is_following": false
+                    },
+                    "join_link": null,
+                    "token": null,
+                    "owner": {
+                      "name": " ",
+                      "affiliation": null,
+                      "affiliations": [],
+                      "username": null,
+                      "note": null,
+                      "link": null,
+                      "image": {
+                        "source": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg",
+                        "placeholder": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg"
+                      },
+                      "badges": [],
+                      "verified": 0,
+                      "is_verified_user": false,
+                      "research_interests": null,
+                      "blocked_by_you": false,
+                      "blocked_you": false,
+                      "hide_following": false
+                    },
+                    "is_protocol_requested": 0,
+                    "is_group_requested": 0,
+                    "is_my": false,
+                    "is_request": false,
+                    "is_confirmed": 0,
+                    "is_declined": 0,
+                    "requester": {
+                      "name": " ",
+                      "affiliation": null,
+                      "affiliation_url": null,
+                      "username": null,
+                      "link": null
+                    },
+                    "protocol": {
+                      "id": 1314,
+                      "title": "Human BioMolecular Atlas Program (HuBMAP) Method Development Community",
+                      "title_html": null,
+                      "image": {
+                        "source": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg",
+                        "placeholder": "https://s3.amazonaws.com/protocols-files/public/878566e39a791455c5de855eebb601e890d5871d93466a1c1252d979f3a8c48e/brha6bxe.jpg"
+                      },
+                      "doi": null,
+                      "doi_status": 0,
+                      "uri": "human-biomolecular-atlas-program-hubmap-method-development",
+                      "type_id": 0,
+                      "template_id": 0,
+                      "published_on": null,
+                      "stats": {
+                        "number_of_views": 0,
+                        "number_of_steps": 0,
+                        "number_of_bookmarks": 0,
+                        "number_of_comments": 0,
+                        "number_of_exports": 0,
+                        "number_of_runs": 0,
+                        "number_of_votes": 0,
+                        "is_voted": 0
+                      },
+                      "parent_protocols": [],
+                      "parent_collections": [],
+                      "cited_protocols": []
+                    },
+                    "created_on": 0,
+                    "resolve_on": 0,
+                    "resolved_user": {
+                      "name": " ",
+                      "affiliation": null,
+                      "affiliations": [],
+                      "username": null,
+                      "note": null,
+                      "link": null,
+                      "image": {
+                        "source": null,
+                        "placeholder": null
+                      },
+                      "badges": [],
+                      "verified": 0,
+                      "is_verified_user": false,
+                      "research_interests": null,
+                      "blocked_by_you": false,
+                      "blocked_you": false,
+                      "hide_following": false
+                    },
+                    "shared": false
+                  }
+                }
+              ],
+              "is_owner": 0,
+              "has_subprotocols": 0,
+              "is_subprotocol": 0,
+              "is_bookmarked": 0,
+              "can_claim_authorship": 1,
+              "can_accept_authorship": 0,
+              "can_be_copied": 0,
+              "can_remove_fork": 1,
+              "fork_id": null,
+              "url": "https://www.protocols.io/view/sop-appendix-for-lymph-node-bcwpixdn",
+              "forks_count": {
+                "private": 0,
+                "public": 0
+              },
+              "access": {
+                "can_view": 0,
+                "can_remove": 0,
+                "can_add": 0,
+                "can_edit": 0,
+                "can_publish": 0,
+                "can_get_doi": 0,
+                "can_share": 0,
+                "can_move": 0,
+                "can_move_outside": 0,
+                "can_transfer": 0,
+                "can_download": 1,
+                "is_locked": 0
+              },
+              "guid": "CB4561B0573011EA9B94FDA277F0B874",
+              "state_version_id": 18,
+              "steps": [],
+              "document": "{\"blocks\":[{\"data\":[],\"depth\":0,\"entityRanges\":[{\"key\":0,\"length\":1,\"offset\":0}],\"inlineStyleRanges\":[],\"key\":\"fl8dv\",\"text\":\"  \",\"type\":\"unstyled\"},{\"data\":[],\"depth\":0,\"entityRanges\":[],\"inlineStyleRanges\":[],\"key\":\"9t1ph\",\"text\":\"\",\"type\":\"unstyled\"}],\"entityMap\":[{\"type\":\"image\",\"data\":{\"guid\":\"2107BA30573111EA9B94FDA277F0B874\",\"height\":424,\"id\":56471,\"is_video\":false,\"legend\":\"\",\"mime\":\"image\\/png\",\"nestedSelector\":null,\"original_name\":\"SOP LN.png\",\"placeholder\":\"https:\\/\\/s3.amazonaws.com\\/protocols-files\\/public\\/a0c10c37b52cf6183976da1c5d7dca79a399e980e833f43795570be378a73b69\\/bzez8u96.png\",\"shadow\":false,\"source\":\"https:\\/\\/s3.amazonaws.com\\/protocols-files\\/public\\/a0c10c37b52cf6183976da1c5d7dca79a399e980e833f43795570be378a73b69\\/bzez8u96.png\",\"width\":550}}]}",
+              "materials": [],
+              "description": "{\"blocks\":[{\"data\":[],\"depth\":0,\"entityRanges\":[],\"inlineStyleRanges\":[],\"key\":\"flk9l\",\"text\":\"This is the appendix for lymph nodes.\",\"type\":\"unstyled\"}],\"entityMap\":[]}",
+              "changed_on": 1582567970
+            }
+          }
+        ],
+        "cases": [],
+        "data": null,
+        "html": null,
+        "section": null,
+        "section_color": "",
+        "section_duration": 0,
+        "critical": [],
+        "critical_id": null,
+        "duration": 0
+      }
+    ],
+    "document": null,
     "materials": [],
-    "description": "{\"blocks\":[{\"data\":[],\"depth\":0,\"entityRanges\":[],\"inlineStyleRanges\":[],\"key\":\"2v4q9\",\"text\":\"This is the appendix for the Thymus SOP. \",\"type\":\"unstyled\"}],\"entityMap\":[]}",
-    "changed_on": 1601654433
+    "description": "<div class = \"text-blocks\"><div class = \"text-block\">The purpose of this Standard Operating Procedure is to outline procedures for processing and storing lymph node tissue received for HuBMAP consortium assay and analysis. </div></div>",
+    "changed_on": 1601654427,
+    "guidelines": "<div class = \"text-blocks\"><div class = \"text-block\">This SOP will be applied to all human donor lymph node tissues received for use in HuBMAP applications.  </div><div class = \"text-block\">Responsibilities: Managers and supervisors are responsible for assuring that  technicians are properly trained and equipment and facility are  maintained in proper working order. Laboratory personnel are responsible for reading and understanding  this SOP and its related documents and to perform these tasks in  accordance with the SOP. They are also responsible for following  individual laboratory best practices and safeguards.</div></div>",
+    "before_start": "<div class = \"text-blocks\"><div class = \"text-block\">Prepare 4% Paraformaldehyde in 1xPBS, place 350ml in a lidded speciman container.</div><div class = \"text-block\">Place 350ml NBFin a lidded specimen container.</div><div class = \"text-block\">Half fill the wells of a 24 well cluster dish with cold D-PBS and hold on wet ice.</div><div class = \"text-block\">Have liquid nitrogen and dry ice/methylbutane slurry on hand.</div><div class = \"text-block\">Assemble prefered dissection tools, gauze wipes and prelabeled cassettes and molds in biosafety hood.</div><div class = \"text-block\">Nest a metal pan half filled with D-PBS in wet ice to contain the organ until dissection begins</div></div>",
+    "warning": "<div class = \"text-blocks\"><div class = \"text-block\">1. Use universal safety precautions when handling human samples and  employ personal protective equipment (e.g.,     face mask with shield,  gloves, lab coat or apron). </div><div class = \"text-block\">2. Perform dissection steps in a bio safety hood.</div><div class = \"text-block\">3. Follow chemical safety procedures and dispose of waste tissues in accordance with specific jurisdictional guidelines.</div><div class = \"text-block\">4. Handle sharps (e.g., scalpels, blades, glass) carefully and dispose of appropriately.</div><div class = \"text-block\">5. Dry ice and liquid nitrogen can cause freeze burns, handle carefully and use appropriate  gloves.</div><br/></div>",
+    "materials_text": "<div class = \"text-blocks\"><div class = \"text-block\">1. Sterile dissecting instruments (forceps, scissors, and scalpels)  </div><div class = \"text-block\">2. Dissection boards with grids, sterile gauze sponges/paper towels </div><div class = \"text-block\">3. Ruler in millimeters </div><div class = \"text-block\">4. Dissection matrix 1cm X 1cm (Electron Microscopy Sciences Cat. No. 69010) optional </div><div class = \"text-block\">5. Centrifuge tubes (50 ml) </div><div class = \"text-block\">6. Dulbecco’s Phosphate Buffered Saline (D-PBS), Mg2+ Ca2+ free (Invitrogen, Cat. No. 10010- 023), store at 4°C</div><div class = \"text-block\">7. Complete culture media (DMEM/F12 50/50 with L-Glutamine (Corning Cat.  No. 10-090-CV + 10% Fetal Bovine Serum (Corning, Cat. No. MT35016CV) +  1x Antimycotic/Antibiotic  </div><div class = \"text-block\">8. Uni-cassettes (Tissue-Tek®)  </div><div class = \"text-block\">9.Macro Cassettes (ThermoFisher) </div><div class = \"text-block\">10. 10% neutral buffered formalin (NBF) in specimen container  </div><div class = \"text-block\">11. O.C.T. ™ compound (Tissue-Tek®) and cryomolds, aluminum foil  </div><div class = \"text-block\">12. Pipettes and sterile filter tips (200 µl, 1000 µl)  </div><div class = \"text-block\">13. Serological pipets and pipet controller</div><div class = \"text-block\">14. 4% PFA (26ml d water + 4ml 10X PBS pH 7.4 without  Mg or Ca + 10ml  16% paraformaldehyde EMS cat# 15710 for every 40ml of total volume  needed) </div><div class = \"text-block\">15. Dry ice and ice bucket, 2-Methylbutane with dry ice in ice bucket and long forceps  </div><div class = \"text-block\">16. Liquid Nitrogen in dewar, freezer gloves </div><div class = \"text-block\">17. Permanent markers, pencils</div><div class = \"text-block\">18. Foil squares (5cm)</div><div class = \"text-block\">19. 70% ethanol </div><div class = \"text-block\">20. 30 % Clorox bleach (6% Sodium hypochlorite)  </div><div class = \"text-block\">21. Tissue waste container for formalin  </div><div class = \"text-block\">22. Sharps container </div><div class = \"text-block\">23. 24 well cluster dish </div><div class = \"text-block\">24. 4 compartment + micromesh cassette (simport scientific)</div><div class = \"text-block\">24. Cryomolds (Tissue-Tek) </div></div>"
   }
-}
