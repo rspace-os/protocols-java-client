@@ -14,27 +14,19 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 
-public class DisplayOrderOfComponentsTest {
-
-	@BeforeEach
-	public void setUp() throws Exception {
-	}
-
-	@AfterEach
-	public void tearDown() throws Exception {
-	}
+class DisplayOrderOfComponentsTest {
 
 	@Test
 	@DisplayName("PIOStepComponent.DisplayOrder puts title first")
-	public void displayOrder() {
+	void displayOrder() {
 		List<PIOStepComponent> parts = createComponentsList();
-		Collections.sort(parts, PIOStepComponent.DisplayOrder);
+		parts.sort(PIOStepComponent.DisplayOrder);
 		assertEquals(TypeConstants.TITLE, parts.get(0).getTypeId().intValue());
 	}
 
 	@Test
 	@DisplayName("title component is always first after ordering protocol")
-	public void orderProtocols() {
+	void orderProtocols() {
 		List<PIOStepComponent> parts = createComponentsList();
 		List<PIOStepComponent> part2 = createComponentsList();
 		Protocol p = new Protocol();
@@ -47,7 +39,7 @@ public class DisplayOrderOfComponentsTest {
 		steps.add(step2);
 		p.setSteps(steps);
 		p.orderComponents(PIOStepComponent.DisplayOrder);
-		p.getSteps().stream().forEach(step -> {
+		p.getSteps().forEach(step -> {
 			assertEquals(TypeConstants.TITLE, step.getComponents().get(0).getTypeId().intValue());
 		});
 
