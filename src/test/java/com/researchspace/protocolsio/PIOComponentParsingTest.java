@@ -20,7 +20,7 @@ import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class PIOComponentParsingTest {
+class PIOComponentParsingTest {
 	File p8163 = new File("src/test/resources/p_io_8163.json");
 	File titleComponent = new File("src/test/resources/titleComponent.json");
 	File commentComponent = new File("src/test/resources/commentComponent.json");
@@ -35,14 +35,14 @@ public class PIOComponentParsingTest {
 
 	@Test
 	@DisplayName("Loads protocol 8163")
-	public void testProtocol_8163() throws IOException {
+	void testProtocol_8163() throws IOException {
 		String json = readFile(p8163);
 		Protocol p = parseJson(json, Protocol.class);
 		assertNotNull(p.getId());
 	}
 
 	@Test
-	public void testProtocolComponent() throws IOException {
+	void testProtocolComponent() throws IOException {
 		String json = readFile(protocolComponent);
 		ProtocolComponent protocolComponent = parseJson(json, ProtocolComponent.class);
 		assertNotNull(protocolComponent.getId());
@@ -50,7 +50,7 @@ public class PIOComponentParsingTest {
 
 	@Test
 	@DisplayName("Loads a title object")
-	public void testTitle() throws IOException {
+	void testTitle() throws IOException {
 		String json = readFile(titleComponent);
 		PIOTitleComponent title = parseJson(json, PIOTitleComponent.class);
 		assertTrue(title.getSource().getTitle().contains("colorimetric"));
@@ -58,7 +58,7 @@ public class PIOComponentParsingTest {
 
 	@Test
 	@DisplayName("Loads a Reagent object")
-	public void loadReagent() throws IOException {
+	void loadReagent() throws IOException {
 		var json = readFile(reagentComponent);
 		PIOReagent reagentComponent = parseJson(json, PIOReagent.class);
 		assertEquals("biorbyt", reagentComponent.getVendor().getName());
@@ -66,7 +66,7 @@ public class PIOComponentParsingTest {
 
 	@Test
 	@DisplayName("Loads a Comment object")
-	public void testComments() throws IOException {
+	void testComments() throws IOException {
 		String json = readFile(commentComponent);
 		PIOCommentComponent comment = parseJson(json, PIOCommentComponent.class);
 		assertEquals(2, comment.getSource().getComments().size());
@@ -74,7 +74,7 @@ public class PIOComponentParsingTest {
 
 	@Test
 	@DisplayName("Loads all component types")
-	public void testAll() throws IOException {
+	void testAll() throws IOException {
 		String json = readFile(allComponent);
 		Protocol protocol = parseJson(json, Protocol.class);
 		assertEquals(18, protocol.getSteps().get(0).getComponents().size());
@@ -83,7 +83,7 @@ public class PIOComponentParsingTest {
 
 	@Test
 	@DisplayName("Handles unknown component types")
-	public void unknownStepComponentTest() throws IOException {
+	void unknownStepComponentTest() throws IOException {
 		String json = readFile(unknownComponent);
 		Protocol protocol = parseJson(json, Protocol.class);
 		PIOStep eightStep =  protocol.getSteps().get(8);
@@ -93,7 +93,7 @@ public class PIOComponentParsingTest {
 
 	@Test
 	@DisplayName("Handles equipment component types")
-	public void equipmentStepComponentTest() throws IOException {
+	void equipmentStepComponentTest() throws IOException {
 		String json = readFile(equipmentComponent);
 		Protocol protocol = parseJson(json, Protocol.class);
 		PIOStep stepFour =  protocol.getSteps().get(2);
@@ -103,7 +103,7 @@ public class PIOComponentParsingTest {
 
 	@Test
 	@DisplayName("Handles file component types")
-	public void fileStepComponentTest() throws IOException {
+	void fileStepComponentTest() throws IOException {
 		String json = readFile(fileComponent);
 		Protocol protocol = parseJson(json, Protocol.class);
 		PIOStep firstStep =  protocol.getSteps().get(0);
@@ -113,7 +113,7 @@ public class PIOComponentParsingTest {
 
 	@Test
 	@DisplayName("Handles documents component types")
-	public void documentsStepComponentTest() throws IOException {
+	void documentsStepComponentTest() throws IOException {
 		String json = readFile(documentsComponent);
 		Protocol protocol = parseJson(json, Protocol.class);
 		PIOStep stepEight =  protocol.getSteps().get(7);
@@ -123,7 +123,7 @@ public class PIOComponentParsingTest {
 
 	@Test
 	@DisplayName("Handles shaker component types")
-	public void shakerStepComponent() throws IOException {
+	void shakerStepComponent() throws IOException {
 		String json = readFile(shakerComponent);
 		Protocol protocol = parseJson(json, Protocol.class);
 		PIOStep stepThree =  protocol.getSteps().get(2);
