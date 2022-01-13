@@ -27,8 +27,10 @@ public class TypeConstants {
 	public static final int TEMPERATURE = 24;
 	public static final int CONCENTRATION = 25;
 	public static final int NOTE = 26;
+	public static final int DOCUMENTS = 27;
 	public static final int EQUIPMENT = 28;
 	public static final int UNKNOWN = 14;
 	public static final int CENTRIFUGE = 30;
+	public static final int SHAKER = 33;
 
 }
