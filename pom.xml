@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.researchspace</groupId>
-	<artifactId>protocolsio</artifactId>
+	<artifactId>protocolsio-rspac-2406</artifactId>
 	<version>1.0.4</version>
 	<name>Protocol.IO model</name>
 
