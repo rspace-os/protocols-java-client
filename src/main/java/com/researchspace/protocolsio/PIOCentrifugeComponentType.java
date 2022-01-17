@@ -3,7 +3,7 @@ package com.researchspace.protocolsio;
 import lombok.Data;
 
 @Data
-public class PIOCentrifugeComponentType {
+public class PIOCentrifugeComponentType extends PIOStepComponentType {
 
 	private double amount;
 	private int centrifuge, duration;

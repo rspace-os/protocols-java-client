@@ -6,7 +6,7 @@ import lombok.Data;
 import java.net.URL;
 
 @Data
-public class PIOEquipmentComponentType {
+public class PIOEquipmentComponentType extends PIOStepComponentType {
 
     private String brand;
     private String sku;

@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 @Data
-public class PIOFileComponentType {
+public class PIOFileComponentType extends PIOStepComponentType {
 
     private String source;
     private String placeholder;

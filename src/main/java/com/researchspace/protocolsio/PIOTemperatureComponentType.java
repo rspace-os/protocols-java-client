@@ -3,9 +3,9 @@ package com.researchspace.protocolsio;
 import lombok.Data;
 
 @Data
-public class PIOTemperatureComponentType {
+public class PIOTemperatureComponentType extends PIOStepComponentType {
 
 	private String unit, title;
-	private Integer temperature;
+	private Double temperature;
 
 }

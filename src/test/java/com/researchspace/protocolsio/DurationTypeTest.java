@@ -16,7 +16,7 @@ class DurationTypeTest {
 	@DisplayName("duration component formats millis to a time string")
 	void getDurationString() {
 		PIODurationComponentType duration = new PIODurationComponentType("incubate", 601);
-		assertEquals("10 minutes 1 second", duration.getDurationString());
+		assertEquals("10 minutes 1 second", duration.getDurationString(duration.getDuration()));
 	}
 
 }

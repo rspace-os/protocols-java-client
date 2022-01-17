@@ -11,8 +11,6 @@ import java.io.IOException;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import org.apache.commons.io.FileUtils;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -60,7 +58,7 @@ class PIOComponentParsingTest {
 	@DisplayName("Loads a Reagent object")
 	void loadReagent() throws IOException {
 		var json = readFile(reagentComponent);
-		PIOReagent reagentComponent = parseJson(json, PIOReagent.class);
+		PIOReagentComponentType reagentComponent = parseJson(json, PIOReagentComponentType.class);
 		assertEquals("biorbyt", reagentComponent.getVendor().getName());
 	}
 

@@ -3,9 +3,9 @@ package com.researchspace.protocolsio;
 import lombok.Data;
 
 @Data
-public class PIOConcentrationComponentType {
+public class PIOConcentrationComponentType extends PIOStepComponentType {
 
 	private String unit, title;
-	private Integer concentration;
+	private Double concentration;
 
 }

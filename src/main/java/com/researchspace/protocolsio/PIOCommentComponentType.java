@@ -7,7 +7,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 @Data
-public class PIOCommentComponentType {
+public class PIOCommentComponentType extends PIOStepComponentType {
 
 	private String title, body, uri;
 	private Integer id;

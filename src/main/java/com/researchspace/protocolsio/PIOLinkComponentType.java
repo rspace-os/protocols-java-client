@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 
-public class PIOLinkComponentType {
+public class PIOLinkComponentType extends PIOStepComponentType {
 
 	private String link;
 
