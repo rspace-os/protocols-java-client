@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 @Data
-public class PIOReagentComponentType extends PIOStepComponentType {
+public class PIOReagentComponentType {
 
 	private Integer id;
 	private String linfor, name, url, sku;

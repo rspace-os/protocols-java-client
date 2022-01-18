@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 @Data
-public class PIOGotoPreviousStepComponentType extends PIOStepComponentType {
+public class PIOGotoPreviousStepComponentType {
 
 	private String title;
 

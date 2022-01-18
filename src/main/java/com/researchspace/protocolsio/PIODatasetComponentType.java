@@ -3,7 +3,7 @@ package com.researchspace.protocolsio;
 import lombok.Data;
 
 @Data
-public class PIODatasetComponentType extends PIOStepComponentType{
+public class PIODatasetComponentType {
 
 	private String name, link;
 

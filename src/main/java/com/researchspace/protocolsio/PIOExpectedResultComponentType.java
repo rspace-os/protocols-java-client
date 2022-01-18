@@ -3,7 +3,7 @@ package com.researchspace.protocolsio;
 import lombok.Data;
 
 @Data
-public class PIOExpectedResultComponentType extends PIOStepComponentType {
+public class PIOExpectedResultComponentType {
 
 	private String body;
 
