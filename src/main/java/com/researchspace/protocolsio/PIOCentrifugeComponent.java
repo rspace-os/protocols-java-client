@@ -11,5 +11,6 @@ public class PIOCentrifugeComponent  extends  PIOStepComponent {
         super(TypeConstants.CENTRIFUGE);
     }
 
+    private PIOCentrifugeComponentType source;
 
 }

@@ -3,10 +3,12 @@ package com.researchspace.protocolsio;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.apache.commons.lang.time.DurationFormatUtils;
 
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 public class PIOShakerComponentType {
 
     // seconds
