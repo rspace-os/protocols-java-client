@@ -17,7 +17,7 @@ public class PIOTemperatureComponentType {
 	@JsonIgnore
 	public String getTemperatureString() {
 		StringBuilder result = new StringBuilder();
-		if(unit != null || !(unit.isEmpty())) {
+		if(unit != null && !(unit.isEmpty())) {
 			if(unit == "On ice" || unit == "Room temperature") {
 				result.append(unit);
 			} else {

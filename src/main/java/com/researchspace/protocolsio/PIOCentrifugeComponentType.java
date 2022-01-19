@@ -27,13 +27,13 @@ public class PIOCentrifugeComponentType {
 		StringBuilder result = new StringBuilder();
 
 		// PIO API has several unit numbers that correspond to various units
-		if(unit == 33) {
+		if(unit == PIOUnits.RPM) {
 			result.append(centrifuge).append(" rpm");
-		} else if(unit == 34) {
+		} else if(unit == PIOUnits.XG) {
 			result.append(centrifuge).append(" x g");
 		}
 
-		if(temperatureUnit == 10) {
+		if(temperatureUnit == PIOUnits.DEGREES_C) {
 			// temperature unit id 10 = °C
 			result.append(", ").append(temperature).append("°C");
 		}
