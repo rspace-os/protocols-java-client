@@ -16,15 +16,16 @@ public class PIODurationComponentType {
 	private String title;
 	private Integer duration;
 
+
 	/**
 	 * Gets the duration in words, e.g. '5 hours 30 minutes'
-	 * 
+	 *
 	 * @return
 	 */
 	@JsonIgnore
 	public String getDurationString() {
-		if (duration != null) {
-			return DurationFormatUtils.formatDurationWords(duration * 1000, true, true);
+		if (duration != 0) {
+			return DurationFormatUtils.formatDurationWords(duration * 1000L, true, true);
 		} else {
 			return "";
 		}

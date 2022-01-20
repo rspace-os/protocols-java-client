@@ -8,13 +8,14 @@ import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 @Data
 public class Protocol {
-	Integer id, has_versions;
+
+	private Integer id;
+	@JsonProperty(value = "has_versions")
+	private Integer hasVersions;
 
 	@JsonProperty("created_on")
 	private Long createdOn;
@@ -48,16 +49,30 @@ public class Protocol {
 
 	@JsonProperty("number_of_steps")
 	Integer numberOfSteps;
-	private String title, doi, uri, link, categories;
+
+	private String title;
+
+	private String doi;
+
+	private String uri;
+
+	private String link;
+
+	private String categories;
 
 	private Image image;
 
 	private PIOUser creator;
 
+	private String description;
+
+	@JsonProperty(value = "before_start")
+    private String beforeStart;
+
 	private List<SmallProtocol> versions;
 	private List<PIOUser> authors = new ArrayList<>();
 	private List<PIOStep> steps = new ArrayList<>();
-	private List<PIOReagent> materials = new ArrayList<>();
+	private List<PIOReagentComponentType> materials = new ArrayList<>();
 
 	/**
 	 * Order-in-place components in protocol steps according to the specified
@@ -66,6 +81,6 @@ public class Protocol {
 	 * @param comparator
 	 */
 	public void orderComponents(Comparator<PIOStepComponent> comparator) {
-		steps.stream().forEach(step -> Collections.sort(step.getComponents(), comparator));
+		steps.forEach(step -> step.getComponents().sort(comparator));
 	}
 }

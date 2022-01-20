@@ -10,5 +10,5 @@ public class PIOReagentComponent extends PIOStepComponent {
 		super(TypeConstants.REAGENT);
 	}
 
-	private PIOReagent source;
+	private PIOReagentComponentType source;
 }
