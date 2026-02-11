@@ -1,6 +1,6 @@
 package com.researchspace.protocolsio;
 
-import org.apache.commons.lang.time.DurationFormatUtils;
+import org.apache.commons.lang3.time.DurationFormatUtils;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
